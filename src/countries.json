@@ -1,0 +1,257 @@
+﻿[
+    {
+        "Key": "af",
+        "English": "Afghanistan",
+        "Local": "Afġānistān",
+        "OfficialStateName": "The Islamic Republic of Afghanistan",
+        "ISO2": "AF",
+        "ISO3": "AFG",
+        "Tld": "af",
+        "Languages": ["ps"],
+        "Currency": "AFN",
+        "Capital": "kabul",
+        "Size": 652230,
+        "Phone": "+93",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "ax",
+        "English": "Åland Islands",
+        "Local": "Åland",
+        "OfficialStateName": "Åland",
+        "ISO2": "AX",
+        "ISO3": "ALA",
+        "Tld": "ax",
+        "Languages": ["sv"],
+        "Currency": "EUR",
+        "Capital": "mariehamn",
+        "Size": 1580,
+        "Phone": "+358 18",
+        "Continent": "europe"
+    },
+
+    {
+        "Key": "al",
+        "English": "Albania",
+        "Local": "Shqipëria",
+        "OfficialStateName": "The Republic of Albania",
+        "ISO2": "AL",
+        "ISO3": "ALB",
+        "Tld": "al",
+        "Languages": ["sq"],
+        "Currency": "ALL",
+        "Capital": "tirana",
+        "Size": 28748,
+        "Phone": "+355",
+        "Continent": "europe"
+    },
+
+    {
+        "Key": "dz",
+        "English": "Algeria",
+        "Local": "Algeria",
+        "OfficialStateName": "The People's Democratic Republic of Algeria",
+        "ISO2": "DZ",
+        "ISO3": "DZA",
+        "Tld": "dz",
+        "Languages": ["ar"],
+        "Currency": "DZD",
+        "Capital": "algiers",
+        "Size": 2381741,
+        "Phone": "+213",
+        "Continent": "africa"
+    },
+
+    {
+        "Key": "as",
+        "English": "American Samoa",
+        "Local": "Amerika Sāmoa",
+        "OfficialStateName": "The Territory of American Samoa",
+        "ISO2": "AS",
+        "ISO3": "ASM",
+        "Tld": "as",
+        "Languages": ["en-US","sm"],
+        "Currency": "USD",
+        "Capital": "pago_pago",
+        "Size": 199,
+        "Phone": "+1-684",
+        "Continent": "north_america"
+    },
+
+    {
+        "Key": "ad",
+        "English": "Andorra",
+        "Local": "Andorra",
+        "OfficialStateName": "The Principality of Andorra",
+        "ISO2": "AD",
+        "ISO3": "AND",
+        "Tld": "ad",
+        "Languages": ["ca"],
+        "Currency": "EUR",
+        "Capital": "andorra_la_vella",
+        "Size": 467,
+        "Phone": "+376",
+        "Continent": "europe"
+    },
+
+    {
+        "Key": "ao",
+        "English": "Angola",
+        "Local": "Angola",
+        "OfficialStateName": "The Republic of Angola",
+        "ISO2": "AO",
+        "ISO3": "AGO",
+        "Tld": "ao",
+        "Languages": ["pt-PT"],
+        "Currency": "AOA",
+        "Capital": "luanda",
+        "Size": 1246700,
+        "Phone": "+244",
+        "Continent": "africa"
+    },
+
+    {
+        "Key": "ai",
+        "English": "Anguilla",
+        "Local": "Anguilla",
+        "OfficialStateName": "Anguilla",
+        "ISO2": "AI",
+        "ISO3": "AIA",
+        "Tld": "ai",
+        "Languages": ["en-EN"],
+        "Currency": "XCD",
+        "Capital": "the_valley",
+        "Size": 91,
+        "Phone": "+1-264",
+        "Continent": "south_america"
+    },
+
+    {
+        "Key": "ag",
+        "English": "Antigua and Barbuda",
+        "Local": "Antigua and Barbuda",
+        "OfficialStateName": "Antigua and Barbuda",
+        "ISO2": "AG",
+        "ISO3": "ATG",
+        "Tld": "ag",
+        "Languages": ["en-EN"],
+        "Currency": "XCD",
+        "Capital": "st_johns",
+        "Size": 440,
+        "Phone": "+1-268",
+        "Continent": "north_america"
+    },
+
+    {
+        "Key": "ar",
+        "English": "Argentina",
+        "Local": "Argentina",
+        "OfficialStateName": "The Argentine Republic",
+        "ISO2": "AR",
+        "ISO3": "ARG",
+        "Tld": "ar",
+        "Languages": ["es-AR"],
+        "Currency": "ARS",
+        "Capital": "buenos_aires",
+        "Size": 2780400,
+        "Phone": "+54",
+        "Continent": "south_america"
+    },
+
+    {
+        "Key": "am",
+        "English": "Armenia",
+        "Local": "Hayastan",
+        "OfficialStateName": "The Republic of Armenia",
+        "ISO2": "AM",
+        "ISO3": "ARM",
+        "Tld": "am",
+        "Languages": ["hy"],
+        "Currency": "AMD",
+        "Capital": "yerevan",
+        "Size": 29743,
+        "Phone": "+374",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "aw",
+        "English": "Aruba",
+        "Local": "Aruba",
+        "OfficialStateName": "Aruba",
+        "ISO2": "AW",
+        "ISO3": "ABW",
+        "Tld": "aw",
+        "Languages": ["nl","pap"],
+        "Currency": "AWG",
+        "Capital": "oranjestad",
+        "Size": 180,
+        "Phone": "+297",
+        "Continent": "south_america"
+    },
+
+    {
+        "Key": "au",
+        "English": "Australia",
+        "Local": "Australia",
+        "OfficialStateName": "The Commonwealth of Australia",
+        "ISO2": "AU",
+        "ISO3": "AUS",
+        "Tld": "au",
+        "Languages": ["en-AU"],
+        "Currency": "AUD",
+        "Capital": "canberra",
+        "Size": 7692024,
+        "Phone": "+61",
+        "Continent": "Oceania"
+    },
+
+    {
+        "Key": "at",
+        "English": "Austria",
+        "Local": "Österreich",
+        "OfficialStateName": "The Republic of Austria",
+        "ISO2": "AT",
+        "ISO3": "AUT",
+        "Tld": "at",
+        "Languages": ["de-AT"],
+        "Currency": "EUR",
+        "Capital": "vienna",
+        "Size": 83879,
+        "Phone": "+43",
+        "Continent": "Europe"
+    },
+
+    {
+        "Key": "az",
+        "English": "Azerbaijan",
+        "Local": "Azərbaycan",
+        "OfficialStateName": "The Republic of Azerbaijan",
+        "ISO2": "AZ",
+        "ISO3": "AZE",
+        "Tld": "az",
+        "Languages": ["aze","azj","azb","slq","qxq"],
+        "Currency": "AZN",
+        "Capital": "baku",
+        "Size": 86600,
+        "Phone": "+994",
+        "Continent": "Asia"
+    },
+
+    {
+        "Key": "ch",
+        "English": "Switzerland",
+        "Local": "Schweiz",
+        "OfficialStateName": "",
+        "ISO2": "CH",
+        "ISO3": "CHE",
+        "Tld": "ch",
+        "Languages": [ "de-CH", "fr-CH", "it-CH" ],
+        "Currency": "CHF",
+        "Capital": "berna",
+        "Size": 41285,
+        "Phone": "+41",
+        "Continent": "Europe"
+    }
+]
