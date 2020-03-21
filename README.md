@@ -1,5 +1,5 @@
 # Countries
-Lists of countries and cities with important informations with scripts to use it in PHP and C#
+Lists of countries and cities with important informations and scripts to use it in PHP and C#
 
 ## Content:
 - [ ] Example code for C#
