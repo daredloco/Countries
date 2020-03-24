@@ -6,7 +6,7 @@ Lists of countries and cities with important informations and scripts to use it 
 - [ ] Example code for PHP
 - [x] Countries with the letter A
 - [x] Countries with the letter B
-- [ ] Countries with the letter C
+- [x] Countries with the letter C
 - [ ] Countries with the letter D
 - [ ] Countries with the letter E
 - [ ] Countries with the letter F
