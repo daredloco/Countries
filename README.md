@@ -4,11 +4,13 @@ Lists of countries and cities with important informations and scripts to use it 
 ## Content:
 - [ ] Example code for C#
 - [ ] Example code for PHP
+- [ ] Class for PHP
+- [ ] Class for C#
 - [x] Countries with the letter A
 - [x] Countries with the letter B
 - [x] Countries with the letter C
-- [ ] Countries with the letter D
-- [ ] Countries with the letter E
+- [x] Countries with the letter D
+- [x] Countries with the letter E
 - [ ] Countries with the letter F
 - [ ] Countries with the letter G
 - [ ] Countries with the letter H
