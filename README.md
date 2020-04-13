@@ -5,7 +5,7 @@ Lists of countries and cities with important informations and scripts to use it 
 - [ ] Example code for C#
 - [ ] Example code for PHP
 - [ ] Example code for Laravel 5+
-- [ ] Class for PHP
+- [x] Class for PHP
 - [ ] Class for C#
 - [x] Class for Laravel 5+
 - [x] Countries with the letter A
