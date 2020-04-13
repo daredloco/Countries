@@ -1120,6 +1120,86 @@
     },
 
     {
+        "Key": "fk",
+        "English": "Falkland Islands",
+        "Local": "The Falkland Islands",
+        "OfficialStateName": "The Falkland Islands",
+        "ISO2": "FK",
+        "ISO3": "FLK",
+        "Tld": "fk",
+        "Languages": [ "en" ],
+        "Currency": "FKP",
+        "Capital": "stanley",
+        "Size": 12200,
+        "Phone": "+500",
+        "Continent": "south_america"
+    },
+
+    {
+        "Key": "fo",
+        "English": "Faroe Islands",
+        "Local": "Føroyar",
+        "OfficialStateName": "The Faroe Islands",
+        "ISO2": "FO",
+        "ISO3": "FRO",
+        "Tld": "fo",
+        "Languages": [ "da", "fo" ],
+        "Currency": "DKK",
+        "Capital": "torshavn",
+        "Size": 1399,
+        "Phone": "+298",
+        "Continent": "europe"
+    },
+
+    {
+        "Key": "fj",
+        "English": "Fiji",
+        "Local": "Matanitu Tugalala o Viti",
+        "OfficialStateName": "The Republic of Fiji",
+        "ISO2": "fj",
+        "ISO3": "fji",
+        "Tld": "fj",
+        "Languages": [ "en", "fj" ],
+        "Currency": "FJD",
+        "Capital": "suva",
+        "Size": 18274,
+        "Phone": "+679",
+        "Continent": "oceania"
+    },
+
+    {
+        "Key": "fi",
+        "English": "Finland",
+        "Local": "Suomen tasavalta",
+        "OfficialStateName": "The Republic of Finland",
+        "ISO2": "FI",
+        "ISO3": "FIN",
+        "Tld": "fi",
+        "Languages": [ "fi", "sv" ],
+        "Currency": "EUR",
+        "Capital": "helsinki",
+        "Size": 338424,
+        "Phone": "+358",
+        "Continent": "europe"
+    },
+
+    {
+        "Key": "fr",
+        "English": "France",
+        "Local": "République française",
+        "OfficialStateName": "The French Republic",
+        "ISO2": "FR",
+        "ISO3": "FRA",
+        "Tld": "fr",
+        "Languages": [ "fr" ],
+        "Currency": "EUR",
+        "Capital": "paris",
+        "Size": 640679,
+        "Phone": "+33",
+        "Continent": "europe"
+    },    
+
+    {
         "Key": "ch",
         "English": "Switzerland",
         "Local": "Schweiz",
