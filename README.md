@@ -13,7 +13,7 @@ Lists of countries and cities with important informations and scripts to use it 
 - [x] Countries with the letter C
 - [x] Countries with the letter D
 - [x] Countries with the letter E
-- [ ] Countries with the letter F
+- [x] Countries with the letter F
 - [ ] Countries with the letter G
 - [ ] Countries with the letter H
 - [ ] Countries with the letter I
