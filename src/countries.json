@@ -1197,7 +1197,215 @@
         "Size": 640679,
         "Phone": "+33",
         "Continent": "europe"
-    },    
+    },
+
+    {
+        "Key": "ga",
+        "English": "Gabon",
+        "Local": "République gabonaise",
+        "OfficialStateName": "The Gabonese Republic",
+        "ISO2": "GA",
+        "ISO3": "GAB",
+        "Tld": "ga",
+        "Languages": [ "fr" ],
+        "Currency": "XAF",
+        "Capital": "libreville",
+        "Size": 267667,
+        "Phone": "+241",
+        "Continent": "africa"
+    },
+
+    {
+        "Key": "gm",
+        "English": "Gambia",
+        "Local": "Kambiya",
+        "OfficialStateName": "The Republic of The Gambia",
+        "ISO2": "GM",
+        "ISO3": "GMB",
+        "Tld": "gm",
+        "Languages": [ "en" ],
+        "Currency": "GMD",
+        "Capital": "banjul",
+        "Size": 10689,
+        "Phone": "+220",
+        "Continent": "africa"
+    },
+
+    {
+        "Key": "ge",
+        "English": "Georgia",
+        "Local": "Sakartvelo",
+        "OfficialStateName": "Georgia",
+        "ISO2": "GE",
+        "ISO3": "GEO",
+        "Tld": "ge",
+        "Languages": [ "ka", "ab" ],
+        "Currency": "GEL",
+        "Capital": "tbilisi",
+        "Size": 69700,
+        "Phone": "+995",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "de",
+        "English": "Germany",
+        "Local": "Bundesrepublik Deutschland",
+        "OfficialStateName": "The Federal Republic of Germany",
+        "ISO2": "DE",
+        "ISO3": "DEU",
+        "Tld": "de",
+        "Languages": [ "de" ],
+        "Currency": "EUR",
+        "Capital": "berlin",
+        "Size": 3570222,
+        "Phone": "+49",
+        "Continent": "europe"
+    },
+
+    {
+        "Key": "gh",
+        "English": "Ghana",
+        "Local": "The Republic of Ghana",
+        "OfficialStateName": "The Republic of Ghana",
+        "ISO2": "GH",
+        "ISO3": "GHA",
+        "Tld": "gh",
+        "Languages": [ "en" ],
+        "Currency": "GHS",
+        "Capital": "accra",
+        "Size": 239567,
+        "Phone": "+233",
+        "Continent": "africa"
+    },
+
+    {
+        "Key": "gr",
+        "English": "Greece",
+        "Local": "Ellinikí Dimokratía",
+        "OfficialStateName": "The Hellenic Republic",
+        "ISO2": "GR",
+        "ISO3": "GRC",
+        "Tld": "gr",
+        "Languages": [ "el" ],
+        "Currency": "EUR",
+        "Capital": "athens",
+        "Size": 131957,
+        "Phone": "+30",
+        "Continent": "europe"
+    },
+
+    {
+        "Key": "gl",
+        "English": "Greenland",
+        "Local": "Kalaallit Nunaat",
+        "OfficialStateName": "Kalaallit Nunaat",
+        "ISO2": "GL",
+        "ISO3": "GRL",
+        "Tld": "gl",
+        "Languages": [ "kl" ],
+        "Currency": "DKK",
+        "Capital": "nuuk",
+        "Size": 2166086,
+        "Phone": "+299",
+        "Continent": "north_america"
+    },
+
+    {
+        "Key": "gd",
+        "English": "Grenada",
+        "Local": "Gwenad",
+        "OfficialStateName": "Grenada",
+        "ISO2": "GD",
+        "ISO3": "GRD",
+        "Tld": "gd",
+        "Languages": [ "en" ],
+        "Currency": "XCD",
+        "Capital": "st_georges",
+        "Size": 348,
+        "Phone": "+1-473",
+        "Continent": "south_america"
+    },
+
+    {
+        "Key": "gu",
+        "English": "Guam",
+        "Local": "Guåhån",
+        "OfficialStateName": "The Territory of Guam",
+        "ISO2": "GU",
+        "ISO3": "GUM",
+        "Tld": "gu",
+        "Languages": [ "en", "ch" ],
+        "Currency": "USD",
+        "Capital": "hagatna",
+        "Size": 540,
+        "Phone": "+1-671",
+        "Continent": "oceania"
+    },
+
+    {
+        "Key": "gt",
+        "English": "Guatemala",
+        "Local": "República de Guatemala",
+        "OfficialStateName": "The Republic of Guatemala",
+        "ISO2": "GT",
+        "ISO3": "GTM",
+        "Tld": "gt",
+        "Languages": [ "es" ],
+        "Currency": "GTQ",
+        "Capital": "guatemala_city",
+        "Size": 108889,
+        "Phone": "+502",
+        "Continent": "north_america"
+    },
+
+    {
+        "Key": "gn",
+        "English": "Guinea",
+        "Local": "Renndaandi Ginea",
+        "OfficialStateName": "The Republic of Guinea",
+        "ISO2": "GN",
+        "ISO3": "GIN",
+        "Tld": "gn",
+        "Languages": [ "fr" ],
+        "Currency": "GNF",
+        "Capital": "conakry",
+        "Size": 245857,
+        "Phone": "+224",
+        "Continent": "africa"
+    },
+
+    {
+        "Key": "gw",
+        "English": "Guinea-Bissau",
+        "Local": "República da Guiné-Bissau",
+        "OfficialStateName": "The Republic of Guinea-Bissau",
+        "ISO2": "GW",
+        "ISO3": "GNB",
+        "Tld": "gw",
+        "Languages": [ "pt" ],
+        "Currency": "XOF",
+        "Capital": "bissau",
+        "Size": 36125,
+        "Phone": "+245",
+        "Continent": "africa"
+    },
+
+    {
+        "Key": "gy",
+        "English": "Guyana",
+        "Local": "The Co-operative Republic of Guyana",
+        "OfficialStateName": "The Co-operative Republic of Guyana",
+        "ISO2": "GY",
+        "ISO3": "GUY",
+        "Tld": "gy",
+        "Languages": [ "en" ],
+        "Currency": "GYD",
+        "Capital": "georgetown",
+        "Size": 214970,
+        "Phone": "+592",
+        "Continent": "south_america"
+    },
 
     {
         "Key": "ch",
