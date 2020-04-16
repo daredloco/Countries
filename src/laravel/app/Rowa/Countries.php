@@ -13,7 +13,10 @@ class Countries {
     
     public $data;
     
-    public function __construct($fname){
+    public function __construct($fname = NULL){
+		if(empty($fname)){
+			$fname = './rowa/countries/countries.json';
+		}
         $fcontent = file_get_contents($fname);   
         
         //REMOVE UNWANTED CHARS
@@ -30,11 +33,7 @@ class Countries {
         $this->data = $jsondata;
     }
     
-    public function getCountry($key = NULL){
-        if(empty($key)){
-            $key = './rowa/countries/countries.json';
-        }
-        
+    public function getCountry($key){       
         foreach($this->data as $item){
             if($item->Key == $key){
                 return $item;
