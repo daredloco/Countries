@@ -1472,6 +1472,150 @@
     },
 
     {
+        "Key": "id",
+        "English": "Indonesia",
+        "Local": "Republik Indonesia",
+        "OfficialStateName": "The Republic of Indonesia",
+        "ISO2": "ID",
+        "ISO3": "IDN",
+        "Tld": "id",
+        "Languages": [ "id" ],
+        "Currency": "IDR",
+        "Capital": "jakarta",
+        "Size": 1904569,
+        "Phone": "+62",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "ie",
+        "English": "Ireland",
+        "Local": "Poblacht na hÉireann",
+        "OfficialStateName": "The Republic of Ireland",
+        "ISO2": "IE",
+        "ISO3": "IRL",
+        "Tld": "ie",
+        "Languages": [ "ga", "en" ],
+        "Currency": "EUR",
+        "Capital": "dublin",
+        "Size": 70273,
+        "Phone": "+353",
+        "Continent": "europe"
+    },
+
+    {
+        "Key": "il",
+        "English": "Israel",
+        "Local": "Israel",
+        "OfficialStateName": "The State of Israel",
+        "ISO2": "IL",
+        "ISO3": "ISR",
+        "Tld": "il",
+        "Languages": [ "he" ],
+        "Currency": "ILS",
+        "Capital": "jerusalem",
+        "Size": 20770,
+        "Phone": "+972",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "im",
+        "English": "Isle of Man",
+        "Local": "Mannin",
+        "OfficialStateName": "The Isle of Man",
+        "ISO2": "IM",
+        "ISO3": "IMN",
+        "Tld": "im",
+        "Languages": [ "en", "gv" ],
+        "Currency": "GBP",
+        "Capital": "douglas",
+        "Size": 572,
+        "Phone": "+44",
+        "Continent": "europe"
+    },
+
+    {
+        "Key": "in",
+        "English": "India",
+        "Local": "Bhārat Gaṇarājya",
+        "OfficialStateName": "The Republic of India",
+        "ISO2": "IN",
+        "ISO3": "IND",
+        "Tld": "in",
+        "Languages": [ "en", "hi" ],
+        "Currency": "INR",
+        "Capital": "new_delhi",
+        "Size": 3287263,
+        "Phone": "+91",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "iq",
+        "English": "Iraq",
+        "Local": "al-ʿirāq",
+        "OfficialStateName": "The Republic of Iraq",
+        "ISO2": "IQ",
+        "ISO3": "IRQ",
+        "Tld": "iq",
+        "Languages": [ "ar", "ku" ],
+        "Currency": "IQD",
+        "Capital": "baghdad",
+        "Size": 437072,
+        "Phone": "+964",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "ir",
+        "English": "Iran",
+        "Local": "Jomhuri-ye Eslāmi-ye Irān",
+        "OfficialStateName": "The Islamic Republic of Iran",
+        "ISO2": "IR",
+        "ISO3": "IRN",
+        "Tld": "ir",
+        "Languages": [ "fa" ],
+        "Currency": "IRR",
+        "Capital": "tehran",
+        "Size": 1648195,
+        "Phone": "+98",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "is",
+        "English": "Iceland",
+        "Local": "Ísland",
+        "OfficialStateName": "Iceland",
+        "ISO2": "IS",
+        "ISO3": "ISL",
+        "Tld": "is",
+        "Languages": [ "is" ],
+        "Currency": "ISK",
+        "Capital": "reykjavik",
+        "Size": 102775,
+        "Phone": "+354",
+        "Continent": "europe"
+    },
+
+    {
+        "Key": "it",
+        "English": "Italy",
+        "Local": "Repubblica Italiana",
+        "OfficialStateName": "The Italian Republic",
+        "ISO2": "IT",
+        "ISO3": "ITA",
+        "Tld": "it",
+        "Languages": [ "it" ],
+        "Currency": "EUR",
+        "Capital": "rome",
+        "Size": 301340,
+        "Phone": "+39",
+        "Continent": "europe"
+    },
+
+    {
         "Key": "ch",
         "English": "Switzerland",
         "Local": "Schweiz",
