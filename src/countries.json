@@ -1408,6 +1408,70 @@
     },
 
     {
+        "Key": "hk",
+        "English": "Hong Kong",
+        "Local": "Jūng'wàh Yàhnmàhn",
+        "OfficialStateName": "The Hong Kong Special Administrative Region of China",
+        "ISO2": "HK",
+        "ISO3": "HKG",
+        "Tld": "hk",
+        "Languages": [ "en" ],
+        "Currency": "HKD",
+        "Capital": "hong_kong",
+        "Size": 2755,
+        "Phone": "+852",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "hn",
+        "English": "Honduras",
+        "Local": "República de Honduras",
+        "OfficialStateName": "The Republic of Honduras",
+        "ISO2": "HN",
+        "ISO3": "HND",
+        "Tld": "hn",
+        "Languages": [ "es" ],
+        "Currency": "HNL",
+        "Capital": "tegucigalpa",
+        "Size": 112492,
+        "Phone": "+504",
+        "Continent": "north_america"
+    },
+
+    {
+        "Key": "ht",
+        "English": "Haiti",
+        "Local": "République d'Haïti",
+        "OfficialStateName": "The Republic of Haiti",
+        "ISO2": "HT",
+        "ISO3": "HTI",
+        "Tld": "ht",
+        "Languages": [ "fr", "ht" ],
+        "Currency": "HTG",
+        "Capital": "port_au_prince",
+        "Size": 27750,
+        "Phone": "+509",
+        "Continent": "north_america"
+    },
+
+    {
+        "Key": "hu",
+        "English": "Hungary",
+        "Local": "Magyarország",
+        "OfficialStateName": "Hungary",
+        "ISO2": "HU",
+        "ISO3": "HUN",
+        "Tld": "hu",
+        "Languages": [ "hu" ],
+        "Currency": "HUF",
+        "Capital": "budapest",
+        "Size": 93030,
+        "Phone": "+36",
+        "Continent": "europe"
+    },
+
+    {
         "Key": "ch",
         "English": "Switzerland",
         "Local": "Schweiz",
