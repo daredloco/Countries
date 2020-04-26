@@ -1629,5 +1629,20 @@
         "Size": 41285,
         "Phone": "+41",
         "Continent": "europe"
+    },
+    {
+        "Key": "zw" ,
+        "English": "Zimbabwe" ,
+        "Local": "Nyika yeZimbabwe" ,
+        "OfficialStateName": "Republic of Zimbabwe" ,
+        "ISO2": "ZW" ,
+        "ISO3": "ZWE" ,
+        "Tld": "zw" ,
+        "Languages": [ "sn", "nd", "ny", "en", "ts", "st", "tn", "ve", "xh" ],
+        "Currency":"RTGS",
+        "Capital": "Harare",
+        "Size": 390757,
+        "Phone": "+263",
+        "Continent": "africa"
     }
 ]
