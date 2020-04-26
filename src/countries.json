@@ -1640,7 +1640,7 @@
         "Tld": "ug" ,
         "Languages": [ "sw", "en" ],
         "Currency": "UGX",
-        "Capital": "Kampala",
+        "Capital": "kampala",
         "Size": 241038,
         "Phone": "+256",
         "Continent": "africa"
@@ -1655,7 +1655,7 @@
         "Tld": "ua" ,
         "Languages": [ "uk" ],
         "Currency": "UAH",
-        "Capital": "Kiev",
+        "Capital": "kiev",
         "Size": 603628,
         "Phone": "+380",
         "Continent": "europe"
@@ -1670,14 +1670,14 @@
         "Tld": "ae" ,
         "Languages": [ "ar" ],
         "Currency": "AED",
-        "Capital": "Abu Dhabi",
+        "Capital": "abu_dhabi",
         "Size": 83600,
         "Phone": "+971",
         "Continent": "asia"
     },
     {
         "Key": "uk" ,
-        "English": "United Kingdom of Great Britain and Northern Ireland" ,
+        "English": "United Kingdom" ,
         "Local": "United Kingdom of Great Britain and Northern Ireland" ,
         "OfficialStateName": "The United Kingdom of Great Britain and Northern Ireland" ,
         "ISO2": "GB" ,
@@ -1685,7 +1685,7 @@
         "Tld": "uk" ,
         "Languages": [ "en" ],
         "Currency": "GBP",
-        "Capital": "London",
+        "Capital": "london",
         "Size": 242495,
         "Phone": "+44",
         "Continent": "europe"
@@ -1700,7 +1700,7 @@
         "Tld": "us" ,
         "Languages": [ "en" ],
         "Currency": "USD",
-        "Capital": "Washington, D.C.",
+        "Capital": "washington_dc",
         "Size": 34.2,
         "Phone": "+1",
         "Continent": "north_america"
@@ -1715,7 +1715,7 @@
         "Tld": "us" ,
         "Languages": [ "en" ],
         "Currency": "USD",
-        "Capital": "Washington, D.C.",
+        "Capital": "washington_dc",
         "Size": 9833520,
         "Phone": "+1",
         "Continent": "north_america"
@@ -1730,7 +1730,7 @@
         "Tld": "uy" ,
         "Languages": [ "es" ],
         "Currency": "UYU",
-        "Capital": "Montevideo",
+        "Capital": "montevideo",
         "Size": 176215,
         "Phone": "+598",
         "Continent": "south_america"
@@ -1745,7 +1745,7 @@
         "Tld": ".uz" ,
         "Languages": [ "uz" ],
         "Currency": "UZS",
-        "Capital": "Tashkent",
+        "Capital": "tashkent",
         "Size": 448978,
         "Phone": "+998",
         "Continent": "asia"
@@ -1760,7 +1760,7 @@
         "Tld": "vu" ,
         "Languages": [ "bi", "en", "fr" ],
         "Currency": "VUV",
-        "Capital": "Port Vila",
+        "Capital": "port_vila",
         "Size": 12189,
         "Phone": "+678",
         "Continent": "oceania"
@@ -1775,7 +1775,7 @@
         "Tld": "va" ,
         "Languages": [ "la" ],
         "Currency": "EUR",
-        "Capital": "Vatican City",
+        "Capital": "vatican_city",
         "Size": 0.49,
         "Phone": "+379",
         "Continent": "europe"
@@ -1790,7 +1790,7 @@
         "Tld": ".ve" ,
         "Languages": [ "es" ],
         "Currency": "VES",
-        "Capital": "Caracas",
+        "Capital": "caracas",
         "Size": 916445,
         "Phone": "+58",
         "Continent": "south_america"
@@ -1805,7 +1805,7 @@
         "Tld": "vn" ,
         "Languages": [ "vi" ],
         "Currency": "VND",
-        "Capital": "Hanoi",
+        "Capital": "hanoi",
         "Size": 331212 ,
         "Phone": "+84",
         "Continent": "asia"
@@ -1820,7 +1820,7 @@
         "Tld": "vg" ,
         "Languages": [ "en" ],
         "Currency": "USD",
-        "Capital": "Road Town",
+        "Capital": "road_town",
         "Size": 153,
         "Phone": "+1-284",
         "Continent": "north_america"
@@ -1835,7 +1835,7 @@
         "Tld": "vi" ,
         "Languages": [ "en" ],
         "Currency": "USD",
-        "Capital": "Charlotte Amalie",
+        "Capital": "charlotte_amalie",
         "Size": 346,
         "Phone": "+1-340",
         "Continent": "north_america"
@@ -1850,7 +1850,7 @@
         "Tld": "wf" ,
         "Languages": [ "fr" ],
         "Currency": "CFP",
-        "Capital": "Matā'Utu",
+        "Capital": "matautu",
         "Size": 142,
         "Phone": "+681",
         "Continent": "oceania"
@@ -1865,7 +1865,7 @@
         "Tld": "ye" ,
         "Languages": [ "ar" ],
         "Currency": "YER",
-        "Capital": "Sana'a",
+        "Capital": "sanaa",
         "Size": 527968 ,
         "Phone": "+967",
         "Continent": "asia"
@@ -1880,7 +1880,7 @@
         "Tld": "zm" ,
         "Languages": [ "en" ],
         "Currency": "ZMW",
-        "Capital": "Lusaka",
+        "Capital": "lusaka",
         "Size": 752618 ,
         "Phone": "+260",
         "Continent": "africa"
@@ -1895,8 +1895,8 @@
         "Tld": "zw" ,
         "Languages": [ "sn", "nd", "ny", "en", "ts", "st", "tn", "ve", "xh" ],
         "Currency":"RTGS",
-        "Capital": "Harare",
-        "Size": 14438802,
+        "Capital": "harare",
+        "Size": 390757,
         "Phone": "+263",
         "Continent": "africa"
     }
