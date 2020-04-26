@@ -16,9 +16,9 @@ Lists of countries and cities with important informations and scripts to use it 
 - [x] Countries with the letter F
 - [x] Countries with the letter G
 - [x] Countries with the letter H
-- [ ] Countries with the letter I
-- [ ] Countries with the letter J
-- [ ] Countries with the letter K
+- [x] Countries with the letter I
+- [x] Countries with the letter J
+- [x] Countries with the letter K
 - [ ] Countries with the letter L
 - [ ] Countries with the letter M
 - [ ] Countries with the letter N
@@ -28,12 +28,12 @@ Lists of countries and cities with important informations and scripts to use it 
 - [ ] Countries with the letter R
 - [ ] Countries with the letter S
 - [ ] Countries with the letter T
-- [ ] Countries with the letter U
-- [ ] Countries with the letter V
-- [ ] Countries with the letter W
-- [ ] Countries with the letter X
-- [ ] Countries with the letter Y
-- [ ] Countries with the letter Z
+- [x] Countries with the letter U
+- [x] Countries with the letter V
+- [x] Countries with the letter W
+- [x] Countries with the letter X
+- [x] Countries with the letter Y
+- [x] Countries with the letter Z
 
 ## Usage (C#):
 Todo
