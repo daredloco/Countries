@@ -4,9 +4,8 @@ Lists of countries and cities with important informations and scripts to use it 
 ## Content:
 - [ ] Example code for C#
 - [ ] Example code for PHP
-- [ ] Example code for Laravel 5+
 - [x] Class for PHP
-- [ ] Class for C#
+- [x] Class for C#
 - [x] Class for Laravel 5+
 - [x] Countries with the letter A
 - [x] Countries with the letter B
@@ -39,7 +38,7 @@ Lists of countries and cities with important informations and scripts to use it 
 Todo
 
 ## Usage (PHP):
-Todo
+[Show Example](./src/examples/php/index.php)
 
 ## Usage (Laravel):
 Todo
