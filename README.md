@@ -22,12 +22,12 @@ Lists of countries and cities with important informations and scripts to use it 
 - [ ] Countries with the letter L
 - [ ] Countries with the letter M
 - [ ] Countries with the letter N
-- [ ] Countries with the letter O
-- [ ] Countries with the letter P
-- [ ] Countries with the letter Q
-- [ ] Countries with the letter R
-- [ ] Countries with the letter S
-- [ ] Countries with the letter T
+- [x] Countries with the letter O
+- [x] Countries with the letter P
+- [x] Countries with the letter Q
+- [x] Countries with the letter R
+- [x] Countries with the letter S
+- [x] Countries with the letter T
 - [x] Countries with the letter U
 - [x] Countries with the letter V
 - [x] Countries with the letter W
