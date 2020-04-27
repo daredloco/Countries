@@ -1822,6 +1822,998 @@
         "Phone": "+41",
         "Continent": "europe"
     },
+
+    {
+        "Key": "om",
+        "English": "Oman",
+        "Local": "Salṭanat ʻUmān",
+        "OfficialStateName": "Sultanate of Oman",
+        "ISO2": "OM",
+        "ISO3": "OMN",
+        "Tld": "om",
+        "Languages": [ "ar" ],
+        "Currency": "OMR",
+        "Capital": "muscat",
+        "Size": 309500,
+        "Phone": "+968",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "pk",
+        "English": "Pakistan",
+        "Local": "Islāmī Jumhūriyah Pākistān",
+        "OfficialStateName": "Islamic Republic of Pakistan",
+        "ISO2": "PK",
+        "ISO3": "PAK",
+        "Tld": "pk",
+        "Languages": [ "ur", "en" ],
+        "Currency": "PKR",
+        "Capital": "islamabad",
+        "Size": 881913,
+        "Phone": "+92",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "pw",
+        "English": "Palau",
+        "Local": "Beluu er a Belau",
+        "OfficialStateName": "State of Palestine",
+        "ISO2": "PW",
+        "ISO3": "PLW",
+        "Tld": "pw",
+        "Languages": [ "ja", "en" ],
+        "Currency": "USD",
+        "Capital": "ngerulmud",
+        "Size": 459,
+        "Phone": "+680",
+        "Continent": "oceania"
+    },
+
+    {
+        "Key": "ps",
+        "English": "Palestine",
+        "Local": "Dawlat Filasṭīn",
+        "OfficialStateName": "State of Palestine",
+        "ISO2": "PS",
+        "ISO3": "PSE",
+        "Tld": "ps",
+        "Languages": [ "ar" ],
+        "Currency": "EGP",
+        "Capital": "ramallah",
+        "Size": 6020,
+        "Phone": "+970",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "pa",
+        "English": "Panama",
+        "Local": "República de Panamá",
+        "OfficialStateName": "Republic of Panamá",
+        "ISO2": "PA",
+        "ISO3": "PAN",
+        "Tld": "pa",
+        "Languages": [ "es" ],
+        "Currency": "PAB",
+        "Capital": "panama_city",
+        "Size": 75417,
+        "Phone": "+507",
+        "Continent": "north_america"
+    },
+
+    {
+        "Key": "pg",
+        "English": "Papua New Guinea",
+        "Local": "Independen Stet bilong Papua Niugini",
+        "OfficialStateName": "Independent State of Papua New Guinea",
+        "ISO2": "PG",
+        "ISO3": "PNG",
+        "Tld": "pg",
+        "Languages": [ "ho", "en" ],
+        "Currency": "PGK",
+        "Capital": "port_moresby",
+        "Size": 462840,
+        "Phone": "+675",
+        "Continent": "oceania"
+    },
+
+    {
+        "Key": "py",
+        "English": "Paraguay",
+        "Local": "República del Paraguay",
+        "OfficialStateName": "Republic of Paraguay",
+        "ISO2": "PY",
+        "ISO3": "PRY",
+        "Tld": "py",
+        "Languages": [ "gn", "es" ],
+        "Currency": "PYG",
+        "Capital": "asuncion",
+        "Size": 406752,
+        "Phone": "+595",
+        "Continent": "south_america"
+    },
+
+    {
+        "Key": "pe",
+        "English": "Peru",
+        "Local": "República del Perú",
+        "OfficialStateName": "Republic of Perú",
+        "ISO2": "PE",
+        "ISO3": "PER",
+        "Tld": "pe",
+        "Languages": [ "es" ],
+        "Currency": "PEN",
+        "Capital": "lima",
+        "Size": 1285216,
+        "Phone": "+51",
+        "Continent": "south_america"
+    },
+
+    {
+        "Key": "ph",
+        "English": "Philippines",
+        "Local": "Republika ng Pilipinas",
+        "OfficialStateName": "Republic of the Philippines",
+        "ISO2": "PH",
+        "ISO3": "PHL",
+        "Tld": "ph",
+        "Languages": [ "en" ],
+        "Currency": "PHP",
+        "Capital": "manila",
+        "Size": 300000,
+        "Phone": "+63",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "pn",
+        "English": "Pitcairn",
+        "Local": "Pitkern Ailen",
+        "OfficialStateName": "Pitcairn Islands",
+        "ISO2": "PN",
+        "ISO3": "PCN",
+        "Tld": "pn  ",
+        "Languages": [ "en" ],
+        "Currency": "NZD",
+        "Capital": "adamstown",
+        "Size": 47,
+        "Phone": "+64",
+        "Continent": "oceania"
+    },
+
+    {
+        "Key": "pl",
+        "English": "Poland",
+        "Local": "Rzeczpospolita Polska",
+        "OfficialStateName": "Republic of Poland",
+        "ISO2": "PL",
+        "ISO3": "POL",
+        "Tld": "pl",
+        "Languages": [ "pl" ],
+        "Currency": "EUR",
+        "Capital": "warsaw",
+        "Size": 312696,
+        "Phone": "+48",
+        "Continent": "europe"
+    },
+
+    {
+        "Key": "pt",
+        "English": "Portugal",
+        "Local": "República Portuguesa",
+        "OfficialStateName": "Portuguese Republic",
+        "ISO2": "PT",
+        "ISO3": "PRT",
+        "Tld": "pt",
+        "Languages": [ "pt" ],
+        "Currency": "EUR",
+        "Capital": "lisbon",
+        "Size": 92212,
+        "Phone": "+351",
+        "Continent": "europe"
+    },
+
+    {
+        "Key": "pr",
+        "English": "Puerto Rico",
+        "Local": "Estado Libre Asociado de Puerto Rico",
+        "OfficialStateName": "Commonwealth of Puerto Rico",
+        "ISO2": "PR",
+        "ISO3": "PRI",
+        "Tld": "pr",
+        "Languages": [ "es", "en" ],
+        "Currency": "USD",
+        "Capital": "san_juan",
+        "Size": 9104,
+        "Phone": "+1-787",
+        "Continent": "north_america"
+    },
+
+    {
+        "Key": "qa",
+        "English": "Qatar",
+        "Local": "Dawlat Qaṭar",
+        "OfficialStateName": "State of Qatar",
+        "ISO2": "QA",
+        "ISO3": "QAT",
+        "Tld": "qa",
+        "Languages": [ "ar" ],
+        "Currency": "QAR",
+        "Capital": "doha",
+        "Size": 11581,
+        "Phone": "+974",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "re",
+        "English": "Réunion",
+        "Local": "La Réunion",
+        "OfficialStateName": "Réunion",
+        "ISO2": "RE",
+        "ISO3": "REU",
+        "Tld": "re",
+        "Languages": [ "fr" ],
+        "Currency": "EUR",
+        "Capital": "saint-denis",
+        "Size": 2511,
+        "Phone": "+262",
+        "Continent": "africa"
+    },
+
+    {
+        "Key": "ro",
+        "English": "Romania",
+        "Local": "România",
+        "OfficialStateName": "Romania",
+        "ISO2": "RO",
+        "ISO3": "ROU",
+        "Tld": "ro",
+        "Languages": [ "ro" ],
+        "Currency": "RON",
+        "Capital": "bucharest",
+        "Size": 238397,
+        "Phone": "+40",
+        "Continent": "europe"
+    },
+
+    {
+        "Key": "ru",
+        "English": "Russian Federation",
+        "Local": "Rossiyskaya Federatsiya",
+        "OfficialStateName": "Russian Federation",
+        "ISO2": "RU",
+        "ISO3": "RUS",
+        "Tld": "ru",
+        "Languages": [ "ru" ],
+        "Currency": "RUB",
+        "Capital": "moscow",
+        "Size": 17098246,
+        "Phone": "+7",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "rw",
+        "English": "Rwanda",
+        "Local": "Repubulika y'u Rwanda",
+        "OfficialStateName": "Republic of Rwanda",
+        "ISO2": "RW",
+        "ISO3": "RWA",
+        "Tld": "rw",
+        "Languages": [ "sw", "rw", "fr", "en" ],
+        "Currency": "RWF",
+        "Capital": "kigali",
+        "Size": 26338,
+        "Phone": "+250",
+        "Continent": "africa"
+    },
+
+    {
+        "Key": "bl",
+        "English": "Saint Barthélemy",
+        "Local": "Saint-Barthélemy",
+        "OfficialStateName": "Collectivity of Saint-Barthélemy",
+        "ISO2": "BL",
+        "ISO3": "BLM",
+        "Tld": "bl",
+        "Languages": [ "fr" ],
+        "Currency": "EUR",
+        "Capital": "gustavia",
+        "Size": 25,
+        "Phone": "+590",
+        "Continent": "north_america"
+    },
+
+    {
+        "Key": "sh",
+        "English": "Saint Helena",
+        "Local": "Saint Helena, Ascension and Tristan da Cunha",
+        "OfficialStateName": "Saint Helena, Ascension and Tristan da Cunha",
+        "ISO2": "SH",
+        "ISO3": "SHN",
+        "Tld": "sh",
+        "Languages": [ "en" ],
+        "Currency": "SHP",
+        "Capital": "jamestown",
+        "Size": 394,
+        "Phone": "+290",
+        "Continent": "africa"
+    },
+
+    {
+        "Key": "lc",
+        "English": "Saint Lucia",
+        "Local": "Saint Lucia",
+        "OfficialStateName": "Saint Lucia",
+        "ISO2": "LC",
+        "ISO3": "LCA",
+        "Tld": "lc",
+        "Languages": [ "en" ],
+        "Currency": "XCD",
+        "Capital": "castries",
+        "Size": 617,
+        "Phone": "+1-758",
+        "Continent": "north_america"
+    },
+
+    {
+        "Key": "mf",
+        "English": "Saint Martin",
+        "Local": "Saint-Martin",
+        "OfficialStateName": "Collectivity of Saint-Martin",
+        "ISO2": "MF",
+        "ISO3": "MAF",
+        "Tld": "mf",
+        "Languages": [ "fr" ],
+        "Currency": "EUR",
+        "Capital": "marigot",
+        "Size": 53.2,
+        "Phone": "+590",
+        "Continent": "north_america"
+    },
+
+    {
+        "Key": "pm",
+        "English": "Saint Pierre and Miquelon",
+        "Local": "Saint-Pierre-et-Miquelon",
+        "OfficialStateName": "The Overseas Collectivity of Saint-Pierre and Miquelon",
+        "ISO2": "PM",
+        "ISO3": "SPM",
+        "Tld": "pm",
+        "Languages": [ "fr" ],
+        "Currency": "EUR",
+        "Capital": "saint-pierre",
+        "Size": 242,
+        "Phone": "+508",
+        "Continent": "north_america"
+    },
+
+    {
+        "Key": "vc",
+        "English": "Saint Vincent and the Grenadines",
+        "Local": "Saint Vincent and the Grenadines",
+        "OfficialStateName": "Saint Vincent and the Grenadines",
+        "ISO2": "VC",
+        "ISO3": "VCT",
+        "Tld": "vc",
+        "Languages": [ "en" ],
+        "Currency": "XCD",
+        "Capital": "kingstown",
+        "Size": 389,
+        "Phone": "+1-784",
+        "Continent": "north_america"
+    },
+
+    {
+        "Key": "ws",
+        "English": "Samoa",
+        "Local": "Malo Saʻoloto Tutoʻatasi o Sāmoa",
+        "OfficialStateName": "Independent State of Samoa",
+        "ISO2": "WS",
+        "ISO3": "WSM",
+        "Tld": "ws",
+        "Languages": [ "sm", "en" ],
+        "Currency": "WST",
+        "Capital": "apia",
+        "Size": 2842,
+        "Phone": "+685",
+        "Continent": "oceania"
+    },
+
+    {
+        "Key": "sm",
+        "English": "San Marino",
+        "Local": "Repubblica di San Marino",
+        "OfficialStateName": "Republic of San Marino",
+        "ISO2": "SM",
+        "ISO3": "SMR",
+        "Tld": "sm",
+        "Languages": [ "it" ],
+        "Currency": "EUR",
+        "Capital": "san_marino",
+        "Size": 61.2,
+        "Phone": "+378",
+        "Continent": "europe"
+    },
+
+    {
+        "Key": "st",
+        "English": "Sao Tome and Principe",
+        "Local": "República Democrática de São Tomé e Príncipe",
+        "OfficialStateName": "Democratic Republic of São Tomé and Príncipe",
+        "ISO2": "ST",
+        "ISO3": "STP",
+        "Tld": "st",
+        "Languages": [ "pt" ],
+        "Currency": "STN",
+        "Capital": "sao_tome",
+        "Size": 1001,
+        "Phone": "+239",
+        "Continent": "africa"
+    },
+
+    {
+        "Key": "sa" ,
+        "English": "Saudi Arabia" ,
+        "Local": "Al-Mamlakah al-ʿArabīyah as-Saʿūdīyah" ,
+        "OfficialStateName": "Kingdom of Saudi Arabia" ,
+        "ISO2": "SA" ,
+        "ISO3": "SAU" ,
+        "Tld": "sa" ,
+        "Languages": [ "ar" ],
+        "Currency": "SAR",
+        "Capital": "riyadh",
+        "Size": 2149690,
+        "Phone": "+966",
+        "Continent": "asia"
+    },
+    {
+        "Key": "sn",
+        "English": "Senegal",
+        "Local": "Réewum Senegaal",
+        "OfficialStateName": "Republic of Senegal",
+        "ISO2": "SN",
+        "ISO3": "SEN",
+        "Tld": "sn",
+        "Languages": [ "fr" ],
+        "Currency": "XOF",
+        "Capital": "dakar",
+        "Size": 196712,
+        "Phone": "+221",
+        "Continent": "africa"
+    },
+
+    {
+        "Key": "rs",
+        "English": "Serbia",
+        "Local": "Republika Srbija",
+        "OfficialStateName": "Republic of Serbia",
+        "ISO2": "RS",
+        "ISO3": "SRB",
+        "Tld": "rs",
+        "Languages": [ "sr" ],
+        "Currency": "RSD",
+        "Capital": "belgrade",
+        "Size": 88361,
+        "Phone": "+381",
+        "Continent": "europe"
+    },
+
+    {
+        "Key": "sc",
+        "English": "Seychelles",
+        "Local": "Repiblik Sesel",
+        "OfficialStateName": "Republic of Seychelles",
+        "ISO2": "SC",
+        "ISO3": "SYC",
+        "Tld": "sc",
+        "Languages": [ "fr", "en" ],
+        "Currency": "SCR",
+        "Capital": "victoria",
+        "Size": 459,
+        "Phone": "+248",
+        "Continent": "africa"
+    },
+
+    {
+        "Key": "sl",
+        "English": "Sierra Leone",
+        "Local": "Sierra Leone",
+        "OfficialStateName": "Republic of Sierra Leone",
+        "ISO2": "SL",
+        "ISO3": "SLE",
+        "Tld": "sl",
+        "Languages": [ "en" ],
+        "Currency": "SLL",
+        "Capital": "freetown",
+        "Size": 71740,
+        "Phone": "+232",
+        "Continent": "africa"
+    },
+
+    {
+        "Key": "sg",
+        "English": "Singapore",
+        "Local": "Republik Singapura",
+        "OfficialStateName": "Republic of Singapore",
+        "ISO2": "SG",
+        "ISO3": "SGP",
+        "Tld": "sg",
+        "Languages": [ "ta", "ms", "en" ],
+        "Currency": "SGD",
+        "Capital": "singapore",
+        "Size": 725.7,
+        "Phone": "+65",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "sx",
+        "English": "Sint Maarten",
+        "Local": "Sint Maarten",
+        "OfficialStateName": "Sint Maarten",
+        "ISO2": "SX",
+        "ISO3": "SXM",
+        "Tld": "sx",
+        "Languages": [ "nl", "en" ],
+        "Currency": "ANG",
+        "Capital": "philipsburg",
+        "Size": 34,
+        "Phone": "+1-721",
+        "Continent": "south_america"
+    },
+
+    {
+        "Key": "sk",
+        "English": "Slovakia",
+        "Local": "Slovenská republika",
+        "OfficialStateName": "Slovak Republic",
+        "ISO2": "SK",
+        "ISO3": "SVK",
+        "Tld": "sk",
+        "Languages": [ "sk" ],
+        "Currency": "EUR",
+        "Capital": "bratislava",
+        "Size": 49035,
+        "Phone": "+421",
+        "Continent": "europe"
+    },
+
+    {
+        "Key": "si",
+        "English": "Slovenia",
+        "Local": "Republika Slovenija",
+        "OfficialStateName": "Republic of Slovenia",
+        "ISO2": "SI",
+        "ISO3": "SVN",
+        "Tld": "si",
+        "Languages": [ "sl" ],
+        "Currency": "EUR",
+        "Capital": "ljubljana",
+        "Size": 20273,
+        "Phone": "+386",
+        "Continent": "europe"
+    },
+
+    {
+        "Key": "sb",
+        "English": "Solomon Islands",
+        "Local": "Solomon Islands",
+        "OfficialStateName": "Solomon Islands",
+        "ISO2": "SB",
+        "ISO3": "SLB",
+        "Tld": "sb",
+        "Languages": [ "en" ],
+        "Currency": "SBD",
+        "Capital": "honiara",
+        "Size": 28400,
+        "Phone": "+677",
+        "Continent": "oceania"
+    },
+
+    {
+        "Key": "so",
+        "English": "Somalia",
+        "Local": "Jamhuuriyadda Federaalka Soomaaliya",
+        "OfficialStateName": "Federal Republic of Somalia",
+        "ISO2": "SO",
+        "ISO3": "SOM",
+        "Tld": "so",
+        "Languages": [ "so", "ar" ],
+        "Currency": "SOS",
+        "Capital": "mogadishu",
+        "Size": 637657,
+        "Phone": "+252",
+        "Continent": "africa"
+    },
+
+    {
+        "Key": "za",
+        "English": "South Africa",
+        "Local": "Republiek van Suid-Afrika",
+        "OfficialStateName": "Republic of South Africa",
+        "ISO2": "ZA",
+        "ISO3": "ZAF",
+        "Tld": "za",
+        "Languages": [ "af", "zu", "xh", "tn", "st", "ts", "ss", "ve", "nr", "en" ],
+        "Currency": "ZAR",
+        "Capital": "pretoria",
+        "Size": 1221037,
+        "Phone": "+27",
+        "Continent": "africa"
+    },
+
+    {
+        "Key": "gs",
+        "English": "South Georgia and the South Sandwich Islands",
+        "Local": "South Georgia and the South Sandwich Islands",
+        "OfficialStateName": "South Georgia and the South Sandwich Islands",
+        "ISO2": "GS",
+        "ISO3": "SGS",
+        "Tld": "gs",
+        "Languages": [ "en" ],
+        "Currency": "FKP",
+        "Capital": "king_edward_point",
+        "Size": 3903,
+        "Phone": "+500",
+        "Continent": "south_america"
+    },
+
+    {
+        "Key": "ss",
+        "English": "South Sudan",
+        "Local": "Republic of South Sudan",
+        "OfficialStateName": "Republic of South Sudan",
+        "ISO2": "SS",
+        "ISO3": "SSD",
+        "Tld": "ss",
+        "Languages": [ "en" ],
+        "Currency": "SSP",
+        "Capital": "juba",
+        "Size": 619745,
+        "Phone": "+211",
+        "Continent": "africa"
+    },
+
+    {
+        "Key": "es",
+        "English": "Spain",
+        "Local": "Reino de España",
+        "OfficialStateName": "Kingdom of Spain",
+        "ISO2": "ES",
+        "ISO3": "ESP",
+        "Tld": "es",
+        "Languages": [ "es" ],
+        "Currency": "EUR",
+        "Capital": "madrid",
+        "Size": 505990,
+        "Phone": "+34",
+        "Continent": "europe"
+    },
+
+    {
+        "Key": "lk",
+        "English": "Sri Lanka",
+        "Local": "Srī Lankā prajātāntrika samājavādī janarajaya",
+        "OfficialStateName": "Democratic Socialist Republic of Sri Lanka",
+        "ISO2": "LK",
+        "ISO3": "LKA",
+        "Tld": "lk",
+        "Languages": [ "si", "ta" ],
+        "Currency": "LKR",
+        "Capital": "sri_jayawardenepura_kotte",
+        "Size": 65610,
+        "Phone": "+94",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "sd",
+        "English": "Sudan",
+        "Local": "Jumhūriyyat as-Sūdān",
+        "OfficialStateName": "Republic of the Sudan",
+        "ISO2": "SD",
+        "ISO3": "SDN",
+        "Tld": "sd",
+        "Languages": [ "ar" ],
+        "Currency": "CAT",
+        "Capital": "khartoum",
+        "Size": 1886068,
+        "Phone": "+249",
+        "Continent": "africa"
+    },
+
+    {
+        "Key": "sr",
+        "English": "Suriname",
+        "Local": "Republiek Suriname",
+        "OfficialStateName": "Republic of Suriname",
+        "ISO2": "SR",
+        "ISO3": "SUR",
+        "Tld": "sr",
+        "Languages": [ "nl" ],
+        "Currency": "SRD",
+        "Capital": "paramaribo",
+        "Size": 163821,
+        "Phone": "+597",
+        "Continent": "south_america"
+    },
+
+    {
+        "Key": "sj",
+        "English": "Svalbard",
+        "Local": "Svalbard",
+        "OfficialStateName": "Svalbard and Jan Mayen",
+        "ISO2": "SJ",
+        "ISO3": "SJM",
+        "Tld": "sj",
+        "Languages": [ "no" ],
+        "Currency": "NOK",
+        "Capital": "longyearbyen",
+        "Size": 61022,
+        "Phone": "+47",
+        "Continent": "europe"
+    },
+
+    {
+        "Key": "se",
+        "English": "Sweden",
+        "Local": "Konungariket Sverige",
+        "OfficialStateName": "Kingdom of Sweden",
+        "ISO2": "SE",
+        "ISO3": "SWE",
+        "Tld": "se",
+        "Languages": [ "sv" ],
+        "Currency": "SEK",
+        "Capital": "stockholm",
+        "Size": 450295,
+        "Phone": "+46",
+        "Continent": "europe"
+    },
+
+    {
+        "Key": "sy",
+        "English": "Syrian Arab Republic",
+        "Local": "al-Jumhūrīyah al-ʻArabīyah as-Sūrīyah",
+        "OfficialStateName": "Syrian Arab Republic",
+        "ISO2": "SY",
+        "ISO3": "SYR",
+        "Tld": "sy",
+        "Languages": [ "ar" ],
+        "Currency": "SYP",
+        "Capital": "damascus",
+        "Size": 185180,
+        "Phone": "+963",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "tw",
+        "English": "Taiwan",
+        "Local": "Zhōnghuá Mínguó (Táiwān)",
+        "OfficialStateName": "Republic of China (Taiwan)",
+        "ISO2": "TW",
+        "ISO3": "TWN",
+        "Tld": "tw",
+        "Languages": ["zh"],
+        "Currency": "TWD",
+        "Capital": "taipei",
+        "Size": 36197,
+        "Phone": "+886",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "tj",
+        "English": "Tajikistan",
+        "Local": "Jumhurii Tojikiston",
+        "OfficialStateName": "Republic of Tajikistan",
+        "ISO2": "TJ",
+        "ISO3": "TJK",
+        "Tld": "tj",
+        "Languages": [ "tg" ],
+        "Currency": "TJS",
+        "Capital": "dushanbe",
+        "Size": 143100,
+        "Phone": "+992",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "tz",
+        "English": "Tanzania",
+        "Local": "Jamhuri ya Muungano wa Tanzania",
+        "OfficialStateName": "United Republic of Tanzania",
+        "ISO2": "TZ",
+        "ISO3": "TZA",
+        "Tld": "tz",
+        "Languages": [ "sw" ],
+        "Currency": "TZS",
+        "Capital": "dodoma",
+        "Size": 947303,
+        "Phone": "+255",
+        "Continent": "africa"
+    },
+
+    {
+        "Key": "th",
+        "English": "Thailand",
+        "Local": "Ratcha-anachak Thai",
+        "OfficialStateName": "Kingdom of Thailand",
+        "ISO2": "TH",
+        "ISO3": "THA",
+        "Tld": "th",
+        "Languages": [ "th" ],
+        "Currency": "THB",
+        "Capital": "bangkok",
+        "Size": 513120,
+        "Phone": "+66",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "tl",
+        "English": "Timor-Leste",
+        "Local": "Repúblika Demokrátika Timór-Leste",
+        "OfficialStateName": "Democratic Republic of Timor-Leste",
+        "ISO2": "TL",
+        "ISO3": "TLS",
+        "Tld": "tl",
+        "Languages": [ "pt" ],
+        "Currency": "USD",
+        "Capital": "dili",
+        "Size": 15007,
+        "Phone": "+670",
+        "Continent": "oceania"
+    },
+
+    {
+        "Key": "tg",
+        "English": "Togo",
+        "Local": "République togolaise",
+        "OfficialStateName": "Togolese Republic",
+        "ISO2": "TG",
+        "ISO3": "TGO",
+        "Tld": "tg",
+        "Languages": [ "fr" ],
+        "Currency": "XOF",
+        "Capital": "lome",
+        "Size": 56785,
+        "Phone": "+228",
+        "Continent": "africa"
+    },
+
+    {
+        "Key": "tk",
+        "English": "Tokelau",
+        "Local": "Tokelau",
+        "OfficialStateName": "Tokelau",
+        "ISO2": "TK",
+        "ISO3": "TKL",
+        "Tld": "tk",
+        "Languages": [ "en" ],
+        "Currency": "NZD",
+        "Capital": "nukunonu",
+        "Size": 10,
+        "Phone": "+690",
+        "Continent": "oceania"
+    },
+
+    {
+        "Key": "to",
+        "English": "Tonga",
+        "Local": "Puleʻanga Fakatuʻi ʻo Tonga",
+        "OfficialStateName": "Kingdom of Tonga",
+        "ISO2": "TO",
+        "ISO3": "TON",
+        "Tld": "to",
+        "Languages": [ "to", "en" ],
+        "Currency": "TOP",
+        "Capital": "nuku_alofa",
+        "Size": 748,
+        "Phone": "+676",
+        "Continent": "oceania"
+    },
+
+    {
+        "Key": "tt",
+        "English": "Trinidad and Tobago",
+        "Local": "Republic of Trinidad and Tobago",
+        "OfficialStateName": "Republic of Trinidad and Tobago",
+        "ISO2": "TT",
+        "ISO3": "TTO",
+        "Tld": "tt",
+        "Languages": [ "en" ],
+        "Currency": "TTD",
+        "Capital": "port_of_spain",
+        "Size": 5131,
+        "Phone": "+1-868",
+        "Continent": "south_america"
+    },
+
+    {
+        "Key": "tn",
+        "English": "Tunisia",
+        "Local": "al-Jumhūrīyah at-Tūnisīyah",
+        "OfficialStateName": "Republic of Tunisia",
+        "ISO2": "TN",
+        "ISO3": "TUN",
+        "Tld": "tn",
+        "Languages": [ "ar" ],
+        "Currency": "TND",
+        "Capital": "tunis",
+        "Size": 163610,
+        "Phone": "+216",
+        "Continent": "africa"
+    },
+
+    {
+        "Key": "tr",
+        "English": "Turkey",
+        "Local": "Türkiye Cumhuriyeti",
+        "OfficialStateName": "Republic of Turkey",
+        "ISO2": "TR",
+        "ISO3": "TUR",
+        "Tld": "tr",
+        "Languages": [ "tr" ],
+        "Currency": "TRY",
+        "Capital": "ankara",
+        "Size": 783356,
+        "Phone": "+90",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "tm",
+        "English": "Turkmenistan",
+        "Local": "Türkmenistan Respublikasy",
+        "OfficialStateName": "Republic of Turkmenistan",
+        "ISO2": "TM",
+        "ISO3": "TKM",
+        "Tld": "tm",
+        "Languages": [ "tk" ],
+        "Currency": "TMT",
+        "Capital": "ashgabat",
+        "Size": 491210,
+        "Phone": "+993",
+        "Continent": "asia"
+    },
+
+    {
+        "Key": "tc",
+        "English": "Turks and Caicos Islands",
+        "Local": "Turks and Caicos Islands",
+        "OfficialStateName": "Turks and Caicos Islands",
+        "ISO2": "TC",
+        "ISO3": "TCA",
+        "Tld": "tc",
+        "Languages": [ "en" ],
+        "Currency": "USD",
+        "Capital": "cockburn_town",
+        "Size": 616.3,
+        "Phone": "+1-649",
+        "Continent": "north_america"
+    },
+
+    {
+        "Key": "tv",
+        "English": "Tuvalu",
+        "Local": "Tuvalu",
+        "OfficialStateName": "Tuvalu",
+        "ISO2": "TV",
+        "ISO3": "TUV",
+        "Tld": "tv",
+        "Languages": [ "en" ],
+        "Currency": "AUD",
+        "Capital": "funafuti",
+        "Size": 26,
+        "Phone": "+688",
+        "Continent": "asia"
+    },
+
     {
         "Key": "ug",
         "English": "Uganda",
@@ -1837,6 +2829,7 @@
         "Phone": "+256",
         "Continent": "africa"
     },
+
     {
         "Key": "ua",
         "English": "Ukraine",
@@ -1852,6 +2845,7 @@
         "Phone": "+380",
         "Continent": "europe"
     },
+
     {
         "Key": "ae",
         "English": "United Arab Emirates",
@@ -1867,6 +2861,7 @@
         "Phone": "+971",
         "Continent": "asia"
     },
+
     {
         "Key": "uk",
         "English": "United Kingdom",
@@ -1882,6 +2877,7 @@
         "Phone": "+44",
         "Continent": "europe"
     },
+
     {
         "Key": "um",
         "English": "United States Minor Outlying Islands",
@@ -1897,6 +2893,7 @@
         "Phone": "+1",
         "Continent": "north_america"
     },
+
     {
         "Key": "us",
         "English": "United States of America",
@@ -1912,6 +2909,7 @@
         "Phone": "+1",
         "Continent": "north_america"
     },
+
     {
         "Key": "uy",
         "English": "Uruguay",
@@ -1927,6 +2925,7 @@
         "Phone": "+598",
         "Continent": "south_america"
     },
+
     {
         "Key": "uz",
         "English": "Uzbekistan",
@@ -1942,6 +2941,7 @@
         "Phone": "+998",
         "Continent": "asia"
     },
+
     {
         "Key": "vu",
         "English": "Vanuatu",
@@ -1957,6 +2957,7 @@
         "Phone": "+678",
         "Continent": "oceania"
     },
+
     {
         "Key": "va",
         "English": "Vatican City",
@@ -1972,6 +2973,7 @@
         "Phone": "+379",
         "Continent": "europe"
     },
+
     {
         "Key": "ve",
         "English": "Venezuela",
@@ -1987,6 +2989,7 @@
         "Phone": "+58",
         "Continent": "south_america"
     },
+
     {
         "Key": "vn",
         "English": "Viet Nam",
@@ -2002,6 +3005,7 @@
         "Phone": "+84",
         "Continent": "asia"
     },
+
     {
         "Key": "vg",
         "English": "Virgin Islands (British)",
@@ -2017,6 +3021,7 @@
         "Phone": "+1-284",
         "Continent": "north_america"
     },
+
     {
         "Key": "vi",
         "English": "Virgin Islands (U.S.) ",
@@ -2032,6 +3037,7 @@
         "Phone": "+1-340",
         "Continent": "north_america"
     },
+
     {
         "Key": "wf",
         "English": "Wallis and Futuna",
@@ -2047,6 +3053,7 @@
         "Phone": "+681",
         "Continent": "oceania"
     },
+
     {
         "Key": "ye",
         "English": "Yemen",
@@ -2062,6 +3069,7 @@
         "Phone": "+967",
         "Continent": "asia"
     },
+
     {
         "Key": "zm",
         "English": "Zambia",
@@ -2077,6 +3085,7 @@
         "Phone": "+260",
         "Continent": "africa"
     },
+
     {
         "Key": "zw",
         "English": "Zimbabwe",
