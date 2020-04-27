@@ -12,7 +12,7 @@ namespace Rowa{
 		
 		public $data;
 		
-		public function __construct($fname){
+		public function __construct($fname = ""){
 			if(empty($fname)){
 				$fname = './rowa/countries/countries.json';
 			}
