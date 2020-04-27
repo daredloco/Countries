@@ -2,37 +2,8 @@
 Lists of countries and cities with important informations and scripts to use it in PHP and C#
 
 ## Content:
-- [ ] Example code for C#
-- [ ] Example code for PHP
-- [x] Class for PHP
-- [x] Class for C#
-- [x] Class for Laravel 5+
-- [x] Countries with the letter A
-- [x] Countries with the letter B
-- [x] Countries with the letter C
-- [x] Countries with the letter D
-- [x] Countries with the letter E
-- [x] Countries with the letter F
-- [x] Countries with the letter G
-- [x] Countries with the letter H
-- [x] Countries with the letter I
-- [x] Countries with the letter J
-- [x] Countries with the letter K
-- [ ] Countries with the letter L
-- [ ] Countries with the letter M
-- [ ] Countries with the letter N
-- [x] Countries with the letter O
-- [x] Countries with the letter P
-- [x] Countries with the letter Q
-- [x] Countries with the letter R
-- [x] Countries with the letter S
-- [x] Countries with the letter T
-- [x] Countries with the letter U
-- [x] Countries with the letter V
-- [x] Countries with the letter W
-- [x] Countries with the letter X
-- [x] Countries with the letter Y
-- [x] Countries with the letter Z
+- Informations for 194 countries (90% done, L/M/N are missing)
+- Informations: english name, local name, official state name, ISO-2 code, ISO-3 code, top level domain, languages as array (ISO 639-1), currency (ISO-4217), capital, size (area) in km^2, calling code, continent
 
 ## Usage (C#):
 Todo
