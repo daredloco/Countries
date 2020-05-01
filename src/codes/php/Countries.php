@@ -13,7 +13,7 @@ namespace Rowa{
 		
 		public function __construct($dir = ""){
 			if(empty($dir)){
-				$dir = "../../cities/";
+				$dir = "./cities/";
 			}
 			$countries = new Countries();
 			foreach($countries->data as $country){
@@ -30,9 +30,27 @@ namespace Rowa{
 					}
 					//REMOVE UNWANTED CHARS END
 					$jsondata = json_decode( $fcontent );
-					$data[$country->ISO2] = $jsondata;
+					$this->data[$country->ISO2] = $jsondata;
 				}
 			}
+		}
+		
+		public function getCitiesFromCountry($key){
+			if(array_key_exists($key)){
+				return $data[$key];
+			}
+			return false;
+		}
+		
+		public function getCity($key){
+			foreach($this->data as $d=>$v){
+				foreach($v as $city){
+					if($city->Key == $key){
+						return $city;
+					}
+				}
+			}
+			return false;
 		}
 	}
 	
