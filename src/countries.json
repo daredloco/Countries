@@ -2037,7 +2037,7 @@
         "Local": "Malaysia" ,
         "OfficialStateName": "Malaysia" ,
         "ISO2": "MY" ,
-        "ISO3": "MY" ,
+        "ISO3": "MYS" ,
         "Tld": "my" ,
         "Languages": [ "ms" ],
         "Currency": "MYR",
@@ -2409,7 +2409,7 @@
         "Tld": "nc" ,
         "Languages": [ "fr" ],
         "Currency": "XPF",
-        "Capital": "nouméa",
+        "Capital": "noumea",
         "Size": 18576,
         "Phone": "+687",
         "Continent": "oceania"
