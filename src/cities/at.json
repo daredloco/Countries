@@ -1,0 +1,14 @@
+﻿[
+    {
+        "Key": "vienna",
+        "English": "Vienna",
+        "Local": "Wien",
+        "State": "AT-09",
+        "Area": 414.78,
+        "Elevation": 151,
+        "Coordinates": {
+            "N": 48.2,
+            "E": 16.366667
+        }
+    }
+]
