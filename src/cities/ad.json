@@ -9,6 +9,7 @@
         "Coordinates": {
             "N": 42.5,
             "E": 1.5
-        }
+        },
+        "TimeZone": 2
     }
 ]
