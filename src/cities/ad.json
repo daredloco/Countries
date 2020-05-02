@@ -1,0 +1,14 @@
+﻿[
+    {
+        "Key": "andorra_la_vella",
+        "English": "Andorra la Vella",
+        "Local": "Andorra la Vella",
+        "State": "AD-07",
+        "Area": 12,
+        "Elevation": 1023,
+        "Coordinates": {
+            "N": 42.5,
+            "E": 1.5
+        }
+    }
+]
