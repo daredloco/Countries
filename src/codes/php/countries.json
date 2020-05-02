@@ -13,7 +13,8 @@
         "Size": 652230,
         "Phone": "+93",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": ["DMY","YMD"]
     },
 
     {
@@ -30,7 +31,8 @@
         "Size": 1580,
         "Phone": "+358 18",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -47,7 +49,8 @@
         "Size": 28748,
         "Phone": "+355",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -64,7 +67,8 @@
         "Size": 2381741,
         "Phone": "+213",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -81,7 +85,8 @@
         "Size": 199,
         "Phone": "+1-684",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "MDY" ]
     },
 
     {
@@ -98,7 +103,8 @@
         "Size": 467,
         "Phone": "+376",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -115,7 +121,8 @@
         "Size": 1246700,
         "Phone": "+244",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -132,7 +139,8 @@
         "Size": 91,
         "Phone": "+1-264",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -149,7 +157,8 @@
         "Size": 440,
         "Phone": "+1-268",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -166,7 +175,8 @@
         "Size": 2780400,
         "Phone": "+54",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -183,7 +193,8 @@
         "Size": 29743,
         "Phone": "+374",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -200,7 +211,8 @@
         "Size": 180,
         "Phone": "+297",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -217,7 +229,8 @@
         "Size": 7692024,
         "Phone": "+61",
         "Continent": "oceania",
-        "DrivingSide": "left"
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -234,7 +247,8 @@
         "Size": 83879,
         "Phone": "+43",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -251,7 +265,8 @@
         "Size": 86600,
         "Phone": "+994",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -268,7 +283,8 @@
         "Size": 13878,
         "Phone": "+1-242",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -285,7 +301,8 @@
         "Size": 780,
         "Phone": "+973",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -302,7 +319,8 @@
         "Size": 147570,
         "Phone": "+880",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -319,7 +337,8 @@
         "Size": 439,
         "Phone": "+1-246",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -336,7 +355,8 @@
         "Size": 207595,
         "Phone": "+375",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -353,7 +373,8 @@
         "Size": 30689,
         "Phone": "+32",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -370,7 +391,8 @@
         "Size": 22966,
         "Phone": "+501",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -387,7 +409,8 @@
         "Size": 114763,
         "Phone": "+229",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -404,7 +427,8 @@
         "Size": 53,
         "Phone": "+1-441",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -421,7 +445,8 @@
         "Size": 38394,
         "Phone": "+975",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "YMD" ]
     },
 
     {
@@ -438,7 +463,8 @@
         "Size": 1098581,
         "Phone": "+591",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -455,7 +481,8 @@
         "Size": 328,
         "Phone": "+599",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -472,7 +499,8 @@
         "Size": 51129,
         "Phone": "+387",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -489,7 +517,8 @@
         "Size": 581730,
         "Phone": "+267",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "YMD" ]
     },
 
     {
@@ -506,7 +535,8 @@
         "Size": 8515767,
         "Phone": "+55",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -523,7 +553,8 @@
         "Size": 54400,
         "Phone": "+246",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -540,7 +571,8 @@
         "Size": 5765,
         "Phone": "+673",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -557,7 +589,8 @@
         "Size": 110993,
         "Phone": "+359",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -574,7 +607,8 @@
         "Size": 274200,
         "Phone": "+226",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -591,7 +625,8 @@
         "Size": 27834,
         "Phone": "+257",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -608,7 +643,8 @@
         "Size": 4033,
         "Phone": "+238",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -625,7 +661,8 @@
         "Size": 181035,
         "Phone": "+855",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -642,7 +679,8 @@
         "Size": 475442,
         "Phone": "+237",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -659,7 +697,8 @@
         "Size": 9984670,
         "Phone": "+1",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD", "MDY" ]
     },
 
     {
@@ -676,7 +715,8 @@
         "Size": 264,
         "Phone": "+1-345",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "MDY" ]
     },
 
     {
@@ -693,7 +733,8 @@
         "Size": 622984,
         "Phone": "+236",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -710,7 +751,8 @@
         "Size": 1284000,
         "Phone": "+235",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -727,7 +769,8 @@
         "Size": 756096,
         "Phone": "+56",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -744,7 +787,8 @@
         "Size": 9596961,
         "Phone": "+86",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "YMD", "MDY" ]
     },
 
     {
@@ -761,7 +805,8 @@
         "Size": 135,
         "Phone": "+",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -778,7 +823,8 @@
         "Size": 14,
         "Phone": "+61 891",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -795,7 +841,8 @@
         "Size": 1141748,
         "Phone": "+57",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -812,7 +859,8 @@
         "Size": 1659,
         "Phone": "+269",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -829,7 +877,8 @@
         "Size": 2345409,
         "Phone": "+243",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -846,7 +895,8 @@
         "Size": 342000,
         "Phone": "+242",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -863,7 +913,8 @@
         "Size": 236,
         "Phone": "+682",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -880,7 +931,8 @@
         "Size": 51100,
         "Phone": "+506",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -897,7 +949,8 @@
         "Size": 322463,
         "Phone": "+225",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -914,7 +967,8 @@
         "Size": 56594,
         "Phone": "+385",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -931,7 +985,8 @@
         "Size": 109884,
         "Phone": "+53",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -948,7 +1003,8 @@
         "Size": 444,
         "Phone": "+599",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -965,7 +1021,8 @@
         "Size": 9251,
         "Phone": "+357",
         "Continent": "europe",
-        "DrivingSide": "left"
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -982,7 +1039,8 @@
         "Size": 78866,
         "Phone": "+420",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -999,7 +1057,8 @@
         "Size": 42933,
         "Phone": "+45",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1016,7 +1075,8 @@
         "Size": 23200,
         "Phone": "+253",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1033,7 +1093,8 @@
         "Size": 750,
         "Phone": "+1-767",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1050,7 +1111,8 @@
         "Size": 48671,
         "Phone": "+1-809",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1067,7 +1129,8 @@
         "Size": 283561,
         "Phone": "+593",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1084,7 +1147,8 @@
         "Size": 1010408,
         "Phone": "+20",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1101,7 +1165,8 @@
         "Size": 21041,
         "Phone": "+503",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1118,7 +1183,8 @@
         "Size": 28050,
         "Phone": "+240",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1135,7 +1201,8 @@
         "Size": 117600,
         "Phone": "+291",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1152,7 +1219,8 @@
         "Size": 45227,
         "Phone": "+372",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1169,7 +1237,8 @@
         "Size": 17364,
         "Phone": "+268",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1186,7 +1255,8 @@
         "Size": 1104300,
         "Phone": "+251",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1203,7 +1273,8 @@
         "Size": 12200,
         "Phone": "+500",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1220,7 +1291,8 @@
         "Size": 1399,
         "Phone": "+298",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1237,7 +1309,8 @@
         "Size": 18274,
         "Phone": "+679",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1254,7 +1327,8 @@
         "Size": 338424,
         "Phone": "+358",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1271,7 +1345,8 @@
         "Size": 640679,
         "Phone": "+33",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1288,7 +1363,8 @@
         "Size": 267667,
         "Phone": "+241",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1305,7 +1381,8 @@
         "Size": 10689,
         "Phone": "+220",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1322,7 +1399,8 @@
         "Size": 69700,
         "Phone": "+995",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1339,7 +1417,8 @@
         "Size": 3570222,
         "Phone": "+49",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1356,7 +1435,8 @@
         "Size": 239567,
         "Phone": "+233",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD", "MDY" ]
     },
 
     {
@@ -1373,7 +1453,8 @@
         "Size": 131957,
         "Phone": "+30",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1390,7 +1471,8 @@
         "Size": 2166086,
         "Phone": "+299",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1407,7 +1489,8 @@
         "Size": 348,
         "Phone": "+1-473",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1424,7 +1507,8 @@
         "Size": 540,
         "Phone": "+1-671",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "MDY" ]
     },
 
     {
@@ -1441,7 +1525,8 @@
         "Size": 108889,
         "Phone": "+502",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1458,7 +1543,8 @@
         "Size": 245857,
         "Phone": "+224",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1475,7 +1561,8 @@
         "Size": 36125,
         "Phone": "+245",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1492,7 +1579,8 @@
         "Size": 214970,
         "Phone": "+592",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1509,7 +1597,8 @@
         "Size": 2755,
         "Phone": "+852",
         "Continent": "asia",
-        "DrivingSide": "left"
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1526,7 +1615,8 @@
         "Size": 112492,
         "Phone": "+504",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1543,7 +1633,8 @@
         "Size": 27750,
         "Phone": "+509",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1560,7 +1651,8 @@
         "Size": 93030,
         "Phone": "+36",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "YMD" ]
     },
 
     {
@@ -1577,7 +1669,8 @@
         "Size": 1904569,
         "Phone": "+62",
         "Continent": "asia",
-        "DrivingSide": "left"
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1594,7 +1687,8 @@
         "Size": 70273,
         "Phone": "+353",
         "Continent": "europe",
-        "DrivingSide": "left"
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1611,7 +1705,8 @@
         "Size": 20770,
         "Phone": "+972",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1628,7 +1723,8 @@
         "Size": 572,
         "Phone": "+44",
         "Continent": "europe",
-        "DrivingSide": "left"
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1645,7 +1741,8 @@
         "Size": 3287263,
         "Phone": "+91",
         "Continent": "asia",
-        "DrivingSide": "left"
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1662,7 +1759,8 @@
         "Size": 437072,
         "Phone": "+964",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1679,7 +1777,8 @@
         "Size": 1648195,
         "Phone": "+98",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1696,7 +1795,8 @@
         "Size": 102775,
         "Phone": "+354",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1713,7 +1813,8 @@
         "Size": 301340,
         "Phone": "+39",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1730,7 +1831,8 @@
         "Size": 118,
         "Phone": "+44",
         "Continent": "europe",
-        "DrivingSide": "left"
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1747,7 +1849,8 @@
         "Size": 10991,
         "Phone": "+1-876",
         "Continent": "north_america",
-        "DrivingSide": "left"
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1764,7 +1867,8 @@
         "Size": 89342,
         "Phone": "+962",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1781,7 +1885,8 @@
         "Size": 377975,
         "Phone": "+81",
         "Continent": "asia",
-        "DrivingSide": "left"
+        "DrivingSide": "left",
+        "DateFormat": [ "MDY", "YMD" ]
     },
 
     {
@@ -1798,7 +1903,8 @@
         "Size": 580367,
         "Phone": "+254",
         "Continent": "africa",
-        "DrivingSide": "left"
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY", "MDY", "YMD" ]
     },
 
     {
@@ -1815,7 +1921,8 @@
         "Size": 199951,
         "Phone": "+996",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1832,7 +1939,8 @@
         "Size": 811,
         "Phone": "+686",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1849,7 +1957,8 @@
         "Size": 261,
         "Phone": "+1-869",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1866,7 +1975,8 @@
         "Size": 120540,
         "Phone": "+850",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "YMD" ]
     },
 
     {
@@ -1883,7 +1993,8 @@
         "Size": 100363,
         "Phone": "+82",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "YMD" ]
     },
 
     {
@@ -1900,7 +2011,8 @@
         "Size": 17818,
         "Phone": "+965",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1917,7 +2029,8 @@
         "Size": 2724900,
         "Phone": "+7-6",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1934,7 +2047,8 @@
         "Size": 237955,
         "Phone": "+856",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1951,7 +2065,8 @@
         "Size": 64589,
         "Phone": "+371",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1968,7 +2083,8 @@
         "Size": 10452,
         "Phone": "+961",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1985,7 +2101,8 @@
         "Size": 30355,
         "Phone": "+266",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -2002,7 +2119,8 @@
         "Size": 111369,
         "Phone": "+231",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2019,7 +2137,8 @@
         "Size": 1759541,
         "Phone": "+218",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2036,7 +2155,8 @@
         "Size": 160,
         "Phone": "+423",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2053,7 +2173,8 @@
         "Size": 65300,
         "Phone": "+370",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "YMD" ]
     },
 
     {
@@ -2070,7 +2191,8 @@
         "Size": 2586,
         "Phone": "+352",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -2087,7 +2209,8 @@
         "Size": 41285,
         "Phone": "+41",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2104,7 +2227,8 @@
         "Size": 115.3,
         "Phone": "+853",
         "Continent": "asia",
-        "DrivingSide": "left"
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -2121,7 +2245,8 @@
         "Size": 25713,
         "Phone": "+389",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2138,7 +2263,8 @@
         "Size": 587041,
         "Phone": "+261",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2155,7 +2281,8 @@
         "Size": 118484,
         "Phone": "+265",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2172,7 +2299,8 @@
         "Size": 330803,
         "Phone": "+60",
         "Continent": "oceania",
-        "DrivingSide": "left"
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2189,7 +2317,8 @@
         "Size": 298,
         "Phone": "+960",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -2206,7 +2335,8 @@
         "Size": 1240192,
         "Phone": "+223",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2223,7 +2353,8 @@
         "Size": 316,
         "Phone": "+356",
         "Continent": "Europe",
-        "DrivingSide": "left"
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2240,7 +2371,8 @@
         "Size": 181.43,
         "Phone": "+692",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "MDY" ]
     },
 
     {
@@ -2257,7 +2389,8 @@
         "Size": 1128,
         "Phone": "+596",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2274,7 +2407,8 @@
         "Size": 1030000,
         "Phone": "+222",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2291,7 +2425,8 @@
         "Size": 2040,
         "Phone": "+230",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2308,7 +2443,8 @@
         "Size": 374,
         "Phone": "+262",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2325,7 +2461,8 @@
         "Size": 1972550,
         "Phone": "+52",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2342,7 +2479,8 @@
         "Size": 702,
         "Phone": "+691",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "MDY" ]
     },
 
     {
@@ -2359,7 +2497,8 @@
         "Size": 33846,
         "Phone": "+373",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2376,7 +2515,8 @@
         "Size": 2.2,
         "Phone": "+377",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2393,7 +2533,8 @@
         "Size": 1566000,
         "Phone": "+976",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "YMD" ]
     },
 
     {
@@ -2410,7 +2551,8 @@
         "Size": 13812,
         "Phone": "+382",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2427,7 +2569,8 @@
         "Size": 102,
         "Phone": "+1-664",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2444,7 +2587,8 @@
         "Size": 710850,
         "Phone": "+212",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2461,7 +2605,8 @@
         "Size": 801590,
         "Phone": "+258",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2478,7 +2623,8 @@
         "Size": 676578,
         "Phone": "+95",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -2495,7 +2641,8 @@
         "Size": 825615,
         "Phone": "+264",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -2512,7 +2659,8 @@
         "Size": 21,
         "Phone": "+674",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2529,7 +2677,8 @@
         "Size": 147181,
         "Phone": "+977",
         "Continent": "asia",
-        "DrivingSide": "left"
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -2546,7 +2695,8 @@
         "Size": 42531,
         "Phone": "+31",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2563,7 +2713,8 @@
         "Size": 18576,
         "Phone": "+687",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2580,7 +2731,8 @@
         "Size": 268021,
         "Phone": "+64",
         "Continent": "oceania",
-        "DrivingSide": "left"
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2597,7 +2749,8 @@
         "Size": 130375,
         "Phone": "+505",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2614,7 +2767,8 @@
         "Size": 1267000,
         "Phone": "+227",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2631,7 +2785,8 @@
         "Size": 923768,
         "Phone": "+234",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2648,7 +2803,8 @@
         "Size": 261.46,
         "Phone": "+683",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2665,7 +2821,8 @@
         "Size": 34.6,
         "Phone": "+672",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2682,7 +2839,8 @@
         "Size": 464,
         "Phone": "+1-670",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "MDY" ]
     },
 
     {
@@ -2699,7 +2857,8 @@
         "Size": 385207,
         "Phone": "+47",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -2716,7 +2875,8 @@
         "Size": 309500,
         "Phone": "+968",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2733,7 +2893,8 @@
         "Size": 881913,
         "Phone": "+92",
         "Continent": "asia",
-        "DrivingSide": "left"
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2750,7 +2911,8 @@
         "Size": 459,
         "Phone": "+680",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2767,7 +2929,8 @@
         "Size": 6020,
         "Phone": "+970",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2784,7 +2947,8 @@
         "Size": 75417,
         "Phone": "+507",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "MDY" ]
     },
 
     {
@@ -2801,7 +2965,8 @@
         "Size": 462840,
         "Phone": "+675",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2818,7 +2983,8 @@
         "Size": 406752,
         "Phone": "+595",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2835,7 +3001,8 @@
         "Size": 1285216,
         "Phone": "+51",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2852,7 +3019,8 @@
         "Size": 300000,
         "Phone": "+63",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "MDY" ]
     },
 
     {
@@ -2869,7 +3037,8 @@
         "Size": 47,
         "Phone": "+64",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2886,7 +3055,8 @@
         "Size": 312696,
         "Phone": "+48",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -2903,7 +3073,8 @@
         "Size": 92212,
         "Phone": "+351",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -2920,7 +3091,8 @@
         "Size": 9104,
         "Phone": "+1-787",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "MDY" ]
     },
 
     {
@@ -2937,7 +3109,8 @@
         "Size": 11581,
         "Phone": "+974",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2954,7 +3127,8 @@
         "Size": 2511,
         "Phone": "+262",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2971,7 +3145,8 @@
         "Size": 238397,
         "Phone": "+40",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -2988,7 +3163,8 @@
         "Size": 17098246,
         "Phone": "+7",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -3005,7 +3181,8 @@
         "Size": 26338,
         "Phone": "+250",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -3022,7 +3199,8 @@
         "Size": 25,
         "Phone": "+590",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3039,7 +3217,8 @@
         "Size": 394,
         "Phone": "+290",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3056,7 +3235,8 @@
         "Size": 617,
         "Phone": "+1-758",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3073,7 +3253,8 @@
         "Size": 53.2,
         "Phone": "+590",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3090,7 +3271,8 @@
         "Size": 242,
         "Phone": "+508",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3107,7 +3289,8 @@
         "Size": 389,
         "Phone": "+1-784",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3124,7 +3307,8 @@
         "Size": 2842,
         "Phone": "+685",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3141,7 +3325,8 @@
         "Size": 61.2,
         "Phone": "+378",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3158,7 +3343,8 @@
         "Size": 1001,
         "Phone": "+239",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3175,7 +3361,8 @@
         "Size": 2149690,
         "Phone": "+966",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
     {
         "Key": "sn",
@@ -3191,7 +3378,8 @@
         "Size": 196712,
         "Phone": "+221",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3208,7 +3396,8 @@
         "Size": 88361,
         "Phone": "+381",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3225,7 +3414,8 @@
         "Size": 459,
         "Phone": "+248",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3242,7 +3432,8 @@
         "Size": 71740,
         "Phone": "+232",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3259,7 +3450,8 @@
         "Size": 725.7,
         "Phone": "+65",
         "Continent": "asia",
-        "DrivingSide": "left"
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -3276,7 +3468,8 @@
         "Size": 34,
         "Phone": "+1-721",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3293,7 +3486,8 @@
         "Size": 49035,
         "Phone": "+421",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3310,7 +3504,8 @@
         "Size": 20273,
         "Phone": "+386",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3327,7 +3522,8 @@
         "Size": 28400,
         "Phone": "+677",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3344,7 +3540,8 @@
         "Size": 637657,
         "Phone": "+252",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3361,7 +3558,8 @@
         "Size": 1221037,
         "Phone": "+27",
         "Continent": "africa",
-        "DrivingSide": "left"
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -3378,7 +3576,8 @@
         "Size": 3903,
         "Phone": "+500",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3395,7 +3594,8 @@
         "Size": 619745,
         "Phone": "+211",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3412,7 +3612,8 @@
         "Size": 505990,
         "Phone": "+34",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -3429,7 +3630,8 @@
         "Size": 65610,
         "Phone": "+94",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -3446,7 +3648,8 @@
         "Size": 1886068,
         "Phone": "+249",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3463,7 +3666,8 @@
         "Size": 163821,
         "Phone": "+597",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3480,7 +3684,8 @@
         "Size": 61022,
         "Phone": "+47",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3497,7 +3702,8 @@
         "Size": 450295,
         "Phone": "+46",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -3514,7 +3720,8 @@
         "Size": 185180,
         "Phone": "+963",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3531,7 +3738,8 @@
         "Size": 36197,
         "Phone": "+886",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "YMD" ]
     },
 
     {
@@ -3548,7 +3756,8 @@
         "Size": 143100,
         "Phone": "+992",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3565,7 +3774,8 @@
         "Size": 947303,
         "Phone": "+255",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3582,7 +3792,8 @@
         "Size": 513120,
         "Phone": "+66",
         "Continent": "asia",
-        "DrivingSide": "left"
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3599,7 +3810,8 @@
         "Size": 15007,
         "Phone": "+670",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3616,7 +3828,8 @@
         "Size": 56785,
         "Phone": "+228",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "MDY" ]
     },
 
     {
@@ -3633,7 +3846,8 @@
         "Size": 10,
         "Phone": "+690",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3650,7 +3864,8 @@
         "Size": 748,
         "Phone": "+676",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3667,7 +3882,8 @@
         "Size": 5131,
         "Phone": "+1-868",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3684,7 +3900,8 @@
         "Size": 163610,
         "Phone": "+216",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3701,7 +3918,8 @@
         "Size": 783356,
         "Phone": "+90",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3718,7 +3936,8 @@
         "Size": 491210,
         "Phone": "+993",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3735,7 +3954,8 @@
         "Size": 616.3,
         "Phone": "+1-649",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3752,7 +3972,8 @@
         "Size": 26,
         "Phone": "+688",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3769,7 +3990,8 @@
         "Size": 241038,
         "Phone": "+256",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3786,7 +4008,8 @@
         "Size": 603628,
         "Phone": "+380",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3803,7 +4026,8 @@
         "Size": 83600,
         "Phone": "+971",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3820,7 +4044,8 @@
         "Size": 242495,
         "Phone": "+44",
         "Continent": "europe",
-        "DrivingSide": "left"
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -3837,7 +4062,8 @@
         "Size": 34.2,
         "Phone": "+1",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "MDY" ]
     },
 
     {
@@ -3854,7 +4080,8 @@
         "Size": 9833520,
         "Phone": "+1",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "MDY", "YMD" ]
     },
 
     {
@@ -3871,7 +4098,8 @@
         "Size": 176215,
         "Phone": "+598",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3888,7 +4116,8 @@
         "Size": 448978,
         "Phone": "+998",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "YMD" ]
     },
 
     {
@@ -3905,7 +4134,8 @@
         "Size": 12189,
         "Phone": "+678",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3922,7 +4152,8 @@
         "Size": 0.49,
         "Phone": "+379",
         "Continent": "europe",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -3939,7 +4170,8 @@
         "Size": 916445,
         "Phone": "+58",
         "Continent": "south_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3956,7 +4188,8 @@
         "Size": 331212,
         "Phone": "+84",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -3973,7 +4206,8 @@
         "Size": 153,
         "Phone": "+1-284",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3990,7 +4224,8 @@
         "Size": 346,
         "Phone": "+1-340",
         "Continent": "north_america",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "MDY" ]
     },
 
     {
@@ -4007,7 +4242,8 @@
         "Size": 142,
         "Phone": "+681",
         "Continent": "oceania",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -4024,7 +4260,8 @@
         "Size": 527968,
         "Phone": "+967",
         "Continent": "asia",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -4041,7 +4278,8 @@
         "Size": 752618,
         "Phone": "+260",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -4058,6 +4296,7 @@
         "Size": 390757,
         "Phone": "+263",
         "Continent": "africa",
-        "DrivingSide": "right"
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     }
 ]
