@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "bandar_seri_begawan",
+        "English": "Bandar Seri Begawan",
+        "Local": "Bandar Seri Begawan",
+        "State": "BN-BM",
+        "Area": 100.36,
+        "Elevation": 1,
+        "Coordinates": {
+            "N": 4.890278,
+            "E": 114.942222
+        },
+        "TimeZone": 8
+    }
+]

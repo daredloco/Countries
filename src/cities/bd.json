@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "dhaka",
+        "English": "Dhaka",
+        "Local": "Dhaka",
+        "State": "BD-C",
+        "Area": 306,
+        "Elevation": 4,
+        "Coordinates": {
+            "N": 23.763889,
+            "E": 90.388889
+        },
+        "TimeZone": 6
+    }
+]

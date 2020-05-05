@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "porto-novo",
+        "English": "Porto-Novo",
+        "Local": "Hogbonu",
+        "State": "BJ-OU",
+        "Area": 110,
+        "Elevation": 38,
+        "Coordinates": {
+            "N": 6.497222,
+            "E": 2.605
+        },
+        "TimeZone": 1
+    }
+]

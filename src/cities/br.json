@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "brasilia",
+        "English": "Brasilia",
+        "Local": "Brasília",
+        "State": "BR-DF",
+        "Area": 5802,
+        "Elevation": 1172,
+        "Coordinates": {
+            "N": -15.793889,
+            "E": -47.882778
+        },
+        "TimeZone": -3
+    }
+]

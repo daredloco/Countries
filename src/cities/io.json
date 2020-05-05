@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "camp_justice",
+        "English": "Camp Justice",
+        "Local": "Camp Justice",
+        "State": "DG",
+        "Area": 27.2,
+        "Elevation": 7,
+        "Coordinates": {
+            "N": -7.3,
+            "E": 72.4
+        },
+        "TimeZone": 6
+    }
+]

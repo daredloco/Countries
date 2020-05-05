@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "hamilton",
+        "English": "Hamilton",
+        "Local": "Hamiltion",
+        "State": "BM",
+        "Area": 0.7,
+        "Elevation": 12,
+        "Coordinates": {
+            "N": 32.293,
+            "E": -64.782
+        },
+        "TimeZone": -3
+    }
+]
