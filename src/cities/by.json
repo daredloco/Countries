@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "minsk",
+        "English": "Minsk",
+        "Local": "Мінск",
+        "State": "BY-MI",
+        "Area": 409.5,
+        "Elevation": 280.6,
+        "Coordinates": {
+            "N": 53.9,
+            "E": 27.566667
+        },
+        "TimeZone": 3
+    }
+]

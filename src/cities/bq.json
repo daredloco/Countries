@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "kralendijk",
+        "English": "Kralendijk",
+        "Local": "Kralendijk",
+        "State": "BQ-BO",
+        "Area": 294,
+        "Elevation": 16,
+        "Coordinates": {
+            "N": 12.144444,
+            "E": -68.265556
+        },
+        "TimeZone": -4
+    }
+]

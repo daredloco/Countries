@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "sofia",
+        "English": "Sofia",
+        "Local": "Sofiya",
+        "State": "BG-22",
+        "Area": 492,
+        "Elevation": 500,
+        "Coordinates": {
+            "N": 42.7,
+            "E": 23.33
+        },
+        "TimeZone": 2
+    }
+]

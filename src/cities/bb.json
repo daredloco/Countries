@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "bridgetown",
+        "English": "Bridgetown",
+        "Local": "Bridgetown",
+        "State": "BB-08",
+        "Area": 40,
+        "Elevation": 1,
+        "Coordinates": {
+            "N": 13.0975,
+            "E": -59.616667
+        },
+        "TimeZone": -4
+    }
+]

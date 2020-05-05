@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "nassau",
+        "English": "Nassau",
+        "Local": "Nassau",
+        "State": "BS-NP",
+        "Area": 207,
+        "Elevation": 6,
+        "Coordinates": {
+            "N": 25.066667,
+            "E": -77.333333
+        },
+        "TimeZone": -4
+    }
+]

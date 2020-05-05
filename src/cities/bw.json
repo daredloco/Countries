@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "gaborone",
+        "English": "Gaborone",
+        "Local": "Gaborone",
+        "State": "BW-GA",
+        "Area": 169,
+        "Elevation": 1014,
+        "Coordinates": {
+            "N": -24.658056,
+            "E": 25.912222
+        },
+        "TimeZone": 2
+    }
+]

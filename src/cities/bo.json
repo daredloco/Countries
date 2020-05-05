@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "sucre",
+        "English": "Sucre",
+        "Local": "Sucre",
+        "State": "BO-H",
+        "Area": 1768,
+        "Elevation": 2810,
+        "Coordinates": {
+            "N": -19.05,
+            "E": -65.25
+        },
+        "TimeZone": -4
+    }
+]

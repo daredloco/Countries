@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "sarajevo",
+        "English": "Sarajevo",
+        "Local": "Сарајево",
+        "State": "BA-BIH",
+        "Area": 141.5,
+        "Elevation": 550,
+        "Coordinates": {
+            "N": 43.866667,
+            "E": 18.416667
+        },
+        "TimeZone": 1
+    }
+]

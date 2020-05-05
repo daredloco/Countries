@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "thimphu",
+        "English": "Thimphu",
+        "Local": "Thimphu ",
+        "State": "BT-15",
+        "Area": 26.1,
+        "Elevation": 2320,
+        "Coordinates": {
+            "N": 27.472222,
+            "E": 89.636111
+        },
+        "TimeZone": 6
+    }
+]
