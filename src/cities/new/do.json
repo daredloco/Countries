@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "santo_domingo",
+        "English": "Santo Domingo",
+        "Local": "Santo Domingo",
+        "State": "DO-01",
+        "Area": 104.44,
+        "Elevation": 14,
+        "Coordinates": {
+            "N": 18.466667,
+            "E": -69.95
+        },
+        "TimeZone": -4
+    }
+]

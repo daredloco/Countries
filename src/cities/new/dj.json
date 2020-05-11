@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "djibouti",
+        "English": "Djibouti",
+        "Local": "Magaalada Jabuuti",
+        "State": "DJ-DJ",
+        "Area": 26,
+        "Elevation": 14,
+        "Coordinates": {
+            "N": 11.588333,
+            "E": 43.145
+        },
+        "TimeZone": 3
+    }
+]
