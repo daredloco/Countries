@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "kinshasa",
+        "English": "Kinshasa",
+        "Local": "Kinsásá",
+        "State": "CD-KN",
+        "Area": 9965,
+        "Elevation": 240,
+        "Coordinates": {
+            "N": -4.325,
+            "E": 15.322222
+        },
+        "TimeZone": 1
+    }
+]

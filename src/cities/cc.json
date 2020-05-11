@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "west_island",
+        "English": "West Island",
+        "Local": "Pulau Panjang",
+        "State": "CC",
+        "Area": 6.23,
+        "Elevation": 5,
+        "Coordinates": {
+            "N": -12.186944,
+            "E": 96.828333
+        },
+        "TimeZone": 6.5
+    }
+]

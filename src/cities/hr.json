@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "zagreb",
+        "English": "Zagreb",
+        "Local": "Zagreb",
+        "State": "HR-21",
+        "Area": 641,
+        "Elevation": 158,
+        "Coordinates": {
+            "N": 45.816667,
+            "E": 15.983333
+        },
+        "TimeZone": 1
+    }
+]

@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "bogota",
+        "English": "Bogotá",
+        "Local": "Bogotá",
+        "State": "CO-DC",
+        "Area": 1587,
+        "Elevation": 2640,
+        "Coordinates": {
+            "N": 4.711111,
+            "E": -74.072222
+        },
+        "TimeZone": 5
+    }
+]

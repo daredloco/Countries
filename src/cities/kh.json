@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "phnom_penh",
+        "English": "Phnom Penh",
+        "Local": "Phnum Pɨñ",
+        "State": "KH-12",
+        "Area": 679,
+        "Elevation": 12,
+        "Coordinates": {
+            "N": 11.569444,
+            "E": 104.921111
+        },
+        "TimeZone": 7
+    }
+]

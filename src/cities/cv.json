@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "praia",
+        "English": "Praia",
+        "Local": "Praia",
+        "State": "CV-PR",
+        "Area": 102.6,
+        "Elevation": 5,
+        "Coordinates": {
+            "N": 14.918,
+            "E": -23.509
+        },
+        "TimeZone": -1
+    }
+]

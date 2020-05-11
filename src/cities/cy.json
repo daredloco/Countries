@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "nicosia",
+        "English": "Nicosia",
+        "Local": "Lefkosía",
+        "State": "CY-01",
+        "Area": 51,
+        "Elevation": 220,
+        "Coordinates": {
+            "N": 35.1725,
+            "E": 33.365
+        },
+        "TimeZone": 2
+    }
+]

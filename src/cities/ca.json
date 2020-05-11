@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "ottawa",
+        "English": "Ottawa",
+        "Local": "Ottawa",
+        "State": "CA-ON",
+        "Area": 2790.3,
+        "Elevation": 70,
+        "Coordinates": {
+            "N": 45.424722,
+            "E": -75.695
+        },
+        "TimeZone": -5
+    }
+]
