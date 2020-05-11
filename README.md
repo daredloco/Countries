@@ -9,6 +9,7 @@ Lists of countries and cities with important informations and scripts to use it 
 #### Cities
 - Informations for capital cities with the letter A-B
 - Informations: english name, local name, area, elevation, coordinates (decimal), state (ISO 3166), timezone (UTC)
+- Avaura area unknown...
 
 ## Usage (C#):
 Todo
