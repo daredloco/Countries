@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "yaounde",
+        "English": "Yaoundé",
+        "Local": "Yaoundé",
+        "State": "CM-CE",
+        "Area": 180,
+        "Elevation": 726,
+        "Coordinates": {
+            "N": 3.866667,
+            "E": 11.516667
+        },
+        "TimeZone": 1
+    }
+]

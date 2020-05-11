@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "yamoussoukro",
+        "English": "Yamoussoukro",
+        "Local": "Yamoussoukro",
+        "State": "CI-YM",
+        "Area": 3500,
+        "Elevation": 214,
+        "Coordinates": {
+            "N": 6.816667,
+            "E": -5.283333
+        },
+        "TimeZone": 0
+    }
+]

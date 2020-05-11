@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "Havana",
+        "English": "Havana",
+        "Local": "Havana",
+        "State": "CU-03",
+        "Area": 728.26,
+        "Elevation": 59,
+        "Coordinates": {
+            "N": 23.136667,
+            "E": -82.358889
+        },
+        "TimeZone": -5
+    }
+]

@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "beijing",
+        "English": "Beijing",
+        "Local": "Peking",
+        "State": "CN-BJ",
+        "Area": 16410.5,
+        "Elevation": 43,
+        "Coordinates": {
+            "N": 39.9069,
+            "E": 116.3976
+        },
+        "TimeZone": 8
+    }
+]
