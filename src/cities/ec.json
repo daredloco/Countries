@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "quito",
+        "English": "Quito",
+        "Local": "Quito",
+        "State": "EC-P",
+        "Area": 372.39,
+        "Elevation": 2850,
+        "Coordinates": {
+            "N": -0.233333,
+            "E": -78.516667
+        },
+        "TimeZone": -5
+    }
+]
