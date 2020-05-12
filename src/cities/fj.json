@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "suva",
+        "English": "Suva",
+        "Local": "Suva",
+        "State": "FJ-C",
+        "Area": 2048,
+        "Elevation": 43,
+        "Coordinates": {
+            "N": -18.1416,
+            "E": 178.4419
+        },
+        "TimeZone": 12
+    }
+]

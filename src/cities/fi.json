@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "helsinki",
+        "English": "Helsinki",
+        "Local": "Helsinki",
+        "State": "FI-18",
+        "Area": 715.48,
+        "Elevation": 7,
+        "Coordinates": {
+            "N": 60.170833,
+            "E": 24.9375
+        },
+        "TimeZone": 2
+    }
+]

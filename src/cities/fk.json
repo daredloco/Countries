@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "stanley",
+        "English": "Stanley",
+        "Local": "Port Stanley",
+        "State": "FK",
+        "Area": 2.5,
+        "Elevation": 1,
+        "Coordinates": {
+            "N": -51.694444,
+            "E": -57.852778
+        },
+        "TimeZone": -3
+    }
+]

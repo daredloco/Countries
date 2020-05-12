@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "torshavn",
+        "English": "Tórshavn",
+        "Local": "Tórshavn",
+        "State": "FO",
+        "Area": 172.9,
+        "Elevation": 24,
+        "Coordinates": {
+            "N": 62.011667,
+            "E": -6.7675
+        },
+        "TimeZone": 1
+    }
+]
