@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "tallinn",
+        "English": "Tallinn",
+        "Local": "Tallinn",
+        "State": "EE-37",
+        "Area": 159.2,
+        "Elevation": 9,
+        "Coordinates": {
+            "N": 59.437222,
+            "E": 24.745278
+        },
+        "TimeZone": 2
+    }
+]

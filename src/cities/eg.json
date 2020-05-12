@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "cairo",
+        "English": "Cairo",
+        "Local": "al-Qāhirah",
+        "State": "EG-C",
+        "Area": 606,
+        "Elevation": 23,
+        "Coordinates": {
+            "N": 30.033333,
+            "E": 31.233333
+        },
+        "TimeZone": 2
+    }
+]

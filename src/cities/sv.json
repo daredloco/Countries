@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "san_salvador",
+        "English": "San Salvador",
+        "Local": "San Salvador",
+        "State": "SV-SS",
+        "Area": 72.25,
+        "Elevation": 658,
+        "Coordinates": {
+            "N": 13.698889,
+            "E": -89.191389
+        },
+        "TimeZone": -6
+    }
+]

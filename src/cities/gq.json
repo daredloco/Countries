@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "malabo",
+        "English": "Malabo",
+        "Local": "Malabo",
+        "State": "GQ-BN",
+        "Area": 21,
+        "Elevation": 0,
+        "Coordinates": {
+            "N": 3.752064,
+            "E": 8.7737
+        },
+        "TimeZone": 1
+    }
+]
