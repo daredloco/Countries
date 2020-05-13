@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "hong_kong",
+        "English": "Hong Kong",
+        "Local": "Hong Kong",
+        "State": "CN-HK",
+        "Area": 2755,
+        "Elevation": 0,
+        "Coordinates": {
+            "N": 22.3,
+            "E": 114.2
+        },
+        "TimeZone": 8
+    }
+]

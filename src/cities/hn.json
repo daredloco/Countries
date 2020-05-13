@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "tegucigalpa",
+        "English": "Tegucigalpa",
+        "Local": "Tegucigalpa",
+        "State": "HN-FM",
+        "Area": 1502,
+        "Elevation": 990,
+        "Coordinates": {
+            "N": 14.1,
+            "E": -87.216667
+        },
+        "TimeZone": -6
+    }
+]

@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "budapesst",
+        "English": "Budapest",
+        "Local": "Budapest",
+        "State": "HU-BU",
+        "Area": 525.2,
+        "Elevation": 96,
+        "Coordinates": {
+            "N": 47.4925,
+            "E": 19.051389
+        },
+        "TimeZone": 1
+    }
+]

@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "port_au_prince",
+        "English": "Port-au-Prince",
+        "Local": "Pòtoprens",
+        "State": "HT-OU",
+        "Area": 36.04,
+        "Elevation": 65,
+        "Coordinates": {
+            "N": 18.533333,
+            "E": -72.333333
+        },
+        "TimeZone": -5
+    }
+]
