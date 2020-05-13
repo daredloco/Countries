@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "hagatna",
+        "English": "Hagåtña",
+        "Local": "Hagåtña",
+        "State": "US-GU",
+        "Area": 3,
+        "Elevation": 1,
+        "Coordinates": {
+            "N": 13.479167,
+            "E": 144.75
+        },
+        "TimeZone": 10
+    }
+]

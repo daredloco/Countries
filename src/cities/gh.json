@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "accra",
+        "English": "Accra",
+        "Local": "Nkran",
+        "State": "GH-AA",
+        "Area": 173,
+        "Elevation": 61,
+        "Coordinates": {
+            "N": 5.55,
+            "E": -0.2
+        },
+        "TimeZone": 0
+    }
+]

@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "tbilisi",
+        "English": "Tbilisi",
+        "Local": "Tbilisi",
+        "State": "GE-TB",
+        "Area": 504.2,
+        "Elevation": 380,
+        "Coordinates": {
+            "N": 41.716667,
+            "E": 44.783333
+        },
+        "TimeZone": 4
+    }
+]
