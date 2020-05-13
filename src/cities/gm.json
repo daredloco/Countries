@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "banjul",
+        "English": "Banjul",
+        "Local": "Banjul",
+        "State": "GM-B",
+        "Area": 12,
+        "Elevation": 0,
+        "Coordinates": {
+            "N": 13.453056,
+            "E": -16.5775
+        },
+        "TimeZone": 0
+    }
+]

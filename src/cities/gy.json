@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "georgetown",
+        "English": "Georgetown",
+        "Local": "Georgetown",
+        "State": "AL-11",
+        "Area": 70,
+        "Elevation": 0,
+        "Coordinates": {
+            "N": 6.801111,
+            "E": -58.155278
+        },
+        "TimeZone": -4
+    }
+]

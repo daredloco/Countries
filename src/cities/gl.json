@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "nuuk",
+        "English": "Nuuk",
+        "Local": "Godthåb",
+        "State": "GL-SM",
+        "Area": 690,
+        "Elevation": 5,
+        "Coordinates": {
+            "N": 64.181389,
+            "E": -51.694167
+        },
+        "TimeZone": -3
+    }
+]

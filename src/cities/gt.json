@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "guatemala_city",
+        "English": "Guatemala City",
+        "Local": "Ciudad de Guatemala",
+        "State": "GT-GU",
+        "Area": 220,
+        "Elevation": 1500,
+        "Coordinates": {
+            "N": 14.613333,
+            "E": -90.535278
+        },
+        "TimeZone": -6
+    }
+]

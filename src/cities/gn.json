@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "conakry",
+        "English": "Conakry",
+        "Local": "Kɔnakiri",
+        "State": "GN-C",
+        "Area": 450,
+        "Elevation": 336,
+        "Coordinates": {
+            "N": 9.516667,
+            "E": -13.7
+        },
+        "TimeZone": 0
+    }
+]

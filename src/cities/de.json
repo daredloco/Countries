@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "berlin",
+        "English": "Berlin",
+        "Local": "Berlin",
+        "State": "DE-BE",
+        "Area": 891.1,
+        "Elevation": 34,
+        "Coordinates": {
+            "N": 52.52,
+            "E": 13.405
+        },
+        "TimeZone": 1
+    }
+]
