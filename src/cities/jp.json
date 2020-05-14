@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "tokyo",
+        "English": "Tokyo",
+        "Local": "Tōkyō",
+        "State": "JP-13",
+        "Area": 2194.07,
+        "Elevation": 20,
+        "Coordinates": {
+            "N": 35.689722,
+            "E": 139.692222
+        },
+        "TimeZone": 9
+    }
+]

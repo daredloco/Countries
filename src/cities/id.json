@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "jakarta",
+        "English": "Jakarta",
+        "Local": "Jakarta",
+        "State": "ID-JK",
+        "Area": 662.33,
+        "Elevation": 8,
+        "Coordinates": {
+            "N": -6.2,
+            "E": 106.816667
+        },
+        "TimeZone": 7
+    }
+]

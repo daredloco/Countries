@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "tehran",
+        "English": "Tehran",
+        "Local": "Ťehrân",
+        "State": "IR-07",
+        "Area": 1200,
+        "Elevation": 900,
+        "Coordinates": {
+            "N": 35.689167,
+            "E": 51.388889
+        },
+        "TimeZone": 3.5
+    }
+]

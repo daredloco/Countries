@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "saint_helier",
+        "English": "Saint Helier",
+        "Local": "Saint-Hélier",
+        "State": "JE",
+        "Area": 10.6,
+        "Elevation": 110,
+        "Coordinates": {
+            "N": 49.187,
+            "E": -2.107
+        },
+        "TimeZone": 1
+    }
+]

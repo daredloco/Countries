@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "jerusalem",
+        "English": "Jerusalem",
+        "Local": "Yerushaláyim",
+        "State": "IL-JM",
+        "Area": 125.156,
+        "Elevation": 754,
+        "Coordinates": {
+            "N": 31.783333,
+            "E": 35.216667
+        },
+        "TimeZone": 2
+    }
+]
