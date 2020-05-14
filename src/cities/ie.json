@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "dublin",
+        "English": "Dublin",
+        "Local": "Baile Átha Cliath",
+        "State": "IE-L",
+        "Area": 115,
+        "Elevation": 4,
+        "Coordinates": {
+            "N": 53.35,
+            "E": -6.266667
+        },
+        "TimeZone": 0
+    }
+]

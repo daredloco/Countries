@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "reykjavik",
+        "English": "Reykjavík",
+        "Local": "Reykjavík",
+        "State": "IS-1",
+        "Area": 273,
+        "Elevation": 39,
+        "Coordinates": {
+            "N": 64.133333,
+            "E": -21.933333
+        },
+        "TimeZone": 0
+    }
+]

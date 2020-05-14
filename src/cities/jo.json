@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "amman",
+        "English": "Amman",
+        "Local": "ʻammān",
+        "State": "JO-AM",
+        "Area": 1680,
+        "Elevation": 700,
+        "Coordinates": {
+            "N": 31.949722,
+            "E": 35.932778
+        },
+        "TimeZone": 2
+    }
+]
