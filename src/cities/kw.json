@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "kuwait_city",
+        "English": "Kuwait City",
+        "Local": "Madinat Al-Kuwayt",
+        "State": "KW-KU",
+        "Area": 200,
+        "Elevation": -1,
+        "Coordinates": {
+            "N": 29.369722,
+            "E": 47.978333
+        },
+        "TimeZone": 3
+    }
+]

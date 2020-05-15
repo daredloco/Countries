@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "riga",
+        "English": "Riga",
+        "Local": "Rīga",
+        "State": "LV-RIX",
+        "Area": 324,
+        "Elevation": 9,
+        "Coordinates": {
+            "N": 56.948889,
+            "E": 24.106389
+        },
+        "TimeZone": 3
+    }
+]

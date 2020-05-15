@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "luxembourg_city",
+        "English": "Luxembourg City",
+        "Local": "Lëtzebuerg",
+        "State": "LU-LU",
+        "Area": 51.46,
+        "Elevation": 230,
+        "Coordinates": {
+            "N": 49.611667,
+            "E": 6.131944
+        },
+        "TimeZone": 1
+    }
+]

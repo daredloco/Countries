@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "beirut",
+        "English": "Beirut",
+        "Local": "Bayrūt",
+        "State": "LB-BA",
+        "Area": 19.8,
+        "Elevation": 105,
+        "Coordinates": {
+            "N": 33.886944,
+            "E": 35.513056
+        },
+        "TimeZone": 3
+    }
+]

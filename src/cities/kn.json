@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "basseterre",
+        "English": "Basseterre",
+        "Local": "Basseterre",
+        "State": "KN-K",
+        "Area": 6.1,
+        "Elevation": 15,
+        "Coordinates": {
+            "N": 17.3,
+            "E": -62.733333
+        },
+        "TimeZone": -4
+    }
+]
