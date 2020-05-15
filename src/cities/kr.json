@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "seoul",
+        "English": "Seoul",
+        "Local": "Seoul",
+        "State": "KR-11",
+        "Area": 605.21,
+        "Elevation": 38,
+        "Coordinates": {
+            "N": 37.566667,
+            "E": 126.966667
+        },
+        "TimeZone": 9
+    }
+]

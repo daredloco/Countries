@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "bishkek",
+        "English": "Bishkek",
+        "Local": "Bishkek",
+        "State": "KG-GB",
+        "Area": 169.9,
+        "Elevation": 800,
+        "Coordinates": {
+            "N": 42.874722,
+            "E": 74.612222
+        },
+        "TimeZone": 6
+    }
+]

@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "maseru",
+        "English": "Maseru",
+        "Local": "Maseru",
+        "State": "LS-A",
+        "Area": 138,
+        "Elevation": 1600,
+        "Coordinates": {
+            "N": -29.31,
+            "E": 27.48
+        },
+        "TimeZone": 2
+    }
+]

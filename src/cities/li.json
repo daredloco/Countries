@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "vaduz",
+        "English": "Vaduz",
+        "Local": "Vaduz",
+        "State": "LI-11",
+        "Area": 17.3,
+        "Elevation": 455,
+        "Coordinates": {
+            "N": 47.141,
+            "E": 9.521
+        },
+        "TimeZone": 1
+    }
+]
