@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "antananarivo",
+        "English": "Antananarivo",
+        "Local": "Tananarive",
+        "State": "MG-T",
+        "Area": 88,
+        "Elevation": 1276,
+        "Coordinates": {
+            "N": -18.933333,
+            "E": 47.516667
+        },
+        "TimeZone": 3
+    }
+]

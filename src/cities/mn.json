@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "ulaanbaatar",
+        "English": "Ulaanbaatar",
+        "Local": "Ulaanbaatar",
+        "State": "MN-1",
+        "Area": 4704.4,
+        "Elevation": 1350,
+        "Coordinates": {
+            "N": 47.920278,
+            "E": 106.917222
+        },
+        "TimeZone": 8
+    }
+]

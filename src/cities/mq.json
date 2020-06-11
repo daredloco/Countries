@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "fort-de-france",
+        "English": "Fort-de-France",
+        "Local": "Fort-de-France",
+        "State": "FR-MQ",
+        "Area": 44.21,
+        "Elevation": 43,
+        "Coordinates": {
+            "N": 14.6,
+            "E": -61.0833
+        },
+        "TimeZone": -4
+    }
+]

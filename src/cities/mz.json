@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "maputo",
+        "English": "Maputo",
+        "Local": "Maputo",
+        "State": "MZ-MPM",
+        "Area": 347.69,
+        "Elevation": 47,
+        "Coordinates": {
+            "N": -25.966667,
+            "E": 32.583333
+        },
+        "TimeZone": 2
+    }
+]

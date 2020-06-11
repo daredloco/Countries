@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "chisinau",
+        "English": "Chișinău",
+        "Local": "Chișinău",
+        "State": "MD-CU",
+        "Area": 123,
+        "Elevation": 85,
+        "Coordinates": {
+            "N": 47.022887,
+            "E": 28.835335
+        },
+        "TimeZone": 2
+    }
+]

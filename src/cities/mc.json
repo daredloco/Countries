@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "monte_carlo",
+        "English": "Monte Carlo",
+        "Local": "Monte Carlo",
+        "State": "MC-MC",
+        "Area": 0.61,
+        "Elevation": 56,
+        "Coordinates": {
+            "N": 43.739722,
+            "E": 7.427222
+        },
+        "TimeZone": 2
+    }
+]

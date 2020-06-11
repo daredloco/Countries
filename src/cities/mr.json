@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "nouakchott",
+        "English": "Nouakchott",
+        "Local": "Nwakcoṭ",
+        "State": "MR-14",
+        "Area": 1000,
+        "Elevation": 7,
+        "Coordinates": {
+            "N": 18.1,
+            "E": -15.95
+        },
+        "TimeZone": 0
+    }
+]

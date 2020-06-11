@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "majuro",
+        "English": "Majuro",
+        "Local": "Mājro",
+        "State": "MH-T",
+        "Area": 9.7,
+        "Elevation": 3,
+        "Coordinates": {
+            "N": 7.083333,
+            "E": 171.383333
+        },
+        "TimeZone": 12
+    }
+]
