@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "skopje",
+        "English": "Skopje",
+        "Local": "Скопје",
+        "State": "",
+        "Area": 571.46,
+        "Elevation": 240,
+        "Coordinates": {
+            "N": 42,
+            "E": 21.433333
+        },
+        "TimeZone": 1
+    }
+]

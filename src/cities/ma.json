@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "rabat",
+        "English": "Rabat",
+        "Local": "ar-ribāṭ;",
+        "State": "MA-04",
+        "Area": 117,
+        "Elevation": 160,
+        "Coordinates": {
+            "N": 34.033333,
+            "E": -6.833333
+        },
+        "TimeZone": 1
+    }
+]

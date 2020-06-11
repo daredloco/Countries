@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "male",
+        "English": "Malé",
+        "Local": "Malé",
+        "State": "MV-MLE",
+        "Area": 1.95,
+        "Elevation": 2.4,
+        "Coordinates": {
+            "N": 4.175278,
+            "E": 73.508889
+        },
+        "TimeZone": 5
+    }
+]

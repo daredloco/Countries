@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "valletta",
+        "English": "Valletta",
+        "Local": "il-Belt Valletta",
+        "State": "MT-60",
+        "Area": 0.61,
+        "Elevation": 56,
+        "Coordinates": {
+            "N": 35.898333,
+            "E": 14.5125
+        },
+        "TimeZone": 1
+    }
+]
