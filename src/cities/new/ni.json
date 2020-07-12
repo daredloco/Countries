@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "managua",
+        "English": "Managua",
+        "Local": "Managua",
+        "State": "NI-MN",
+        "Area": 267,
+        "Elevation": 83,
+        "Coordinates": {
+            "N": 12.136389,
+            "E": -86.251389
+        },
+        "TimeZone": -6
+    }
+]

@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "amsterdam",
+        "English": "Amsterdam",
+        "Local": "Amsterdam",
+        "State": "NL-NH",
+        "Area": 219,
+        "Elevation": -2,
+        "Coordinates": {
+            "N": 52.366667,
+            "E": 4.9
+        },
+        "TimeZone": 1
+    }
+]

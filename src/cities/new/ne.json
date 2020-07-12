@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "niamey",
+        "English": "Niamey",
+        "Local": "Niamey",
+        "State": "AI",
+        "Area": 239,
+        "Elevation": 207,
+        "Coordinates": {
+            "N": 13.511667,
+            "E": 2.125278
+        },
+        "TimeZone": 1
+    }
+]

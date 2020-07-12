@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "windhoek",
+        "English": "Windhoek",
+        "Local": "Otjomuise",
+        "State": "NA-KH",
+        "Area": 5133,
+        "Elevation": 1655,
+        "Coordinates": {
+            "N": -22.57,
+            "E": 17.083611
+        },
+        "TimeZone": 2
+    }
+]

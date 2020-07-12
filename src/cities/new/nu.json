@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "alofi",
+        "English": "Alofi",
+        "Local": "Alofi",
+        "State": "NU",
+        "Area": 46.5,
+        "Elevation": 21,
+        "Coordinates": {
+            "N": -19.054,
+            "E": -169.92
+        },
+        "TimeZone": -11
+    }
+]
