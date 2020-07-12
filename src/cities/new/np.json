@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "kathmandu",
+        "English": "Kathmandu",
+        "Local": "Kathmandu",
+        "State": "NP-P3",
+        "Area": 600,
+        "Elevation": 1400,
+        "Coordinates": {
+            "N": 27.7172,
+            "E": 85.324
+        },
+        "TimeZone": 5
+    }
+]
