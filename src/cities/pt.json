@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "lisbon",
+        "English": "Lisbon",
+        "Local": "Lisboa",
+        "State": "PT-11",
+        "Area": 100,
+        "Elevation": 2,
+        "Coordinates": {
+            "N": 38.725267,
+            "E": -9.150019
+        },
+        "TimeZone": 0
+    }
+]

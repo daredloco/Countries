@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "ramallah",
+        "English": "Ramallah",
+        "Local": "Rām Allāh",
+        "State": "PS-RBH",
+        "Area": 16.3,
+        "Elevation": 880,
+        "Coordinates": {
+            "N": 31.9,
+            "E": 35.2
+        },
+        "TimeZone": 3
+    }
+]

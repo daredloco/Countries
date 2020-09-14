@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "manila",
+        "English": "Manila",
+        "Local": "Maynilà",
+        "State": "PH-00",
+        "Area": 42.88,
+        "Elevation": 5,
+        "Coordinates": {
+            "N": 14.5958,
+            "E": 120.9772
+        },
+        "TimeZone": 8
+    }
+]
