@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "asuncion",
+        "English": "Asunción",
+        "Local": "Asunción",
+        "State": "PY-ASU",
+        "Area": 117,
+        "Elevation": 43,
+        "Coordinates": {
+            "N": -25.3,
+            "E": -57.633333
+        },
+        "TimeZone": -4
+    }
+]

@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "doha",
+        "English": "Doha",
+        "Local": "ad-Dawḥa",
+        "State": "QA-DA",
+        "Area": 132,
+        "Elevation": 10,
+        "Coordinates": {
+            "N": 25.286667,
+            "E": 51.533333
+        },
+        "TimeZone": 3
+    }
+]

@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "san_juan",
+        "English": "San Juan",
+        "Local": "San Juan",
+        "State": "US-PR",
+        "Area": 199,
+        "Elevation": 8,
+        "Coordinates": {
+            "N": 18.406389,
+            "E": -66.063889
+        },
+        "TimeZone": -4
+    }
+]

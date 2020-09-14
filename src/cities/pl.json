@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "warsaw",
+        "English": "Warsaw",
+        "Local": "Warszawa",
+        "State": "PL-14",
+        "Area": 517.24,
+        "Elevation": 88,
+        "Coordinates": {
+            "N": 52.233333,
+            "E": 21.016667
+        },
+        "TimeZone": 1
+    }
+]

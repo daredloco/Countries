@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "panama_city",
+        "English": "Panama City",
+        "Local": "Ciudad de Panamá",
+        "State": "PA-8",
+        "Area": 275,
+        "Elevation": 2,
+        "Coordinates": {
+            "N": 8.983333,
+            "E": -79.516667
+        },
+        "TimeZone": -5
+    }
+]

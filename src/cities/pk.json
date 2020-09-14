@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "islamabad",
+        "English": "Islamabad",
+        "Local": "Islāmābād",
+        "State": "PK-IS",
+        "Area": 220,
+        "Elevation": 490,
+        "Coordinates": {
+            "N": 33.693056,
+            "E": 73.063889
+        },
+        "TimeZone": 5
+    }
+]

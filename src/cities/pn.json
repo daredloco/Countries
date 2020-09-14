@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "adamstown",
+        "English": "Adamstown",
+        "Local": "Adamstown",
+        "State": "PN",
+        "Area": 4.6,
+        "Elevation": 330,
+        "Coordinates": {
+            "N": -25.066667,
+            "E": -130.1
+        },
+        "TimeZone": -8
+    }
+]
