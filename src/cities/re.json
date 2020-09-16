@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "saint-denis",
+        "English": "Saint-Denis",
+        "Local": "Saint-Denis",
+        "State": "FR-RE",
+        "Area": 142.79,
+        "Elevation": 2,
+        "Coordinates": {
+            "N": -20.8789,
+            "E": 55.4481
+        },
+        "TimeZone": 4
+    }
+]

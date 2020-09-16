@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "george_town",
+        "English": "George Town",
+        "Local": "George Town",
+        "State": "KY",
+        "Area": 29,
+        "Elevation": 3,
+        "Coordinates": {
+            "N": 19.3034,
+            "E": -81.3863
+        },
+        "TimeZone": -5
+    }
+]

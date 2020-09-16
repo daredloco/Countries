@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "port_moresby",
+        "English": "Port Moresby",
+        "Local": "Pot Mosbi",
+        "State": "PG-NCD",
+        "Area": 240,
+        "Elevation": 35,
+        "Coordinates": {
+            "N": -9.478889,
+            "E": 147.149444
+        },
+        "TimeZone": 10
+    }
+]

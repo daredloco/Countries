@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "canberra",
+        "English": "Canberra",
+        "Local": "Canberra",
+        "State": "AU-ACT",
+        "Area": 814.2,
+        "Elevation": 578,
+        "Coordinates": {
+            "N": -35.293056,
+            "E": 149.126944
+        },
+        "TimeZone": 10
+    }
+]

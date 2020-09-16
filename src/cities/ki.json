@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "tarawa",
+        "English": "Tarawa",
+        "Local": "Tarawa",
+        "State": "KI-G",
+        "Area": 500,
+        "Elevation": 3,
+        "Coordinates": {
+            "N": 1.333333,
+            "E": 173
+        },
+        "TimeZone": 12
+    }
+]

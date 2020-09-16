@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "belgrade",
+        "English": "Belgrade",
+        "Local": "Beograd",
+        "State": "RS-00",
+        "Area": 359.9,
+        "Elevation": 117,
+        "Coordinates": {
+            "N": 44.816667,
+            "E": 20.466667
+        },
+        "TimeZone": 1
+    }
+]

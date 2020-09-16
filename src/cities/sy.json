@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "damascus",
+        "English": "Damascus",
+        "Local": "Dimašq",
+        "State": "SY-DI",
+        "Area": 105,
+        "Elevation": 680,
+        "Coordinates": {
+            "N": 33.513056,
+            "E": 36.291944
+        },
+        "TimeZone": 2
+    }
+]

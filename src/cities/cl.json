@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "santiago",
+        "English": "Santiago",
+        "Local": "Santiago",
+        "State": "CL-RM",
+        "Area": 641,
+        "Elevation": 570,
+        "Coordinates": {
+            "N": -33.45,
+            "E": -70.666667
+        },
+        "TimeZone": -4
+    }
+]

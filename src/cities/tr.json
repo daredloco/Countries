@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "ankara",
+        "English": "Ankara",
+        "Local": "Ankara",
+        "State": "TR-06",
+        "Area": 24521,
+        "Elevation": 938,
+        "Coordinates": {
+            "N": 39.93,
+            "E": 32.85
+        },
+        "TimeZone": 3
+    }
+]

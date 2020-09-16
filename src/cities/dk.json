@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "copenhagen",
+        "English": "Copenhagen",
+        "Local": "København",
+        "State": "DK-84",
+        "Area": 179.8,
+        "Elevation": 91,
+        "Coordinates": {
+            "N": 55.676111,
+            "E": 12.568333
+        },
+        "TimeZone": 1
+    }
+]

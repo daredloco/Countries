@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "hanoi",
+        "English": "Hanoi",
+        "Local": "Hà Nội",
+        "State": "VN-HN",
+        "Area": 3358.6,
+        "Elevation": 16,
+        "Coordinates": {
+            "N": 21.028333,
+            "E": 105.854167
+        },
+        "TimeZone": 7
+    }
+]

@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "vilnius",
+        "English": "Vilnius",
+        "Local": "Vilnius",
+        "State": "LT-VL",
+        "Area": 401,
+        "Elevation": 112,
+        "Coordinates": {
+            "N": 54.683333,
+            "E": 25.283333
+        },
+        "TimeZone": 2
+    }
+]

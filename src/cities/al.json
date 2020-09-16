@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "tirana",
+        "English": "Tirana",
+        "Local": "Tirana",
+        "State": "AL-11",
+        "Area": 1110.03,
+        "Elevation": 110,
+        "Coordinates": {
+            "N": 41.328889,
+            "E": 19.817778
+        },
+        "TimeZone": 2
+    }
+]

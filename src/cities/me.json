@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "podgorica",
+        "English": "Podgorica",
+        "Local": "Podgorica",
+        "State": "ME-16",
+        "Area": 108,
+        "Elevation": 40,
+        "Coordinates": {
+            "N": 42.441286,
+            "E": 19.262892
+        },
+        "TimeZone": 1
+    }
+]

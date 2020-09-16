@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "san_marino",
+        "English": "City of San Marino",
+        "Local": "Città di San Marino",
+        "State": "SM-07",
+        "Area": 7.09,
+        "Elevation": 749,
+        "Coordinates": {
+            "N": 43.9346,
+            "E": 12.4473
+        },
+        "TimeZone": 1
+    }
+]

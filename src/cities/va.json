@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "vatican_city",
+        "English": "Vatican City",
+        "Local": "Status Civitatis Vaticanae",
+        "State": "VA",
+        "Area": 0.49,
+        "Elevation": 19,
+        "Coordinates": {
+            "N": 41.9025,
+            "E": 12.4525
+        },
+        "TimeZone": 1
+    }
+]

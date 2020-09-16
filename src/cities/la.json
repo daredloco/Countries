@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "vientiane",
+        "English": "Vientiane",
+        "Local": "Wīang chan",
+        "State": "LA-VT",
+        "Area": 130,
+        "Elevation": 174,
+        "Coordinates": {
+            "N": 17.966667,
+            "E": 102.6
+        },
+        "TimeZone": 7
+    }
+]

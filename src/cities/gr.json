@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "athens",
+        "English": "Athens",
+        "Local": "Athína",
+        "State": "GR-H",
+        "Area": 2928.717,
+        "Elevation": 70,
+        "Coordinates": {
+            "N": 37.983972,
+            "E": 23.727806
+        },
+        "TimeZone": 2
+    }
+]

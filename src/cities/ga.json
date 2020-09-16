@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "libreville",
+        "English": "Libreville",
+        "Local": "Libreville",
+        "State": "GA-1",
+        "Area": 65.42,
+        "Elevation": 159,
+        "Coordinates": {
+            "N": 0.39,
+            "E": 9.45
+        },
+        "TimeZone": 1
+    }
+]

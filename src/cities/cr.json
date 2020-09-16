@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "san_jose",
+        "English": "San José",
+        "Local": "San José",
+        "State": "CR-SJ",
+        "Area": 44.62,
+        "Elevation": 1172,
+        "Coordinates": {
+            "N": 9.933333,
+            "E": -84.083333
+        },
+        "TimeZone": -6
+    }
+]

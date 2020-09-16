@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "freetown",
+        "English": "Freetown",
+        "Local": "Freetown",
+        "State": "SL-W",
+        "Area": 81.48,
+        "Elevation": 26,
+        "Coordinates": {
+            "N": 8.484444,
+            "E": -13.234444
+        },
+        "TimeZone": 0
+    }
+]

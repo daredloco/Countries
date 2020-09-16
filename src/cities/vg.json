@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "road_town",
+        "English": "Road Town",
+        "Local": "Road Town",
+        "State": "VG",
+        "Area": -1,
+        "Elevation": 10,
+        "Coordinates": {
+            "N": 18.431389,
+            "E": -64.623056
+        },
+        "TimeZone": -4
+    }
+]

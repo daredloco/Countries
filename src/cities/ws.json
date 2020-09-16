@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "apia",
+        "English": "Apia",
+        "Local": "Apia",
+        "State": "WS-TU",
+        "Area": 123.81,
+        "Elevation": 2,
+        "Coordinates": {
+            "N": -13.833333,
+            "E": -171.75
+        },
+        "TimeZone": 13
+    }
+]

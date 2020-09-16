@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "kiev",
+        "English": "Kiev",
+        "Local": "Kyiv",
+        "State": "UA-32",
+        "Area": 839,
+        "Elevation": 179,
+        "Coordinates": {
+            "N": 50.45,
+            "E": 30.523333
+        },
+        "TimeZone": 2
+    }
+]

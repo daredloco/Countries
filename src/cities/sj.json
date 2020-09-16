@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "longyearbyen",
+        "English": "Longyearbyen",
+        "Local": "Longyearbyen",
+        "State": "SJ",
+        "Area": -1,
+        "Elevation": 6,
+        "Coordinates": {
+            "N": 78.216667,
+            "E": 15.633333
+        },
+        "TimeZone": 2
+    }
+]

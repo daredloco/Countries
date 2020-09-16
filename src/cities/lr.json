@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "monrovia",
+        "English": "Monrovia",
+        "Local": "Monrovia",
+        "State": "LR-MO",
+        "Area": 194.25,
+        "Elevation": 30,
+        "Coordinates": {
+            "N": 6.313333,
+            "E": -10.801389
+        },
+        "TimeZone": 0
+    }
+]

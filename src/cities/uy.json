@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "montevideo",
+        "English": "Montevideo",
+        "Local": "Montevideo",
+        "State": "UY-MO",
+        "Area": 201,
+        "Elevation": 43,
+        "Coordinates": {
+            "N": -34.883611,
+            "E": -56.181944
+        },
+        "TimeZone": -3
+    }
+]

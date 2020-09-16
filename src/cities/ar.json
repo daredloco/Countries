@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "buenos_aires",
+        "English": "Buenos Aires",
+        "Local": "Buenos Aires",
+        "State": "AR-B",
+        "Area": 203,
+        "Elevation": 25,
+        "Coordinates": {
+            "N": -34.603333,
+            "E": -58.381667
+        },
+        "TimeZone": -3
+    }
+]

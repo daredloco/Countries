@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "juba",
+        "English": "Juba",
+        "Local": "Juba",
+        "State": "SS-EC",
+        "Area": 52,
+        "Elevation": 550,
+        "Coordinates": {
+            "N": 4.85,
+            "E": 31.6
+        },
+        "TimeZone": 3
+    }
+]

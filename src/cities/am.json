@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "yerevan",
+        "English": "Yerevan",
+        "Local": "Yerevan",
+        "State": "AM-ER",
+        "Area": 223,
+        "Elevation": 990,
+        "Coordinates": {
+            "N": 40.181389,
+            "E": 44.514444
+        },
+        "TimeZone": 4
+    }
+]

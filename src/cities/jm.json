@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "kingston",
+        "English": "Kingston",
+        "Local": "Kingston",
+        "State": "JM-01",
+        "Area": 480,
+        "Elevation": 9,
+        "Coordinates": {
+            "N": 17.971389,
+            "E": -76.793056
+        },
+        "TimeZone": -5
+    }
+]

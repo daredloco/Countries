@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "noumea",
+        "English": "Nouméa",
+        "Local": "Nouméa",
+        "State": "NC",
+        "Area": 45.7,
+        "Elevation": 20,
+        "Coordinates": {
+            "N": -22.2758,
+            "E": 166.458
+        },
+        "TimeZone": 11
+    }
+]

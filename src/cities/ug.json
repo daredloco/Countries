@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "kampala",
+        "English": "Kampala",
+        "Local": "Kampala",
+        "State": "UG-102",
+        "Area": 189,
+        "Elevation": 1200,
+        "Coordinates": {
+            "N": 0.313611,
+            "E": 32.581111
+        },
+        "TimeZone": 3
+    }
+]

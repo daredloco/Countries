@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "nur-sultan",
+        "English": "Nur-Sultan",
+        "Local": "Nur-Sultan",
+        "State": "KZ-AST",
+        "Area": 810.2,
+        "Elevation": 347,
+        "Coordinates": {
+            "N": 51.166667,
+            "E": 71.433333
+        },
+        "TimeZone": 6
+    }
+]

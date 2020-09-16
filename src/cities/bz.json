@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "belmopan",
+        "English": "Belmopan",
+        "Local": "Belmopan",
+        "State": "BZ-CY",
+        "Area": 32.78,
+        "Elevation": 76,
+        "Coordinates": {
+            "N": 17.251389,
+            "E": -88.766944
+        },
+        "TimeZone": -6
+    }
+]

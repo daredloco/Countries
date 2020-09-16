@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "brazzaville",
+        "English": "Brazzaville",
+        "Local": "Balazavile",
+        "State": "CG-BZV",
+        "Area": 263.9,
+        "Elevation": 320,
+        "Coordinates": {
+            "N": -4.267778,
+            "E": 15.291944
+        },
+        "TimeZone": 1
+    }
+]

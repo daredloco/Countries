@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "caracas",
+        "English": "Caracas",
+        "Local": "Santiago de León de Caracas",
+        "State": "VE-A",
+        "Area": 433,
+        "Elevation": 900,
+        "Coordinates": {
+            "N": 10.480556,
+            "E": -66.903611
+        },
+        "TimeZone": -4
+    }
+]

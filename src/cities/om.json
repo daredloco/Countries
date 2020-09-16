@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "muscat",
+        "English": "Muscat",
+        "Local": "Masqaṭ",
+        "State": "OM-MA",
+        "Area": 274,
+        "Elevation": 12,
+        "Coordinates": {
+            "N": 23.588889,
+            "E": 58.408333
+        },
+        "TimeZone": 4
+    }
+]

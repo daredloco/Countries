@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "brussels",
+        "English": "City of Brussels",
+        "Local": "Ville de Bruxelles",
+        "State": "BE-BRU",
+        "Area": 32.61,
+        "Elevation": 20,
+        "Coordinates": {
+            "N": 50.846667,
+            "E": 4.3525
+        },
+        "TimeZone": 2
+    }
+]

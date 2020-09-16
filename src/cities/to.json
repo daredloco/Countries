@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "nuku_alofa",
+        "English": "Nukuʻalofa",
+        "Local": "Nukuʻalofa",
+        "State": "TO-04",
+        "Area": -1,
+        "Elevation": 3,
+        "Coordinates": {
+            "N": -21.133333,
+            "E": -175.2
+        },
+        "TimeZone": 13
+    }
+]

@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "pyongyang",
+        "English": "Pyongyang",
+        "Local": "Pyongyang",
+        "State": "KP-01",
+        "Area": 2000,
+        "Elevation": 18,
+        "Coordinates": {
+            "N": 39.019444,
+            "E": 125.738056
+        },
+        "TimeZone": 9
+    }
+]

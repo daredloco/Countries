@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "charlotte_amalie",
+        "English": "Charlotte Amalie",
+        "Local": "Charlotte Amalie",
+        "State": "US-VI",
+        "Area": 3.14,
+        "Elevation": 124,
+        "Coordinates": {
+            "N": 18.35,
+            "E": -64.95
+        },
+        "TimeZone": -4
+    }
+]

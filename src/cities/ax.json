@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "mariehamn",
+        "English": "Mariehamn",
+        "Local": "Maarianhamina",
+        "State": "FI-01",
+        "Area": 20.75,
+        "Elevation": 5,
+        "Coordinates": {
+            "N": 60.1,
+            "E": 19.933333
+        },
+        "TimeZone": 3
+    }
+]

@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "asmara",
+        "English": "Asmara",
+        "Local": "Asmara",
+        "State": "ER-MA",
+        "Area": 45,
+        "Elevation": 2325,
+        "Coordinates": {
+            "N": 15.322778,
+            "E": 38.925
+        },
+        "TimeZone": 3
+    }
+]

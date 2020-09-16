@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "algiers",
+        "English": "Algiers",
+        "Local": " Al-Jazāʾir",
+        "State": "DZ-16",
+        "Area": 363,
+        "Elevation": 424,
+        "Coordinates": {
+            "N": 36.753889,
+            "E": 3.058889
+        },
+        "TimeZone": 1
+    }
+]

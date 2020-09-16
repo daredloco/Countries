@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "dodoma",
+        "English": "Dodoma",
+        "Local": "Dodoma",
+        "State": "TZ-03",
+        "Area": 2576,
+        "Elevation": 1120,
+        "Coordinates": {
+            "N": -6.173056,
+            "E": 35.741944
+        },
+        "TimeZone": 3
+    }
+]

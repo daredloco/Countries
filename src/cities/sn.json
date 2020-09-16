@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "dakar",
+        "English": "Dakar",
+        "Local": "Ndakaaru",
+        "State": "SN-DK",
+        "Area": 83,
+        "Elevation": 22,
+        "Coordinates": {
+            "N": 14.692778,
+            "E": -17.446667
+        },
+        "TimeZone": 0
+    }
+]

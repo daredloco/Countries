@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "new_delhi",
+        "English": "New Delhi",
+        "Local": "Naī Dillī",
+        "State": "IN-DL",
+        "Area": 42.7,
+        "Elevation": 216,
+        "Coordinates": {
+            "N": 28.613889,
+            "E": 77.208889
+        },
+        "TimeZone": 5.5
+    }
+]

@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "kuala_lumpur",
+        "English": "Kuala Lumpur",
+        "Local": "Wilayah Persekutuan Kuala Lumpur",
+        "State": "MY-14",
+        "Area": 243,
+        "Elevation": 66,
+        "Coordinates": {
+            "N": 3.147778,
+            "E": 101.695278
+        },
+        "TimeZone": 8
+    }
+]

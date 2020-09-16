@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "wellington",
+        "English": "Wellington",
+        "Local": "Te Whanganui-a-Tara",
+        "State": "NZ-WGN",
+        "Area": 442,
+        "Elevation": 495,
+        "Coordinates": {
+            "N": -41.288889,
+            "E": 174.777222
+        },
+        "TimeZone": 12
+    }
+]

@@ -12,7 +12,9 @@
         "Capital": "kabul",
         "Size": 652230,
         "Phone": "+93",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": ["DMY","YMD"]
     },
 
     {
@@ -28,7 +30,9 @@
         "Capital": "mariehamn",
         "Size": 1580,
         "Phone": "+358 18",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -44,7 +48,9 @@
         "Capital": "tirana",
         "Size": 28748,
         "Phone": "+355",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -60,7 +66,9 @@
         "Capital": "algiers",
         "Size": 2381741,
         "Phone": "+213",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -76,7 +84,9 @@
         "Capital": "pago_pago",
         "Size": 199,
         "Phone": "+1-684",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "MDY" ]
     },
 
     {
@@ -92,7 +102,9 @@
         "Capital": "andorra_la_vella",
         "Size": 467,
         "Phone": "+376",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -108,7 +120,9 @@
         "Capital": "luanda",
         "Size": 1246700,
         "Phone": "+244",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -124,7 +138,9 @@
         "Capital": "the_valley",
         "Size": 91,
         "Phone": "+1-264",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -140,7 +156,9 @@
         "Capital": "st_johns",
         "Size": 440,
         "Phone": "+1-268",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -156,7 +174,9 @@
         "Capital": "buenos_aires",
         "Size": 2780400,
         "Phone": "+54",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -172,7 +192,9 @@
         "Capital": "yerevan",
         "Size": 29743,
         "Phone": "+374",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -188,7 +210,9 @@
         "Capital": "oranjestad",
         "Size": 180,
         "Phone": "+297",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -204,7 +228,9 @@
         "Capital": "canberra",
         "Size": 7692024,
         "Phone": "+61",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -220,7 +246,9 @@
         "Capital": "vienna",
         "Size": 83879,
         "Phone": "+43",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -236,7 +264,9 @@
         "Capital": "baku",
         "Size": 86600,
         "Phone": "+994",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -252,7 +282,9 @@
         "Capital": "nassau",
         "Size": 13878,
         "Phone": "+1-242",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -268,7 +300,9 @@
         "Capital": "manama",
         "Size": 780,
         "Phone": "+973",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -284,7 +318,9 @@
         "Capital": "dhaka",
         "Size": 147570,
         "Phone": "+880",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -300,7 +336,9 @@
         "Capital": "bridgetown",
         "Size": 439,
         "Phone": "+1-246",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -316,7 +354,9 @@
         "Capital": "minsk",
         "Size": 207595,
         "Phone": "+375",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -332,7 +372,9 @@
         "Capital": "brussels",
         "Size": 30689,
         "Phone": "+32",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -348,7 +390,9 @@
         "Capital": "belmopan",
         "Size": 22966,
         "Phone": "+501",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -364,7 +408,9 @@
         "Capital": "porto-novo",
         "Size": 114763,
         "Phone": "+229",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -380,7 +426,9 @@
         "Capital": "hamilton",
         "Size": 53,
         "Phone": "+1-441",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -396,7 +444,9 @@
         "Capital": "thimphu",
         "Size": 38394,
         "Phone": "+975",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "YMD" ]
     },
 
     {
@@ -412,7 +462,9 @@
         "Capital": "sucre",
         "Size": 1098581,
         "Phone": "+591",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -425,10 +477,12 @@
         "Tld": "bq",
         "Languages": [ "nl" ],
         "Currency": "USD",
-        "Capital": "",
+        "Capital": "kralendijk",
         "Size": 328,
         "Phone": "+599",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -444,7 +498,9 @@
         "Capital": "sarajevo",
         "Size": 51129,
         "Phone": "+387",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -460,7 +516,9 @@
         "Capital": "gaborone",
         "Size": 581730,
         "Phone": "+267",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "YMD" ]
     },
 
     {
@@ -476,7 +534,9 @@
         "Capital": "brasilia",
         "Size": 8515767,
         "Phone": "+55",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -492,7 +552,9 @@
         "Capital": "camp_justice",
         "Size": 54400,
         "Phone": "+246",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -508,7 +570,9 @@
         "Capital": "bandar_seri_begawan",
         "Size": 5765,
         "Phone": "+673",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -524,7 +588,9 @@
         "Capital": "sofia",
         "Size": 110993,
         "Phone": "+359",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -540,7 +606,9 @@
         "Capital": "ouagadougou",
         "Size": 274200,
         "Phone": "+226",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -556,7 +624,9 @@
         "Capital": "bujumbura",
         "Size": 27834,
         "Phone": "+257",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -572,7 +642,9 @@
         "Capital": "praia",
         "Size": 4033,
         "Phone": "+238",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -588,7 +660,9 @@
         "Capital": "phnom_penh",
         "Size": 181035,
         "Phone": "+855",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -604,7 +678,9 @@
         "Capital": "yaounde",
         "Size": 475442,
         "Phone": "+237",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -620,7 +696,9 @@
         "Capital": "ottawa",
         "Size": 9984670,
         "Phone": "+1",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD", "MDY" ]
     },
 
     {
@@ -636,7 +714,9 @@
         "Capital": "george_town",
         "Size": 264,
         "Phone": "+1-345",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "MDY" ]
     },
 
     {
@@ -652,7 +732,9 @@
         "Capital": "bangui",
         "Size": 622984,
         "Phone": "+236",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -668,7 +750,9 @@
         "Capital": "ndjamena",
         "Size": 1284000,
         "Phone": "+235",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -684,7 +768,9 @@
         "Capital": "santiago",
         "Size": 756096,
         "Phone": "+56",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -700,7 +786,9 @@
         "Capital": "beijing",
         "Size": 9596961,
         "Phone": "+86",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "YMD", "MDY" ]
     },
 
     {
@@ -716,7 +804,9 @@
         "Capital": "flying_fish_cove",
         "Size": 135,
         "Phone": "+",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -732,7 +822,9 @@
         "Capital": "west_island",
         "Size": 14,
         "Phone": "+61 891",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -748,7 +840,9 @@
         "Capital": "bogota",
         "Size": 1141748,
         "Phone": "+57",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -764,7 +858,9 @@
         "Capital": "moroni",
         "Size": 1659,
         "Phone": "+269",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -780,7 +876,9 @@
         "Capital": "kinshasa",
         "Size": 2345409,
         "Phone": "+243",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -796,7 +894,9 @@
         "Capital": "brazzaville",
         "Size": 342000,
         "Phone": "+242",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -812,7 +912,9 @@
         "Capital": "avarua",
         "Size": 236,
         "Phone": "+682",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -828,7 +930,9 @@
         "Capital": "san_jose",
         "Size": 51100,
         "Phone": "+506",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -844,7 +948,9 @@
         "Capital": "yamoussoukro",
         "Size": 322463,
         "Phone": "+225",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -860,7 +966,9 @@
         "Capital": "zagreb",
         "Size": 56594,
         "Phone": "+385",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -876,7 +984,9 @@
         "Capital": "havanna",
         "Size": 109884,
         "Phone": "+53",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -892,7 +1002,9 @@
         "Capital": "willemstad",
         "Size": 444,
         "Phone": "+599",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -908,7 +1020,9 @@
         "Capital": "nicosia",
         "Size": 9251,
         "Phone": "+357",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -924,7 +1038,9 @@
         "Capital": "prague",
         "Size": 78866,
         "Phone": "+420",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -940,7 +1056,9 @@
         "Capital": "coopenhagen",
         "Size": 42933,
         "Phone": "+45",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -956,7 +1074,9 @@
         "Capital": "djibouti",
         "Size": 23200,
         "Phone": "+253",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -972,7 +1092,9 @@
         "Capital": "roseau",
         "Size": 750,
         "Phone": "+1-767",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -988,7 +1110,9 @@
         "Capital": "santo_domingo",
         "Size": 48671,
         "Phone": "+1-809",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1004,7 +1128,9 @@
         "Capital": "quito",
         "Size": 283561,
         "Phone": "+593",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1020,7 +1146,9 @@
         "Capital": "cairo",
         "Size": 1010408,
         "Phone": "+20",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1036,7 +1164,9 @@
         "Capital": "san_salvador",
         "Size": 21041,
         "Phone": "+503",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1049,10 +1179,12 @@
         "Tld": "gq",
         "Languages": [ "es", "pt", "fr" ],
         "Currency": "XAF",
-        "Capital": "malambo",
+        "Capital": "malabo",
         "Size": 28050,
         "Phone": "+240",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1068,7 +1200,9 @@
         "Capital": "asmara",
         "Size": 117600,
         "Phone": "+291",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1084,7 +1218,9 @@
         "Capital": "tallinn",
         "Size": 45227,
         "Phone": "+372",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1100,7 +1236,9 @@
         "Capital": "mbabane",
         "Size": 17364,
         "Phone": "+268",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1116,7 +1254,9 @@
         "Capital": "addis_ababa",
         "Size": 1104300,
         "Phone": "+251",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1132,7 +1272,9 @@
         "Capital": "stanley",
         "Size": 12200,
         "Phone": "+500",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1148,7 +1290,9 @@
         "Capital": "torshavn",
         "Size": 1399,
         "Phone": "+298",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1164,7 +1308,9 @@
         "Capital": "suva",
         "Size": 18274,
         "Phone": "+679",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1180,7 +1326,9 @@
         "Capital": "helsinki",
         "Size": 338424,
         "Phone": "+358",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1196,7 +1344,9 @@
         "Capital": "paris",
         "Size": 640679,
         "Phone": "+33",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1212,7 +1362,9 @@
         "Capital": "libreville",
         "Size": 267667,
         "Phone": "+241",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1228,7 +1380,9 @@
         "Capital": "banjul",
         "Size": 10689,
         "Phone": "+220",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1244,7 +1398,9 @@
         "Capital": "tbilisi",
         "Size": 69700,
         "Phone": "+995",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1260,7 +1416,9 @@
         "Capital": "berlin",
         "Size": 3570222,
         "Phone": "+49",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1276,7 +1434,9 @@
         "Capital": "accra",
         "Size": 239567,
         "Phone": "+233",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD", "MDY" ]
     },
 
     {
@@ -1292,7 +1452,9 @@
         "Capital": "athens",
         "Size": 131957,
         "Phone": "+30",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1308,7 +1470,9 @@
         "Capital": "nuuk",
         "Size": 2166086,
         "Phone": "+299",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1324,7 +1488,9 @@
         "Capital": "st_georges",
         "Size": 348,
         "Phone": "+1-473",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1340,7 +1506,9 @@
         "Capital": "hagatna",
         "Size": 540,
         "Phone": "+1-671",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "MDY" ]
     },
 
     {
@@ -1356,7 +1524,9 @@
         "Capital": "guatemala_city",
         "Size": 108889,
         "Phone": "+502",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1372,7 +1542,9 @@
         "Capital": "conakry",
         "Size": 245857,
         "Phone": "+224",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1388,7 +1560,9 @@
         "Capital": "bissau",
         "Size": 36125,
         "Phone": "+245",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1404,7 +1578,9 @@
         "Capital": "georgetown",
         "Size": 214970,
         "Phone": "+592",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1420,7 +1596,9 @@
         "Capital": "hong_kong",
         "Size": 2755,
         "Phone": "+852",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1436,7 +1614,9 @@
         "Capital": "tegucigalpa",
         "Size": 112492,
         "Phone": "+504",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1452,7 +1632,9 @@
         "Capital": "port_au_prince",
         "Size": 27750,
         "Phone": "+509",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1468,7 +1650,9 @@
         "Capital": "budapest",
         "Size": 93030,
         "Phone": "+36",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "YMD" ]
     },
 
     {
@@ -1484,7 +1668,9 @@
         "Capital": "jakarta",
         "Size": 1904569,
         "Phone": "+62",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1500,7 +1686,9 @@
         "Capital": "dublin",
         "Size": 70273,
         "Phone": "+353",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1516,7 +1704,9 @@
         "Capital": "jerusalem",
         "Size": 20770,
         "Phone": "+972",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1532,7 +1722,9 @@
         "Capital": "douglas",
         "Size": 572,
         "Phone": "+44",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1548,7 +1740,9 @@
         "Capital": "new_delhi",
         "Size": 3287263,
         "Phone": "+91",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1564,7 +1758,9 @@
         "Capital": "baghdad",
         "Size": 437072,
         "Phone": "+964",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1580,7 +1776,9 @@
         "Capital": "tehran",
         "Size": 1648195,
         "Phone": "+98",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1596,7 +1794,9 @@
         "Capital": "reykjavik",
         "Size": 102775,
         "Phone": "+354",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1612,7 +1812,9 @@
         "Capital": "rome",
         "Size": 301340,
         "Phone": "+39",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1628,7 +1830,9 @@
         "Capital": "saint_helier",
         "Size": 118,
         "Phone": "+44",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1644,7 +1848,9 @@
         "Capital": "kingston",
         "Size": 10991,
         "Phone": "+1-876",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1660,7 +1866,9 @@
         "Capital": "amman",
         "Size": 89342,
         "Phone": "+962",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1676,7 +1884,9 @@
         "Capital": "tokyo",
         "Size": 377975,
         "Phone": "+81",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "left",
+        "DateFormat": [ "MDY", "YMD" ]
     },
 
     {
@@ -1692,7 +1902,9 @@
         "Capital": "nairobi",
         "Size": 580367,
         "Phone": "+254",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY", "MDY", "YMD" ]
     },
 
     {
@@ -1708,7 +1920,9 @@
         "Capital": "bishkek",
         "Size": 199951,
         "Phone": "+996",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1724,7 +1938,9 @@
         "Capital": "tarawa",
         "Size": 811,
         "Phone": "+686",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1740,7 +1956,9 @@
         "Capital": "basseterre",
         "Size": 261,
         "Phone": "+1-869",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1756,7 +1974,9 @@
         "Capital": "pyongyang",
         "Size": 120540,
         "Phone": "+850",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "YMD" ]
     },
 
     {
@@ -1772,7 +1992,9 @@
         "Capital": "seoul",
         "Size": 100363,
         "Phone": "+82",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "YMD" ]
     },
 
     {
@@ -1788,7 +2010,9 @@
         "Capital": "kuwait_city",
         "Size": 17818,
         "Phone": "+965",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1804,7 +2028,9 @@
         "Capital": "nur-sultan",
         "Size": 2724900,
         "Phone": "+7-6",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1820,7 +2046,9 @@
         "Capital": "vientiane",
         "Size": 237955,
         "Phone": "+856",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1836,7 +2064,9 @@
         "Capital": "riga",
         "Size": 64589,
         "Phone": "+371",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1852,7 +2082,9 @@
         "Capital": "beirut",
         "Size": 10452,
         "Phone": "+961",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1868,7 +2100,9 @@
         "Capital": "maseru",
         "Size": 30355,
         "Phone": "+266",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1884,7 +2118,9 @@
         "Capital": "monrovia",
         "Size": 111369,
         "Phone": "+231",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1900,7 +2136,9 @@
         "Capital": "tripoli",
         "Size": 1759541,
         "Phone": "+218",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1916,7 +2154,9 @@
         "Capital": "vaduz",
         "Size": 160,
         "Phone": "+423",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -1932,7 +2172,9 @@
         "Capital": "vilnius",
         "Size": 65300,
         "Phone": "+370",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "YMD" ]
     },
 
     {
@@ -1948,7 +2190,9 @@
         "Capital": "luxembourg_city",
         "Size": 2586,
         "Phone": "+352",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -1964,583 +2208,657 @@
         "Capital": "bern",
         "Size": 41285,
         "Phone": "+41",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
-     {
-        "Key": "mo" ,
-        "English": "Macao" ,
-        "Local": "Macao" ,
-        "OfficialStateName": "Macao Special Administrative Region of China" ,
-        "ISO2": "MO" ,
-        "ISO3": "MAC" ,
-        "Tld": "mo" ,
-        "Languages": [ "zh" , "pt" ],
+
+    {
+        "Key": "mo",
+        "English": "Macao",
+        "Local": "Macao",
+        "OfficialStateName": "Macao Special Administrative Region of China",
+        "ISO2": "MO",
+        "ISO3": "MAC",
+        "Tld": "mo",
+        "Languages": [ "zh", "pt" ],
         "Currency": "MOP",
         "Capital": "nossa_senhora_de_fatima",
         "Size": 115.3,
         "Phone": "+853",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY", "YMD" ]
     },
-     
+
     {
-        "Key": "mk" , 
-        "English": "North Macedonia" ,
-        "Local": "Republika Severna Makedonija" ,
-        "OfficialStateName": "Republic of North Macedonia" ,
-        "ISO2": "MK" ,
-        "ISO3": "MKD" ,
-        "Tld": "mk" ,
+        "Key": "mk",
+        "English": "North Macedonia",
+        "Local": "Republika Severna Makedonija",
+        "OfficialStateName": "Republic of North Macedonia",
+        "ISO2": "MK",
+        "ISO3": "MKD",
+        "Tld": "mk",
         "Languages": [ "mk", "sq" ],
         "Currency": "MKD",
         "Capital": "skopje",
         "Size": 25713,
         "Phone": "+389",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "mg" ,
-        "English": "Madagascar" ,
-        "Local": "Repoblikan'i Madagasikara" ,
-        "OfficialStateName": "Republic of Madagascar" ,
-        "ISO2": "MG" ,
-        "ISO3": "MDG" ,
-        "Tld": "mg" ,
+        "Key": "mg",
+        "English": "Madagascar",
+        "Local": "Repoblikan'i Madagasikara",
+        "OfficialStateName": "Republic of Madagascar",
+        "ISO2": "MG",
+        "ISO3": "MDG",
+        "Tld": "mg",
         "Languages": [ "mg", "fr" ],
         "Currency": "MGA",
         "Capital": "antananarivo",
         "Size": 587041,
         "Phone": "+261",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "mw" ,
-        "English": "Malawi" ,
-        "Local": "Dziko la Malaŵi" ,
-        "OfficialStateName": "Republic of Malawi" ,
-        "ISO2": "MW" ,
-        "ISO3": "MWI" ,
-        "Tld": "mw" ,
-        "Languages": [ "ny" , "en" ],
+        "Key": "mw",
+        "English": "Malawi",
+        "Local": "Dziko la Malaŵi",
+        "OfficialStateName": "Republic of Malawi",
+        "ISO2": "MW",
+        "ISO3": "MWI",
+        "Tld": "mw",
+        "Languages": [ "ny", "en" ],
         "Currency": "MWK",
         "Capital": "lilongwe",
         "Size": 118484,
         "Phone": "+265",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "my" ,
-        "English": "Malaysia" ,
-        "Local": "Malaysia" ,
-        "OfficialStateName": "Malaysia" ,
-        "ISO2": "MY" ,
-        "ISO3": "MYS" ,
-        "Tld": "my" ,
+        "Key": "my",
+        "English": "Malaysia",
+        "Local": "Malaysia",
+        "OfficialStateName": "Malaysia",
+        "ISO2": "MY",
+        "ISO3": "MYS",
+        "Tld": "my",
         "Languages": [ "ms" ],
         "Currency": "MYR",
         "Capital": "kuala_lumpur",
         "Size": 330803,
         "Phone": "+60",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "mv" ,
-        "English": "Maldives" ,
-        "Local": "Dhivehi Raajjeyge Jumhooriyyaa" ,
-        "OfficialStateName": "Republic of Maldives" ,
-        "ISO2": "MV" ,
-        "ISO3": "MDV" ,
-        "Tld": "mv" ,
+        "Key": "mv",
+        "English": "Maldives",
+        "Local": "Dhivehi Raajjeyge Jumhooriyyaa",
+        "OfficialStateName": "Republic of Maldives",
+        "ISO2": "MV",
+        "ISO3": "MDV",
+        "Tld": "mv",
         "Languages": [ "dv" ],
         "Currency": "MVR",
         "Capital": "male",
         "Size": 298,
         "Phone": "+960",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
-     
+
     {
-        "Key": "ml" ,
-        "English": "Mali" ,
-        "Local": "Mali ka Fasojamana" ,
-        "OfficialStateName": "Republic of Mali" ,
-        "ISO2": "ML" ,
-        "ISO3": "MLI" ,
-        "Tld": "ml" ,
-        "Languages": [ "fr" , "bm" ],
+        "Key": "ml",
+        "English": "Mali",
+        "Local": "Mali ka Fasojamana",
+        "OfficialStateName": "Republic of Mali",
+        "ISO2": "ML",
+        "ISO3": "MLI",
+        "Tld": "ml",
+        "Languages": [ "fr", "bm" ],
         "Currency": "XOF",
         "Capital": "bamako",
         "Size": 1240192,
         "Phone": "+223",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "mt" ,
-        "English": "Malta" ,
-        "Local": "Repubblika ta' Malta" ,
-        "OfficialStateName": "Republic of Malta" ,
-        "ISO2": "MT" ,
-        "ISO3": "MLT" ,
-        "Tld": "mt" ,
+        "Key": "mt",
+        "English": "Malta",
+        "Local": "Repubblika ta' Malta",
+        "OfficialStateName": "Republic of Malta",
+        "ISO2": "MT",
+        "ISO3": "MLT",
+        "Tld": "mt",
         "Languages": [ "mt", "en" ],
         "Currency": "EUR",
         "Capital": "valletta",
         "Size": 316,
         "Phone": "+356",
-        "Continent": "Europe"
+        "Continent": "Europe",
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "mh" ,
-        "English": "Marshall Islands" ,
-        "Local": "Aolepān Aorōkin Ṃajeḷ" ,
-        "OfficialStateName": "Republic of the Marshall Islands" ,
-        "ISO2": "MH" ,
-        "ISO3": "MHL" ,
-        "Tld": "mh" ,
-        "Languages": [ "mh" , "en" ],
+        "Key": "mh",
+        "English": "Marshall Islands",
+        "Local": "Aolepān Aorōkin Ṃajeḷ",
+        "OfficialStateName": "Republic of the Marshall Islands",
+        "ISO2": "MH",
+        "ISO3": "MHL",
+        "Tld": "mh",
+        "Languages": [ "mh", "en" ],
         "Currency": "USD",
         "Capital": "majuro",
         "Size": 181.43,
         "Phone": "+692",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "MDY" ]
     },
-     
+
     {
-        "Key": "mq" ,
-        "English": "Martinique" ,
-        "Local": "Matnik" ,
-        "OfficialStateName": "Martinique" ,
-        "ISO2": "MQ" ,
-        "ISO3": "MTQ" ,
-        "Tld": "mq" ,
+        "Key": "mq",
+        "English": "Martinique",
+        "Local": "Matnik",
+        "OfficialStateName": "Martinique",
+        "ISO2": "MQ",
+        "ISO3": "MTQ",
+        "Tld": "mq",
         "Languages": [ "fr" ],
         "Currency": "EUR",
         "Capital": "fort_de_france",
         "Size": 1128,
         "Phone": "+596",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "mr" ,
-        "English": "Mauritania" ,
-        "Local": "al-Jumhūrīyah al-Islāmīyah al-Mūrītānīyah" ,
-        "OfficialStateName": "Islamic Republic of Mauritania" ,
-        "ISO2": "MR" ,
-        "ISO3": "MRT" ,
-        "Tld": "mr" ,
+        "Key": "mr",
+        "English": "Mauritania",
+        "Local": "al-Jumhūrīyah al-Islāmīyah al-Mūrītānīyah",
+        "OfficialStateName": "Islamic Republic of Mauritania",
+        "ISO2": "MR",
+        "ISO3": "MRT",
+        "Tld": "mr",
         "Languages": [ "ar" ],
         "Currency": "MRU",
         "Capital": "nouakchott",
         "Size": 1030000,
         "Phone": "+222",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "mu" ,
-        "English": "Mauritius" ,
-        "Local": "République de Maurice" ,
-        "OfficialStateName": "Republic of Mauritius" ,
-        "ISO2": "MU" ,
-        "ISO3": "MUS" ,
-        "Tld": "mu" ,
-        "Languages": [ "en" , "fr" ],
+        "Key": "mu",
+        "English": "Mauritius",
+        "Local": "République de Maurice",
+        "OfficialStateName": "Republic of Mauritius",
+        "ISO2": "MU",
+        "ISO3": "MUS",
+        "Tld": "mu",
+        "Languages": [ "en", "fr" ],
         "Currency": "MUR",
         "Capital": "port_louis",
         "Size": 2040,
         "Phone": "+230",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "yt" ,
-        "English": "Mayotte" ,
-        "Local": "Département de Mayotte" ,
-        "OfficialStateName": "Department of Mayotte" ,
-        "ISO2": "YT" ,
-        "ISO3": "MYT" ,
-        "Tld": "yt" ,
+        "Key": "yt",
+        "English": "Mayotte",
+        "Local": "Département de Mayotte",
+        "OfficialStateName": "Department of Mayotte",
+        "ISO2": "YT",
+        "ISO3": "MYT",
+        "Tld": "yt",
         "Languages": [ "fr" ],
         "Currency": "EUR",
         "Capital": "mamoudzou",
         "Size": 374,
         "Phone": "+262",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "mx" ,
-        "English": "Mexico" ,
-        "Local": "Estados Unidos Mexicanos" ,
-        "OfficialStateName": "United Mexican States" ,
-        "ISO2": "MX" ,
-        "ISO3": "MEX" ,
-        "Tld": "mx" ,
+        "Key": "mx",
+        "English": "Mexico",
+        "Local": "Estados Unidos Mexicanos",
+        "OfficialStateName": "United Mexican States",
+        "ISO2": "MX",
+        "ISO3": "MEX",
+        "Tld": "mx",
         "Languages": [ "es" ],
         "Currency": "MXN",
         "Capital": "mexico_city",
         "Size": 1972550,
         "Phone": "+52",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "fm" ,
-        "English": "Micronesia" ,
-        "Local": "Federated States of Micronesia" ,
-        "OfficialStateName": "Federated States of Micronesia" ,
-        "ISO2": "FM" ,
-        "ISO3": "FSM" ,
-        "Tld": "fm" ,
+        "Key": "fm",
+        "English": "Micronesia",
+        "Local": "Federated States of Micronesia",
+        "OfficialStateName": "Federated States of Micronesia",
+        "ISO2": "FM",
+        "ISO3": "FSM",
+        "Tld": "fm",
         "Languages": [ "en" ],
         "Currency": "USD",
         "Capital": "palikir",
         "Size": 702,
         "Phone": "+691",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "MDY" ]
     },
-     
+
     {
-        "Key": "md" ,
-        "English": "Moldova" ,
-        "Local": "Republica Moldova" ,
-        "OfficialStateName": "Republic of Moldova" ,
-        "ISO2": "MD" ,
-        "ISO3": "MDA" ,
-        "Tld": "md" ,
+        "Key": "md",
+        "English": "Moldova",
+        "Local": "Republica Moldova",
+        "OfficialStateName": "Republic of Moldova",
+        "ISO2": "MD",
+        "ISO3": "MDA",
+        "Tld": "md",
         "Languages": [ "ro" ],
         "Currency": "MDL",
         "Capital": "chisinau",
         "Size": 33846,
         "Phone": "+373",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "mc" ,
-        "English": "Monaco" ,
-        "Local": "Principauté de Monaco" ,
-        "OfficialStateName": "Principality of Monaco" ,
-        "ISO2": "MC" ,
-        "ISO3": "MCO" ,
-        "Tld": "mc" ,
+        "Key": "mc",
+        "English": "Monaco",
+        "Local": "Principauté de Monaco",
+        "OfficialStateName": "Principality of Monaco",
+        "ISO2": "MC",
+        "ISO3": "MCO",
+        "Tld": "mc",
         "Languages": [ "fr" ],
         "Currency": "EUR",
         "Capital": "monaco",
         "Size": 2.2,
         "Phone": "+377",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "mn" ,
-        "English": "Mongolia" ,
-        "Local": "Mongγol ulus" ,
-        "OfficialStateName": "State of Mongolia" ,
-        "ISO2": "MN" ,
-        "ISO3": "MNG" ,
-        "Tld": "mn" ,
+        "Key": "mn",
+        "English": "Mongolia",
+        "Local": "Mongγol ulus",
+        "OfficialStateName": "State of Mongolia",
+        "ISO2": "MN",
+        "ISO3": "MNG",
+        "Tld": "mn",
         "Languages": [ "mn" ],
         "Currency": "MNT",
         "Capital": "ulaanbaatar",
         "Size": 1566000,
         "Phone": "+976",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "YMD" ]
     },
-     
+
     {
-        "Key": "me" ,
-        "English": "Montenegro" ,
-        "Local": "Crna Gora" ,
-        "OfficialStateName": "Montenegro" ,
-        "ISO2": "ME" ,
-        "ISO3": "MNE" ,
-        "Tld": "me" ,
+        "Key": "me",
+        "English": "Montenegro",
+        "Local": "Crna Gora",
+        "OfficialStateName": "Montenegro",
+        "ISO2": "ME",
+        "ISO3": "MNE",
+        "Tld": "me",
         "Languages": [ "sr", "bs", "sq" ],
         "Currency": "EUR",
         "Capital": "podgorica",
         "Size": 13812,
         "Phone": "+382",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "ms" ,
-        "English": "Montserrat" ,
-        "Local": "Montserrat" ,
-        "OfficialStateName": "Montserrat" ,
-        "ISO2": "MS" ,
-        "ISO3": "MSR" ,
-        "Tld": "ms" ,
+        "Key": "ms",
+        "English": "Montserrat",
+        "Local": "Montserrat",
+        "OfficialStateName": "Montserrat",
+        "ISO2": "MS",
+        "ISO3": "MSR",
+        "Tld": "ms",
         "Languages": [ "en" ],
         "Currency": "XCD",
         "Capital": "plymouth",
         "Size": 102,
         "Phone": "+1-664",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "ma" ,
-        "English": "Morocco" ,
-        "Local": "al_maghrib" ,
-        "OfficialStateName": "Kingdom of Morocco" ,
-        "ISO2": "MA" ,
-        "ISO3": "MAR" ,
-        "Tld": "ma" ,
+        "Key": "ma",
+        "English": "Morocco",
+        "Local": "al_maghrib",
+        "OfficialStateName": "Kingdom of Morocco",
+        "ISO2": "MA",
+        "ISO3": "MAR",
+        "Tld": "ma",
         "Languages": [ "ar" ],
         "Currency": "MAD",
         "Capital": "rabat",
         "Size": 710850,
         "Phone": "+212",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "mz" ,
-        "English": "Mozambique" ,
-        "Local": "República de Moçambique" ,
-        "OfficialStateName": "Republic of Mozambique" ,
-        "ISO2": "MZ" ,
-        "ISO3": "MOZ" ,
-        "Tld": "mz" ,
+        "Key": "mz",
+        "English": "Mozambique",
+        "Local": "República de Moçambique",
+        "OfficialStateName": "Republic of Mozambique",
+        "ISO2": "MZ",
+        "ISO3": "MOZ",
+        "Tld": "mz",
         "Languages": [ "pt" ],
         "Currency": "MZN",
         "Capital": "maputo",
         "Size": 801590,
         "Phone": "+258",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "mm" ,
-        "English": "Myanmar" ,
-        "Local": "Pyidaunzu Thanmăda Myăma Nainngandaw" ,
-        "OfficialStateName": "Republic of the Union of Myanmar" ,
-        "ISO2": "MM" ,
-        "ISO3": "MMR" ,
-        "Tld": "mm" ,
+        "Key": "mm",
+        "English": "Myanmar",
+        "Local": "Pyidaunzu Thanmăda Myăma Nainngandaw",
+        "OfficialStateName": "Republic of the Union of Myanmar",
+        "ISO2": "MM",
+        "ISO3": "MMR",
+        "Tld": "mm",
         "Languages": [ "my" ],
         "Currency": "MMK",
         "Capital": "naypyidaw",
         "Size": 676578,
         "Phone": "+95",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
-     
+
     {
-        "Key": "na" ,
-        "English": "Namibia" ,
-        "Local": "Republic of Namibia" ,
-        "OfficialStateName": "Republic of Namibia" ,
-        "ISO2": "NA" ,
-        "ISO3": "NAM" ,
-        "Tld": "na" ,
+        "Key": "na",
+        "English": "Namibia",
+        "Local": "Republic of Namibia",
+        "OfficialStateName": "Republic of Namibia",
+        "ISO2": "NA",
+        "ISO3": "NAM",
+        "Tld": "na",
         "Languages": [ "en" ],
         "Currency": "NAD",
         "Capital": "windhoek",
         "Size": 825615,
         "Phone": "+264",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
-     
+
     {
-        "Key": "nr" ,
-        "English": "Nauru" ,
-        "Local": "Repubrikin Naoero" ,
-        "OfficialStateName": "Republic of Nauru" ,
-        "ISO2": "NR" ,
-        "ISO3": "NRU" ,
-        "Tld": "nr" ,
+        "Key": "nr",
+        "English": "Nauru",
+        "Local": "Repubrikin Naoero",
+        "OfficialStateName": "Republic of Nauru",
+        "ISO2": "NR",
+        "ISO3": "NRU",
+        "Tld": "nr",
         "Languages": [ "na", "en" ],
         "Currency": "AUD",
         "Capital": "yaren",
         "Size": 21,
         "Phone": "+674",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "np" ,
-        "English": "Nepal" ,
-        "Local": "Saṅghīya Lokatāntrik Gaṇatantra Nepāl" ,
-        "OfficialStateName": "Federal Democratic Republic of Nepal" ,
-        "ISO2": "NP" ,
-        "ISO3": "NPL" ,
-        "Tld": "np" ,
+        "Key": "np",
+        "English": "Nepal",
+        "Local": "Saṅghīya Lokatāntrik Gaṇatantra Nepāl",
+        "OfficialStateName": "Federal Democratic Republic of Nepal",
+        "ISO2": "NP",
+        "ISO3": "NPL",
+        "Tld": "np",
         "Languages": [ "ne" ],
         "Currency": "NPR",
         "Capital": "kathmandu",
         "Size": 147181,
         "Phone": "+977",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY", "YMD" ]
     },
-     
+
     {
-        "Key": "nl" ,
-        "English": "Netherlands" ,
-        "Local": "Koninkrijk der Nederlanden" ,
-        "OfficialStateName": "Kingdom of the Netherlands" ,
-        "ISO2": "NL" ,
-        "ISO3": "NLD" ,
-        "Tld": "nl" ,
+        "Key": "nl",
+        "English": "Netherlands",
+        "Local": "Koninkrijk der Nederlanden",
+        "OfficialStateName": "Kingdom of the Netherlands",
+        "ISO2": "NL",
+        "ISO3": "NLD",
+        "Tld": "nl",
         "Languages": [ "nl" ],
         "Currency": "EUR",
         "Capital": "amsterdam",
         "Size": 42531,
         "Phone": "+31",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "nc" ,
-        "English": "New Caledonia" ,
-        "Local": "Nouvelle-Calédonie" ,
-        "OfficialStateName": "New Caledonia" ,
-        "ISO2": "NC" ,
-        "ISO3": "NCL" ,
-        "Tld": "nc" ,
+        "Key": "nc",
+        "English": "New Caledonia",
+        "Local": "Nouvelle-Calédonie",
+        "OfficialStateName": "New Caledonia",
+        "ISO2": "NC",
+        "ISO3": "NCL",
+        "Tld": "nc",
         "Languages": [ "fr" ],
         "Currency": "XPF",
         "Capital": "noumea",
         "Size": 18576,
         "Phone": "+687",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "nz" ,
-        "English": "New Zealand" ,
-        "Local": "Aotearoa" ,
-        "OfficialStateName": "New Zealand" ,
-        "ISO2": "NZ" ,
-        "ISO3": "NZL" ,
-        "Tld": "nz" ,
-        "Languages": [ "mi" , "en" ],
+        "Key": "nz",
+        "English": "New Zealand",
+        "Local": "Aotearoa",
+        "OfficialStateName": "New Zealand",
+        "ISO2": "NZ",
+        "ISO3": "NZL",
+        "Tld": "nz",
+        "Languages": [ "mi", "en" ],
         "Currency": "NZD",
         "Capital": "wellington",
         "Size": 268021,
         "Phone": "+64",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "ni" ,
-        "English": "Nicaragua" ,
-        "Local": "República de Nicaragua" ,
-        "OfficialStateName": "Republic of Nicaragua" ,
-        "ISO2": "NI" ,
-        "ISO3": "NIC" ,
-        "Tld": "ni" ,
+        "Key": "ni",
+        "English": "Nicaragua",
+        "Local": "República de Nicaragua",
+        "OfficialStateName": "Republic of Nicaragua",
+        "ISO2": "NI",
+        "ISO3": "NIC",
+        "Tld": "ni",
         "Languages": [ "es" ],
         "Currency": "NIO",
         "Capital": "managua",
         "Size": 130375,
         "Phone": "+505",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "ne" ,
-        "English": "Niger" ,
-        "Local": "République du Niger" ,
-        "OfficialStateName": "Republic of the Niger" ,
-        "ISO2": "NE" ,
-        "ISO3": "NER" ,
-        "Tld": "ne" ,
+        "Key": "ne",
+        "English": "Niger",
+        "Local": "République du Niger",
+        "OfficialStateName": "Republic of the Niger",
+        "ISO2": "NE",
+        "ISO3": "NER",
+        "Tld": "ne",
         "Languages": [ "fr" ],
         "Currency": "XOF",
         "Capital": "niamey",
         "Size": 1267000,
         "Phone": "+227",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "ng" ,
-        "English": "Nigeria" ,
-        "Local": "Federal Republic of Nigeria" ,
-        "OfficialStateName": "Federal Republic of Nigeria" ,
-        "ISO2": "NG" ,
-        "ISO3": "NGA" ,
-        "Tld": "ng" ,
+        "Key": "ng",
+        "English": "Nigeria",
+        "Local": "Federal Republic of Nigeria",
+        "OfficialStateName": "Federal Republic of Nigeria",
+        "ISO2": "NG",
+        "ISO3": "NGA",
+        "Tld": "ng",
         "Languages": [ "en" ],
         "Currency": "NGN",
         "Capital": "abuja",
         "Size": 923768,
         "Phone": "+234",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "nu" ,
-        "English": "Niue" ,
-        "Local": "Niuē" ,
-        "OfficialStateName": "Niue" ,
-        "ISO2": "NU" ,
-        "ISO3": "NIU" ,
-        "Tld": "nu" ,
+        "Key": "nu",
+        "English": "Niue",
+        "Local": "Niuē",
+        "OfficialStateName": "Niue",
+        "ISO2": "NU",
+        "ISO3": "NIU",
+        "Tld": "nu",
         "Languages": [ "en" ],
         "Currency": "NZD",
         "Capital": "alofi",
         "Size": 261.46,
         "Phone": "+683",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "nf" ,
-        "English": "Norfolk Island" ,
-        "Local": "Territory of Norfolk Island" ,
-        "OfficialStateName": "Territory of Norfolk Island" ,
-        "ISO2": "NF" ,
-        "ISO3": "NFK" ,
-        "Tld": "nf" ,
+        "Key": "nf",
+        "English": "Norfolk Island",
+        "Local": "Territory of Norfolk Island",
+        "OfficialStateName": "Territory of Norfolk Island",
+        "ISO2": "NF",
+        "ISO3": "NFK",
+        "Tld": "nf",
         "Languages": [ "en" ],
         "Currency": "AUD",
         "Capital": "kingston",
         "Size": 34.6,
         "Phone": "+672",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
-     
+
     {
-        "Key": "mp" ,
-        "English": "Northern Mariana Islands" ,
-        "Local": "Commonwealth of the Northern Mariana Islands" ,
-        "OfficialStateName": "Commonwealth of the Northern Mariana Islands" ,
-        "ISO2": "MP" ,
-        "ISO3": "MNP" ,
-        "Tld": "mp" ,
+        "Key": "mp",
+        "English": "Northern Mariana Islands",
+        "Local": "Commonwealth of the Northern Mariana Islands",
+        "OfficialStateName": "Commonwealth of the Northern Mariana Islands",
+        "ISO2": "MP",
+        "ISO3": "MNP",
+        "Tld": "mp",
         "Languages": [ "ch", "en" ],
         "Currency": "USD",
         "Capital": "saipan",
         "Size": 464,
         "Phone": "+1-670",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "MDY" ]
     },
-     
+
     {
-        "Key": "no" ,
-        "English": "Norway" ,
-        "Local": "Kongeriket Norge" ,
-        "OfficialStateName": "Kingdom of Norway" ,
-        "ISO2": "NO" ,
-        "ISO3": "NOR" ,
-        "Tld": "no" ,
-        "Languages": [ "no-nb" , "no-nn" ],
+        "Key": "no",
+        "English": "Norway",
+        "Local": "Kongeriket Norge",
+        "OfficialStateName": "Kingdom of Norway",
+        "ISO2": "NO",
+        "ISO3": "NOR",
+        "Tld": "no",
+        "Languages": [ "no-nb", "no-nn" ],
         "Currency": "NOK",
         "Capital": "oslo",
         "Size": 385207,
         "Phone": "+47",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -2556,7 +2874,9 @@
         "Capital": "muscat",
         "Size": 309500,
         "Phone": "+968",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2572,14 +2892,16 @@
         "Capital": "islamabad",
         "Size": 881913,
         "Phone": "+92",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
 
     {
         "Key": "pw",
         "English": "Palau",
         "Local": "Beluu er a Belau",
-        "OfficialStateName": "State of Palestine",
+        "OfficialStateName": "Republic of Palau",
         "ISO2": "PW",
         "ISO3": "PLW",
         "Tld": "pw",
@@ -2588,7 +2910,9 @@
         "Capital": "ngerulmud",
         "Size": 459,
         "Phone": "+680",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2604,7 +2928,9 @@
         "Capital": "ramallah",
         "Size": 6020,
         "Phone": "+970",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2620,7 +2946,9 @@
         "Capital": "panama_city",
         "Size": 75417,
         "Phone": "+507",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "MDY" ]
     },
 
     {
@@ -2636,7 +2964,9 @@
         "Capital": "port_moresby",
         "Size": 462840,
         "Phone": "+675",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2652,7 +2982,9 @@
         "Capital": "asuncion",
         "Size": 406752,
         "Phone": "+595",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2668,7 +3000,9 @@
         "Capital": "lima",
         "Size": 1285216,
         "Phone": "+51",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2684,7 +3018,9 @@
         "Capital": "manila",
         "Size": 300000,
         "Phone": "+63",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "MDY" ]
     },
 
     {
@@ -2700,7 +3036,9 @@
         "Capital": "adamstown",
         "Size": 47,
         "Phone": "+64",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2716,7 +3054,9 @@
         "Capital": "warsaw",
         "Size": 312696,
         "Phone": "+48",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -2732,7 +3072,9 @@
         "Capital": "lisbon",
         "Size": 92212,
         "Phone": "+351",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -2748,7 +3090,9 @@
         "Capital": "san_juan",
         "Size": 9104,
         "Phone": "+1-787",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "MDY" ]
     },
 
     {
@@ -2764,7 +3108,9 @@
         "Capital": "doha",
         "Size": 11581,
         "Phone": "+974",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2780,7 +3126,9 @@
         "Capital": "saint-denis",
         "Size": 2511,
         "Phone": "+262",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2796,7 +3144,9 @@
         "Capital": "bucharest",
         "Size": 238397,
         "Phone": "+40",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -2812,7 +3162,9 @@
         "Capital": "moscow",
         "Size": 17098246,
         "Phone": "+7",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -2828,7 +3180,9 @@
         "Capital": "kigali",
         "Size": 26338,
         "Phone": "+250",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -2844,7 +3198,9 @@
         "Capital": "gustavia",
         "Size": 25,
         "Phone": "+590",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2860,7 +3216,9 @@
         "Capital": "jamestown",
         "Size": 394,
         "Phone": "+290",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2876,7 +3234,9 @@
         "Capital": "castries",
         "Size": 617,
         "Phone": "+1-758",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2892,7 +3252,9 @@
         "Capital": "marigot",
         "Size": 53.2,
         "Phone": "+590",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2908,7 +3270,9 @@
         "Capital": "saint-pierre",
         "Size": 242,
         "Phone": "+508",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2924,7 +3288,9 @@
         "Capital": "kingstown",
         "Size": 389,
         "Phone": "+1-784",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2940,7 +3306,9 @@
         "Capital": "apia",
         "Size": 2842,
         "Phone": "+685",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2956,7 +3324,9 @@
         "Capital": "san_marino",
         "Size": 61.2,
         "Phone": "+378",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2972,7 +3342,9 @@
         "Capital": "sao_tome",
         "Size": 1001,
         "Phone": "+239",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -2988,7 +3360,9 @@
         "Capital": "riyadh",
         "Size": 2149690,
         "Phone": "+966",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
     {
         "Key": "sn",
@@ -3003,7 +3377,9 @@
         "Capital": "dakar",
         "Size": 196712,
         "Phone": "+221",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3019,7 +3395,9 @@
         "Capital": "belgrade",
         "Size": 88361,
         "Phone": "+381",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3035,7 +3413,9 @@
         "Capital": "victoria",
         "Size": 459,
         "Phone": "+248",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3051,7 +3431,9 @@
         "Capital": "freetown",
         "Size": 71740,
         "Phone": "+232",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3067,7 +3449,9 @@
         "Capital": "singapore",
         "Size": 725.7,
         "Phone": "+65",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -3083,7 +3467,9 @@
         "Capital": "philipsburg",
         "Size": 34,
         "Phone": "+1-721",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3099,7 +3485,9 @@
         "Capital": "bratislava",
         "Size": 49035,
         "Phone": "+421",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3115,7 +3503,9 @@
         "Capital": "ljubljana",
         "Size": 20273,
         "Phone": "+386",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3131,7 +3521,9 @@
         "Capital": "honiara",
         "Size": 28400,
         "Phone": "+677",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3147,7 +3539,9 @@
         "Capital": "mogadishu",
         "Size": 637657,
         "Phone": "+252",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3163,7 +3557,9 @@
         "Capital": "pretoria",
         "Size": 1221037,
         "Phone": "+27",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -3179,7 +3575,9 @@
         "Capital": "king_edward_point",
         "Size": 3903,
         "Phone": "+500",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3195,7 +3593,9 @@
         "Capital": "juba",
         "Size": 619745,
         "Phone": "+211",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3211,7 +3611,9 @@
         "Capital": "madrid",
         "Size": 505990,
         "Phone": "+34",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -3227,7 +3629,9 @@
         "Capital": "sri_jayawardenepura_kotte",
         "Size": 65610,
         "Phone": "+94",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -3243,7 +3647,9 @@
         "Capital": "khartoum",
         "Size": 1886068,
         "Phone": "+249",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3259,7 +3665,9 @@
         "Capital": "paramaribo",
         "Size": 163821,
         "Phone": "+597",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3275,7 +3683,9 @@
         "Capital": "longyearbyen",
         "Size": 61022,
         "Phone": "+47",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3291,7 +3701,9 @@
         "Capital": "stockholm",
         "Size": 450295,
         "Phone": "+46",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -3307,7 +3719,9 @@
         "Capital": "damascus",
         "Size": 185180,
         "Phone": "+963",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3323,7 +3737,9 @@
         "Capital": "taipei",
         "Size": 36197,
         "Phone": "+886",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "YMD" ]
     },
 
     {
@@ -3339,7 +3755,9 @@
         "Capital": "dushanbe",
         "Size": 143100,
         "Phone": "+992",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3355,7 +3773,9 @@
         "Capital": "dodoma",
         "Size": 947303,
         "Phone": "+255",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3371,7 +3791,9 @@
         "Capital": "bangkok",
         "Size": 513120,
         "Phone": "+66",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3387,7 +3809,9 @@
         "Capital": "dili",
         "Size": 15007,
         "Phone": "+670",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3403,7 +3827,9 @@
         "Capital": "lome",
         "Size": 56785,
         "Phone": "+228",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "MDY" ]
     },
 
     {
@@ -3419,7 +3845,9 @@
         "Capital": "nukunonu",
         "Size": 10,
         "Phone": "+690",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3435,7 +3863,9 @@
         "Capital": "nuku_alofa",
         "Size": 748,
         "Phone": "+676",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3451,7 +3881,9 @@
         "Capital": "port_of_spain",
         "Size": 5131,
         "Phone": "+1-868",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3467,7 +3899,9 @@
         "Capital": "tunis",
         "Size": 163610,
         "Phone": "+216",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3483,7 +3917,9 @@
         "Capital": "ankara",
         "Size": 783356,
         "Phone": "+90",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3499,7 +3935,9 @@
         "Capital": "ashgabat",
         "Size": 491210,
         "Phone": "+993",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3515,7 +3953,9 @@
         "Capital": "cockburn_town",
         "Size": 616.3,
         "Phone": "+1-649",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3531,7 +3971,9 @@
         "Capital": "funafuti",
         "Size": 26,
         "Phone": "+688",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3547,7 +3989,9 @@
         "Capital": "kampala",
         "Size": 241038,
         "Phone": "+256",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3563,7 +4007,9 @@
         "Capital": "kiev",
         "Size": 603628,
         "Phone": "+380",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3579,7 +4025,9 @@
         "Capital": "abu_dhabi",
         "Size": 83600,
         "Phone": "+971",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3595,7 +4043,9 @@
         "Capital": "london",
         "Size": 242495,
         "Phone": "+44",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "left",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -3611,7 +4061,9 @@
         "Capital": "washington_dc",
         "Size": 34.2,
         "Phone": "+1",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "MDY" ]
     },
 
     {
@@ -3627,7 +4079,9 @@
         "Capital": "washington_dc",
         "Size": 9833520,
         "Phone": "+1",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "MDY", "YMD" ]
     },
 
     {
@@ -3643,7 +4097,9 @@
         "Capital": "montevideo",
         "Size": 176215,
         "Phone": "+598",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3659,7 +4115,9 @@
         "Capital": "tashkent",
         "Size": 448978,
         "Phone": "+998",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "YMD" ]
     },
 
     {
@@ -3675,7 +4133,9 @@
         "Capital": "port_vila",
         "Size": 12189,
         "Phone": "+678",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3691,7 +4151,9 @@
         "Capital": "vatican_city",
         "Size": 0.49,
         "Phone": "+379",
-        "Continent": "europe"
+        "Continent": "europe",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -3707,7 +4169,9 @@
         "Capital": "caracas",
         "Size": 916445,
         "Phone": "+58",
-        "Continent": "south_america"
+        "Continent": "south_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3723,7 +4187,9 @@
         "Capital": "hanoi",
         "Size": 331212,
         "Phone": "+84",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY", "YMD" ]
     },
 
     {
@@ -3739,7 +4205,9 @@
         "Capital": "road_town",
         "Size": 153,
         "Phone": "+1-284",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3755,7 +4223,9 @@
         "Capital": "charlotte_amalie",
         "Size": 346,
         "Phone": "+1-340",
-        "Continent": "north_america"
+        "Continent": "north_america",
+        "DrivingSide": "right",
+        "DateFormat": [ "MDY" ]
     },
 
     {
@@ -3771,7 +4241,9 @@
         "Capital": "matautu",
         "Size": 142,
         "Phone": "+681",
-        "Continent": "oceania"
+        "Continent": "oceania",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3787,7 +4259,9 @@
         "Capital": "sanaa",
         "Size": 527968,
         "Phone": "+967",
-        "Continent": "asia"
+        "Continent": "asia",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3803,7 +4277,9 @@
         "Capital": "lusaka",
         "Size": 752618,
         "Phone": "+260",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     },
 
     {
@@ -3819,6 +4295,8 @@
         "Capital": "harare",
         "Size": 390757,
         "Phone": "+263",
-        "Continent": "africa"
+        "Continent": "africa",
+        "DrivingSide": "right",
+        "DateFormat": [ "DMY" ]
     }
 ]

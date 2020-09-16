@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "washington_dc",
+        "English": "Washington D.C",
+        "Local": "Washington D.C",
+        "State": "US-DC",
+        "Area": 177,
+        "Elevation": 125,
+        "Coordinates": {
+            "N": 38.904722,
+            "E": -77.016389
+        },
+        "TimeZone": -5
+    }
+]

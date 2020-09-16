@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "paris",
+        "English": "Paris",
+        "Local": "Paris",
+        "State": "FR-IDF",
+        "Area": 105.4,
+        "Elevation": 35,
+        "Coordinates": {
+            "N": 48.856613,
+            "E": 2.352222
+        },
+        "TimeZone": 1
+    }
+]

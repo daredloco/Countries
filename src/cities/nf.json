@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "kingston",
+        "English": "Kingston",
+        "Local": "Daun a'Taun",
+        "State": "NF",
+        "Area": 35,
+        "Elevation": 20,
+        "Coordinates": {
+            "N": -29.05,
+            "E": 167.966667
+        },
+        "TimeZone": 11
+    }
+]

@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "moroni",
+        "English": "Moroni",
+        "Local": "Mūrūnī",
+        "State": "KM-G",
+        "Area": 30,
+        "Elevation": 29,
+        "Coordinates": {
+            "N": -11.699,
+            "E": 43.256
+        },
+        "TimeZone": 3
+    }
+]

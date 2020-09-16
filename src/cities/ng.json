@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "abuja",
+        "English": "Abuja",
+        "Local": "Abuja",
+        "State": "NG-FC",
+        "Area": 1769,
+        "Elevation": 840,
+        "Coordinates": {
+            "N": 9.066667,
+            "E": 7.483333
+        },
+        "TimeZone": 1
+    }
+]

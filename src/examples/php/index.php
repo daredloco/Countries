@@ -6,17 +6,25 @@
  *
  * Copyrights: Roman Wanner 2020
  */
-include('../../codes/php/Countries.php'); //Includes the Countries.php file
-use Rowa\Countries as Countries; //loads the class from the file and sets it as "Countries"
-
-$countries = new Countries(); //creates a new instance of "RoWa\Countries"
+include('Countries.php');
+use Rowa\Countries as Countries;
+use Rowa\Cities as Cities;
+$countries = new Countries('countries.json');
+$cities = new Cities();
 ?>
 <html>
 <?php
 echo '<b>Object:</b><br>';
-print_r($countries->getCountry('ch')); //prints the whole content of the array for the country "ch"
+print_r($countries->getCountry('ch'));
 echo '<br><br>';
 echo '<b>Single Key (Size):</b><br>';
-echo $countries->getCountry('ch')->Size; //Gets a single key "Size" and returns its value
+echo $countries->getCountry('ch')->Size;
+echo '<br><br><br>';
+echo count($countries->data);
+echo '<br><br><br>';
+echo "City: ".$cities->getCity('bern')->English;
+echo '<br><br><br>';
+echo '<b>Cities:</b><br>';
+print_r($cities->getCitiesFromCountry('ch'));
 ?>
 </html>

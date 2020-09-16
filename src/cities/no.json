@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "oslo",
+        "English": "Oslo",
+        "Local": "Oslo",
+        "State": "NO-03",
+        "Area": 480.75,
+        "Elevation": 23,
+        "Coordinates": {
+            "N": 59.913889,
+            "E": 10.752222
+        },
+        "TimeZone": 1
+    }
+]

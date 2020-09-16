@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "stockholm",
+        "English": "Stockholm",
+        "Local": "Stockholm",
+        "State": "SE-AB",
+        "Area": 188,
+        "Elevation": 28,
+        "Coordinates": {
+            "N": 59.329444,
+            "E": 18.068611
+        },
+        "TimeZone": 1
+    }
+]

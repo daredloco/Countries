@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "mexico_city",
+        "English": "Mexico City",
+        "Local": "Ciudad de México",
+        "State": "MX-CMX",
+        "Area": 1485,
+        "Elevation": 2240,
+        "Coordinates": {
+            "N": 19.433333,
+            "E": -99.133333
+        },
+        "TimeZone": -6
+    }
+]

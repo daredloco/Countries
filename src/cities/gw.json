@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "bissau",
+        "English": "Bissau",
+        "Local": "Bissau",
+        "State": "GW-BS",
+        "Area": 77.5,
+        "Elevation": 0,
+        "Coordinates": {
+            "N": 11.85,
+            "E": -15.566667
+        },
+        "TimeZone": 0
+    }
+]

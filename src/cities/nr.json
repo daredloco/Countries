@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "yaren",
+        "English": "Yaren",
+        "Local": "Yaren",
+        "State": "NR-14",
+        "Area": 1.5,
+        "Elevation": 25,
+        "Coordinates": {
+            "N": -0.5477,
+            "E": 166.920867
+        },
+        "TimeZone": 12
+    }
+]

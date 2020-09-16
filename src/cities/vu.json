@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "port_vila",
+        "English": "Port Vila",
+        "Local": "Vila",
+        "State": "VU-SEE",
+        "Area": 23.6,
+        "Elevation": 59,
+        "Coordinates": {
+            "N": -17.733333,
+            "E": 168.316667
+        },
+        "TimeZone": 11
+    }
+]

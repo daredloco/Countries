@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "manama",
+        "English": "Manama",
+        "Local": "al-Manāma",
+        "State": "BH-13",
+        "Area": 30,
+        "Elevation": 1,
+        "Coordinates": {
+            "N": 26.216667,
+            "E": 50.583333
+        },
+        "TimeZone": 3
+    }
+]

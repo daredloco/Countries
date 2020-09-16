@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "port_of_spain",
+        "English": "Port of Spain",
+        "Local": "Port of Spain",
+        "State": "TT-POS",
+        "Area": 12,
+        "Elevation": 66,
+        "Coordinates": {
+            "N": 10.666667,
+            "E": -61.516667
+        },
+        "TimeZone": -4
+    }
+]

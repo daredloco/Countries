@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "luanda",
+        "English": "Luanda",
+        "Local": "Luanda",
+        "State": "AO-LUA",
+        "Area": 116,
+        "Elevation": 6,
+        "Coordinates": {
+            "N": -8.838333,
+            "E": 13.234444
+        },
+        "TimeZone": 1
+    }
+]

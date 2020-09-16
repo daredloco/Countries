@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "tripoli",
+        "English": "Tripoli",
+        "Local": "Ṭarābulus",
+        "State": "LY-TB",
+        "Area": 400,
+        "Elevation": 81,
+        "Coordinates": {
+            "N": 32.887222,
+            "E": 13.191389
+        },
+        "TimeZone": 2
+    }
+]

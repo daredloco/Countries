@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "bujumbura",
+        "English": "Bujumbura",
+        "Local": "Bujumbura",
+        "State": "BI-BM",
+        "Area": 127,
+        "Elevation": 774,
+        "Coordinates": {
+            "N": -3.383333,
+            "E": 29.366667
+        },
+        "TimeZone": 2
+    }
+]

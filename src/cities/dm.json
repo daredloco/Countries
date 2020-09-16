@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "roseau",
+        "English": "Roseau",
+        "Local": "Wozo",
+        "State": "DM-04",
+        "Area": -1,
+        "Elevation": 43,
+        "Coordinates": {
+            "N": 15.301389,
+            "E": -61.388333
+        },
+        "TimeZone": -4
+    }
+]

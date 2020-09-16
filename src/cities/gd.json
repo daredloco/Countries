@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "st_georges",
+        "English": "St. George's",
+        "Local": "St. George's",
+        "State": "GD-03",
+        "Area": -1,
+        "Elevation": 79,
+        "Coordinates": {
+            "N": 12.05,
+            "E": -61.75
+        },
+        "TimeZone": -4
+    }
+]

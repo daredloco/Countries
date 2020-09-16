@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "lima",
+        "English": "Lima",
+        "Local": "Lima",
+        "State": "PE-LMA",
+        "Area": 2672,
+        "Elevation": 1000,
+        "Coordinates": {
+            "N": -12.05,
+            "E": -77.033333
+        },
+        "TimeZone": -5
+    }
+]

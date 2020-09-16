@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "willemstad",
+        "English": "Willemstad",
+        "Local": "Willemstad",
+        "State": "NL-CW",
+        "Area": 0.86,
+        "Elevation": 40,
+        "Coordinates": {
+            "N": 12.116667,
+            "E": -68.933333
+        },
+        "TimeZone": -4
+    }
+]

@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "cockburn_town",
+        "English": "Cockburn Town",
+        "Local": "Cockburn Town",
+        "State": "TC",
+        "Area": 17.39,
+        "Elevation": 3,
+        "Coordinates": {
+            "N": 21.459,
+            "E": -71.139
+        },
+        "TimeZone": -5
+    }
+]

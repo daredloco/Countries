@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "prague",
+        "English": "Prague",
+        "Local": "Praha",
+        "State": "CZ-A",
+        "Area": 496,
+        "Elevation": 177,
+        "Coordinates": {
+            "N": 50.083333,
+            "E": 14.416667
+        },
+        "TimeZone": 1
+    }
+]

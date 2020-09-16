@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "khartoum",
+        "English": "Khartoum",
+        "Local": "Al-Khurṭūm",
+        "State": "SD-KH",
+        "Area": 22142,
+        "Elevation": 381,
+        "Coordinates": {
+            "N": 15.500556,
+            "E": 32.56
+        },
+        "TimeZone": 2
+    }
+]

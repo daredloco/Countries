@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "addis_ababa",
+        "English": "Addis Ababa",
+        "Local": "Addis Abäba",
+        "State": "ET-AA",
+        "Area": 527,
+        "Elevation": 2355,
+        "Coordinates": {
+            "N": 9.03,
+            "E": 38.74
+        },
+        "TimeZone": 3
+    }
+]

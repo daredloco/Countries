@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "saipan",
+        "English": "Saipan",
+        "Local": "Saipan",
+        "State": "MP",
+        "Area": 115,
+        "Elevation": 475,
+        "Coordinates": {
+            "N": 15.183333,
+            "E": 145.75
+        },
+        "TimeZone": 10
+    }
+]

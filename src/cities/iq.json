@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "baghdad",
+        "English": "Baghdad",
+        "Local": "Baghdad",
+        "State": "IQ-BG",
+        "Area": 204.2,
+        "Elevation": 34,
+        "Coordinates": {
+            "N": 33.333333,
+            "E": 44.383333
+        },
+        "TimeZone": 3
+    }
+]

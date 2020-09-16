@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "njamena",
+        "English": "N’Djamena",
+        "Local": "N'Djaména",
+        "State": "TD-ND",
+        "Area": 104,
+        "Elevation": 298,
+        "Coordinates": {
+            "N": 12.134722,
+            "E": 15.055833
+        },
+        "TimeZone": 1
+    }
+]

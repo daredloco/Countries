@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "lome",
+        "English": "Lomé",
+        "Local": "Lomé",
+        "State": "TG-M",
+        "Area": 99.14,
+        "Elevation": 10,
+        "Coordinates": {
+            "N": 6.131944,
+            "E": 1.222778
+        },
+        "TimeZone": 0
+    }
+]

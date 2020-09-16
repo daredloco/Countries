@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "ashgabat",
+        "English": "Ashgabat",
+        "Local": "Aşgabat",
+        "State": "TM-S",
+        "Area": 440,
+        "Elevation": 219,
+        "Coordinates": {
+            "N": 37.933333,
+            "E": 58.366667
+        },
+        "TimeZone": 5
+    }
+]

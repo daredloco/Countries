@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "rome",
+        "English": "Rome",
+        "Local": "Roma",
+        "State": "IT-62",
+        "Area": 1285,
+        "Elevation": 21,
+        "Coordinates": {
+            "N": 41.883333,
+            "E": 12.5
+        },
+        "TimeZone": 1
+    }
+]

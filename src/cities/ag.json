@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "st_johns",
+        "English": "St. John's",
+        "Local": "St. John's",
+        "State": "AG-04",
+        "Area": 10,
+        "Elevation": 59,
+        "Coordinates": {
+            "N": 17.116667,
+            "E": -61.85
+        },
+        "TimeZone": -4
+    }
+]

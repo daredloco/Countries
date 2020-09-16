@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "bangui",
+        "English": "Bangui",
+        "Local": "Bangî",
+        "State": "CF-BGF",
+        "Area": 67,
+        "Elevation": 369,
+        "Coordinates": {
+            "N": 4.373333,
+            "E": 18.562778
+        },
+        "TimeZone": 1
+    }
+]
