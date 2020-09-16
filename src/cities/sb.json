@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "honiara",
+        "English": "Honiara",
+        "Local": "Honiara",
+        "State": "SB-CT",
+        "Area": 22,
+        "Elevation": 29,
+        "Coordinates": {
+            "N": -9.431944,
+            "E": 159.955556
+        },
+        "TimeZone": 11
+    }
+]

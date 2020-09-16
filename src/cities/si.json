@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "ljubljana",
+        "English": "Ljubljana",
+        "Local": "Ljubljana",
+        "State": "SI-061",
+        "Area": 163.8,
+        "Elevation": 295,
+        "Coordinates": {
+            "N": 46.055556,
+            "E": 14.508333
+        },
+        "TimeZone": 1
+    }
+]

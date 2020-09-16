@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "victoria",
+        "English": "Victoria",
+        "Local": "Victoria",
+        "State": "SC-16",
+        "Area": 20.1,
+        "Elevation": 6,
+        "Coordinates": {
+            "N": -4.6167,
+            "E": 55.45
+        },
+        "TimeZone": 4
+    }
+]

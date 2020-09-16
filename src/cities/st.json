@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "sao_tome",
+        "English": "São Tomé",
+        "Local": "São Tomé",
+        "State": "ST-S",
+        "Area": 17,
+        "Elevation": 137,
+        "Coordinates": {
+            "N": 0.336111,
+            "E": 6.730556
+        },
+        "TimeZone": 0
+    }
+]

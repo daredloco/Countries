@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "bucharest",
+        "English": "Bucharest",
+        "Local": "București",
+        "State": "RO-B",
+        "Area": 228,
+        "Elevation": 56,
+        "Coordinates": {
+            "N": 44.4325,
+            "E": 26.103889
+        },
+        "TimeZone": 2
+    }
+]

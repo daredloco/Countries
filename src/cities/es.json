@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "madrid",
+        "English": "Madrid",
+        "Local": "Madrid",
+        "State": "ES-MD",
+        "Area": 604.31,
+        "Elevation": 667,
+        "Coordinates": {
+            "N": 40.416667,
+            "E": -3.716667
+        },
+        "TimeZone": 1
+    }
+]

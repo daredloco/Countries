@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "mogadishu",
+        "English": "Mogadishu",
+        "Local": "Muqdisho",
+        "State": "SO-BN",
+        "Area": 800,
+        "Elevation": 9,
+        "Coordinates": {
+            "N": 2.033333,
+            "E": 45.333333
+        },
+        "TimeZone": 3
+    }
+]

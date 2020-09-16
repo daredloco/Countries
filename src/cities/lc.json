@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "castries",
+        "English": "Castries",
+        "Local": "Castries",
+        "State": "LC-02",
+        "Area": 79,
+        "Elevation": 2,
+        "Coordinates": {
+            "N": 14.016667,
+            "E": -60.983333
+        },
+        "TimeZone": -4
+    }
+]

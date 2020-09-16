@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "king_edward_point",
+        "English": "King Edward Point",
+        "Local": "King Edward Point",
+        "State": "GS",
+        "Area": -1,
+        "Elevation": 7,
+        "Coordinates": {
+            "N": -54.283333,
+            "E": -36.5
+        },
+        "TimeZone": -2
+    }
+]

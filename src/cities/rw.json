@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "kigali",
+        "English": "Kigali",
+        "Local": "Kigali",
+        "State": "RW-01",
+        "Area": 730,
+        "Elevation": 1567,
+        "Coordinates": {
+            "N": -1.943889,
+            "E": 30.059444
+        },
+        "TimeZone": 2
+    }
+]

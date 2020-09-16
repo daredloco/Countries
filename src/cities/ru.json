@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "moscow",
+        "English": "Moscow",
+        "Local": "Moskva",
+        "State": "RU-MOW",
+        "Area": 2511,
+        "Elevation": 786,
+        "Coordinates": {
+            "N": 55.755833,
+            "E": 37.617222
+        },
+        "TimeZone": 3
+    }
+]

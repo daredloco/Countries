@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "bratislava",
+        "English": "Bratislava",
+        "Local": "Bratislava",
+        "State": "SK-BL",
+        "Area": 367.584,
+        "Elevation": 134,
+        "Coordinates": {
+            "N": 48.143889,
+            "E": 17.109722
+        },
+        "TimeZone": 1
+    }
+]

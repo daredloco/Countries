@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "paramaribo",
+        "English": "Paramaribo",
+        "Local": "Paramaribo",
+        "State": "SR-PM",
+        "Area": 182,
+        "Elevation": 3,
+        "Coordinates": {
+            "N": 5.852222,
+            "E": -55.203889
+        },
+        "TimeZone": -3
+    }
+]
