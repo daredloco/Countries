@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "jamestown",
+        "English": "Jamestown",
+        "Local": "Jamestown",
+        "State": "SH-HL",
+        "Area": 3.6,
+        "Elevation": 12,
+        "Coordinates": {
+            "N": -15.924444,
+            "E": -5.718056
+        },
+        "TimeZone": 0
+    }
+]

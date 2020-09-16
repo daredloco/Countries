@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "riyadh",
+        "English": "Riyadh",
+        "Local": "ar-Riyāḍ",
+        "State": "SA-01",
+        "Area": 1913,
+        "Elevation": 612,
+        "Coordinates": {
+            "N": 24.633333,
+            "E": 46.716667
+        },
+        "TimeZone": 3
+    }
+]

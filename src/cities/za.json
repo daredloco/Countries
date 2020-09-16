@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "pretoria",
+        "English": "Pretoria",
+        "Local": "Tshwane",
+        "State": "ZA-GP",
+        "Area": 687.54,
+        "Elevation": 1339,
+        "Coordinates": {
+            "N": -25.746111,
+            "E": 28.188056
+        },
+        "TimeZone": 2
+    }
+]

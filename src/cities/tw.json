@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "taipei",
+        "English": "Taipei",
+        "Local": "Taipei",
+        "State": "TW-TPE",
+        "Area": 271.80,
+        "Elevation": 9,
+        "Coordinates": {
+            "N": 25.066667,
+            "E": 121.516667
+        },
+        "TimeZone": 8
+    }
+]

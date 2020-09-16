@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "kingstown",
+        "English": "Kingstown",
+        "Local": "Kingstown",
+        "State": "VC-04",
+        "Area": -1,
+        "Elevation": 11,
+        "Coordinates": {
+            "N": 13.157778,
+            "E": -61.225
+        },
+        "TimeZone": -4
+    }
+]

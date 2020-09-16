@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "philipsburg",
+        "English": "Philipsburg",
+        "Local": "Philipsburg",
+        "State": "NL-SX",
+        "Area": -1,
+        "Elevation": 3,
+        "Coordinates": {
+            "N": 18.0237,
+            "E": -63.0458
+        },
+        "TimeZone": -4
+    }
+]

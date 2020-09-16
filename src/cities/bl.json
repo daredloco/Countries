@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "gustavia",
+        "English": "Gustavia",
+        "Local": "Gustavia",
+        "State": "FR-BL",
+        "Area": 3.4,
+        "Elevation": 17,
+        "Coordinates": {
+            "N": 17.897908,
+            "E": -62.850556
+        },
+        "TimeZone": -4
+    }
+]

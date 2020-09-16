@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "singapore",
+        "English": "Singapore",
+        "Local": "Singapore",
+        "State": "SG-01",
+        "Area": 725.7,
+        "Elevation": 15,
+        "Coordinates": {
+            "N": 1.283333,
+            "E": 103.833333
+        },
+        "TimeZone": 8
+    }
+]
