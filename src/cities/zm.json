@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "lusaka",
+        "English": "Lusaka",
+        "Local": "Lusaka",
+        "State": "ZM-09",
+        "Area": 418,
+        "Elevation": 1279,
+        "Coordinates": {
+            "N": -15.416667,
+            "E": 28.283333
+        },
+        "TimeZone": 2
+    }
+]

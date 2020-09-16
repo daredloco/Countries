@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "london",
+        "English": "London",
+        "Local": "London",
+        "State": "GB-LND",
+        "Area": 1572,
+        "Elevation": 11,
+        "Coordinates": {
+            "N": 51.507222,
+            "E": -0.1275
+        },
+        "TimeZone": 0
+    }
+]

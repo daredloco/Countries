@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "abu_dhabi",
+        "English": "Abu Dhabi",
+        "Local": "Abū Ẓaby",
+        "State": "AE-AZ",
+        "Area": 972,
+        "Elevation": 27,
+        "Coordinates": {
+            "N": 24.466667,
+            "E": 54.366667
+        },
+        "TimeZone": 4
+    }
+]

@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "harare",
+        "English": "Harare",
+        "Local": "Harare",
+        "State": "ZW-HA",
+        "Area": 960.6,
+        "Elevation": 1490,
+        "Coordinates": {
+            "N": -17.829167,
+            "E": 31.052222
+        },
+        "TimeZone": 2
+    }
+]

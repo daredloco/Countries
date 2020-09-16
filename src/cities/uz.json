@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "tashkent",
+        "English": "Tashkent",
+        "Local": "Tashkent",
+        "State": "UZ-TK",
+        "Area": 334.8,
+        "Elevation": 455,
+        "Coordinates": {
+            "N": 41.3,
+            "E": 69.266667
+        },
+        "TimeZone": 5
+    }
+]

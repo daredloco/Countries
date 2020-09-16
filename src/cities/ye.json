@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "sanaa",
+        "English": "Sanaa",
+        "Local": "Ṣanʿāʾ",
+        "State": "YE-SA",
+        "Area": 126,
+        "Elevation": 2250,
+        "Coordinates": {
+            "N": 15.348333,
+            "E": 44.206389
+        },
+        "TimeZone": 3
+    }
+]
