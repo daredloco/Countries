@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "dushanbe",
+        "English": "Dushanbe",
+        "Local": "Dushanbe",
+        "State": "TJ-DU",
+        "Area": 124.6,
+        "Elevation": 823,
+        "Coordinates": {
+            "N": 38.536667,
+            "E": 68.78
+        },
+        "TimeZone": 5
+    }
+]

@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "funafuti",
+        "English": "Funafuti",
+        "Local": "Funafuti",
+        "State": "TV-FUN",
+        "Area": 2.4,
+        "Elevation": 5,
+        "Coordinates": {
+            "N": -8.516667,
+            "E": 179.2
+        },
+        "TimeZone": 8
+    }
+]

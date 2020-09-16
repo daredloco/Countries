@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "dili",
+        "English": "Dili",
+        "Local": "Díli",
+        "State": "TL-DI",
+        "Area": 48.27,
+        "Elevation": 11,
+        "Coordinates": {
+            "N": -8.566667,
+            "E": 125.566667
+        },
+        "TimeZone": 9
+    }
+]

@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Key": "bangkok",
+        "English": "Bangkok",
+        "Local": "Krung Thep Maha Nakhon",
+        "State": "TH-10",
+        "Area": 1568.737,
+        "Elevation": 1.5,
+        "Coordinates": {
+            "N": 13.7525,
+            "E": 100.494167
+        },
+        "TimeZone": 7
+    }
+]
